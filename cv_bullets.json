@@ -1,0 +1,9 @@
+{
+  "name": "EPFO Net Payroll Dashboard (Excel)",
+  "tech": "Excel, Power Query (PDF), XLOOKUP, SUMIFS, INDEX/MATCH, dynamic arrays, PivotTables, slicers",
+  "bullets": [
+    "Extracted EPFO's six state-by-age tables from a 24-page PDF with Power Query into a 2,304-row table that adds up exactly to EPFO's subtotals, and kept a cleaning log including a Bihar value 10 times the years around it",
+    "Built an Excel dashboard driven by state, year and age dropdowns, with a SUMIFS state-by-year heat map and PivotTables with slicers",
+    "Found that 18-25 year olds fell from 67.3% to 49.1% of net EPF additions between 2018-19 and 2024-25, and that 26 of 32 states and UTs added fewer members in 2024-25 than in 2022-23, India's peak year"
+  ]
+}

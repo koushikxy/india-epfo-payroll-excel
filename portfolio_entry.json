@@ -1,0 +1,7 @@
+{
+  "title": "Who is joining India's formal payroll",
+  "description": "Excel dashboard of EPFO net payroll by state and age, built from a PDF",
+  "tools": "Excel, Power Query",
+  "slug": "india-epfo-payroll-excel",
+  "cover": "screenshots/cover.png"
+}

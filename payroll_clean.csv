@@ -1,0 +1,2305 @@
+FY,Period,PeriodType,SourceName,State,Region,Age,NetPayroll
+2017-18,2017-18 (Sep-Mar),Part year,TAMIL NADU,Tamil Nadu,South,Less than 18,8605
+2018-19,2018-19,Year,TAMIL NADU,Tamil Nadu,South,Less than 18,24528
+2019-20,2019-20,Year,TAMIL NADU,Tamil Nadu,South,Less than 18,23336
+2020-21,2020-21,Year,TAMIL NADU,Tamil Nadu,South,Less than 18,18788
+2021-22,2021-22,Year,TAMIL NADU,Tamil Nadu,South,Less than 18,17968
+2022-23,2022-23,Year,TAMIL NADU,Tamil Nadu,South,Less than 18,15763
+2023-24,2023-24,Year,TAMIL NADU,Tamil Nadu,South,Less than 18,15989
+2024-25,2024-25,Year,TAMIL NADU,Tamil Nadu,South,Less than 18,13540
+2025-26,Apr 2025,Month,TAMIL NADU,Tamil Nadu,South,Less than 18,2366
+2025-26,May 2025,Month,TAMIL NADU,Tamil Nadu,South,Less than 18,1880
+2025-26,Jun 2025,Month,TAMIL NADU,Tamil Nadu,South,Less than 18,1953
+2025-26,Jul 2025,Month,TAMIL NADU,Tamil Nadu,South,Less than 18,1772
+2017-18,2017-18 (Sep-Mar),Part year,MAHARASHTRA,Maharashtra,West,Less than 18,5449
+2018-19,2018-19,Year,MAHARASHTRA,Maharashtra,West,Less than 18,12562
+2019-20,2019-20,Year,MAHARASHTRA,Maharashtra,West,Less than 18,10893
+2020-21,2020-21,Year,MAHARASHTRA,Maharashtra,West,Less than 18,8751
+2021-22,2021-22,Year,MAHARASHTRA,Maharashtra,West,Less than 18,9021
+2022-23,2022-23,Year,MAHARASHTRA,Maharashtra,West,Less than 18,10044
+2023-24,2023-24,Year,MAHARASHTRA,Maharashtra,West,Less than 18,10143
+2024-25,2024-25,Year,MAHARASHTRA,Maharashtra,West,Less than 18,9820
+2025-26,Apr 2025,Month,MAHARASHTRA,Maharashtra,West,Less than 18,1310
+2025-26,May 2025,Month,MAHARASHTRA,Maharashtra,West,Less than 18,1472
+2025-26,Jun 2025,Month,MAHARASHTRA,Maharashtra,West,Less than 18,1646
+2025-26,Jul 2025,Month,MAHARASHTRA,Maharashtra,West,Less than 18,946
+2017-18,2017-18 (Sep-Mar),Part year,GUJARAT,Gujarat,West,Less than 18,4845
+2018-19,2018-19,Year,GUJARAT,Gujarat,West,Less than 18,10747
+2019-20,2019-20,Year,GUJARAT,Gujarat,West,Less than 18,9714
+2020-21,2020-21,Year,GUJARAT,Gujarat,West,Less than 18,7594
+2021-22,2021-22,Year,GUJARAT,Gujarat,West,Less than 18,9089
+2022-23,2022-23,Year,GUJARAT,Gujarat,West,Less than 18,8910
+2023-24,2023-24,Year,GUJARAT,Gujarat,West,Less than 18,8350
+2024-25,2024-25,Year,GUJARAT,Gujarat,West,Less than 18,7146
+2025-26,Apr 2025,Month,GUJARAT,Gujarat,West,Less than 18,931
+2025-26,May 2025,Month,GUJARAT,Gujarat,West,Less than 18,950
+2025-26,Jun 2025,Month,GUJARAT,Gujarat,West,Less than 18,1079
+2025-26,Jul 2025,Month,GUJARAT,Gujarat,West,Less than 18,738
+2017-18,2017-18 (Sep-Mar),Part year,HARYANA,Haryana,North,Less than 18,2575
+2018-19,2018-19,Year,HARYANA,Haryana,North,Less than 18,6262
+2019-20,2019-20,Year,HARYANA,Haryana,North,Less than 18,6593
+2020-21,2020-21,Year,HARYANA,Haryana,North,Less than 18,6949
+2021-22,2021-22,Year,HARYANA,Haryana,North,Less than 18,7331
+2022-23,2022-23,Year,HARYANA,Haryana,North,Less than 18,8350
+2023-24,2023-24,Year,HARYANA,Haryana,North,Less than 18,8560
+2024-25,2024-25,Year,HARYANA,Haryana,North,Less than 18,8626
+2025-26,Apr 2025,Month,HARYANA,Haryana,North,Less than 18,1084
+2025-26,May 2025,Month,HARYANA,Haryana,North,Less than 18,1438
+2025-26,Jun 2025,Month,HARYANA,Haryana,North,Less than 18,1576
+2025-26,Jul 2025,Month,HARYANA,Haryana,North,Less than 18,942
+2017-18,2017-18 (Sep-Mar),Part year,KARNATAKA,Karnataka,South,Less than 18,4229
+2018-19,2018-19,Year,KARNATAKA,Karnataka,South,Less than 18,7873
+2019-20,2019-20,Year,KARNATAKA,Karnataka,South,Less than 18,6806
+2020-21,2020-21,Year,KARNATAKA,Karnataka,South,Less than 18,4727
+2021-22,2021-22,Year,KARNATAKA,Karnataka,South,Less than 18,4769
+2022-23,2022-23,Year,KARNATAKA,Karnataka,South,Less than 18,5852
+2023-24,2023-24,Year,KARNATAKA,Karnataka,South,Less than 18,5207
+2024-25,2024-25,Year,KARNATAKA,Karnataka,South,Less than 18,5163
+2025-26,Apr 2025,Month,KARNATAKA,Karnataka,South,Less than 18,776
+2025-26,May 2025,Month,KARNATAKA,Karnataka,South,Less than 18,629
+2025-26,Jun 2025,Month,KARNATAKA,Karnataka,South,Less than 18,645
+2025-26,Jul 2025,Month,KARNATAKA,Karnataka,South,Less than 18,533
+2017-18,2017-18 (Sep-Mar),Part year,UTTAR PRADESH,Uttar Pradesh,North,Less than 18,1824
+2018-19,2018-19,Year,UTTAR PRADESH,Uttar Pradesh,North,Less than 18,4023
+2019-20,2019-20,Year,UTTAR PRADESH,Uttar Pradesh,North,Less than 18,4369
+2020-21,2020-21,Year,UTTAR PRADESH,Uttar Pradesh,North,Less than 18,3689
+2021-22,2021-22,Year,UTTAR PRADESH,Uttar Pradesh,North,Less than 18,3840
+2022-23,2022-23,Year,UTTAR PRADESH,Uttar Pradesh,North,Less than 18,3614
+2023-24,2023-24,Year,UTTAR PRADESH,Uttar Pradesh,North,Less than 18,3693
+2024-25,2024-25,Year,UTTAR PRADESH,Uttar Pradesh,North,Less than 18,4063
+2025-26,Apr 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,Less than 18,471
+2025-26,May 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,Less than 18,612
+2025-26,Jun 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,Less than 18,632
+2025-26,Jul 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,Less than 18,304
+2017-18,2017-18 (Sep-Mar),Part year,TELANGANA,Telangana,South,Less than 18,1987
+2018-19,2018-19,Year,TELANGANA,Telangana,South,Less than 18,4290
+2019-20,2019-20,Year,TELANGANA,Telangana,South,Less than 18,4155
+2020-21,2020-21,Year,TELANGANA,Telangana,South,Less than 18,3442
+2021-22,2021-22,Year,TELANGANA,Telangana,South,Less than 18,3726
+2022-23,2022-23,Year,TELANGANA,Telangana,South,Less than 18,4165
+2023-24,2023-24,Year,TELANGANA,Telangana,South,Less than 18,4129
+2024-25,2024-25,Year,TELANGANA,Telangana,South,Less than 18,3377
+2025-26,Apr 2025,Month,TELANGANA,Telangana,South,Less than 18,376
+2025-26,May 2025,Month,TELANGANA,Telangana,South,Less than 18,392
+2025-26,Jun 2025,Month,TELANGANA,Telangana,South,Less than 18,465
+2025-26,Jul 2025,Month,TELANGANA,Telangana,South,Less than 18,377
+2017-18,2017-18 (Sep-Mar),Part year,RAJASTHAN,Rajasthan,North,Less than 18,1423
+2018-19,2018-19,Year,RAJASTHAN,Rajasthan,North,Less than 18,3009
+2019-20,2019-20,Year,RAJASTHAN,Rajasthan,North,Less than 18,3078
+2020-21,2020-21,Year,RAJASTHAN,Rajasthan,North,Less than 18,2561
+2021-22,2021-22,Year,RAJASTHAN,Rajasthan,North,Less than 18,3556
+2022-23,2022-23,Year,RAJASTHAN,Rajasthan,North,Less than 18,3807
+2023-24,2023-24,Year,RAJASTHAN,Rajasthan,North,Less than 18,4075
+2024-25,2024-25,Year,RAJASTHAN,Rajasthan,North,Less than 18,3356
+2025-26,Apr 2025,Month,RAJASTHAN,Rajasthan,North,Less than 18,508
+2025-26,May 2025,Month,RAJASTHAN,Rajasthan,North,Less than 18,585
+2025-26,Jun 2025,Month,RAJASTHAN,Rajasthan,North,Less than 18,536
+2025-26,Jul 2025,Month,RAJASTHAN,Rajasthan,North,Less than 18,369
+2017-18,2017-18 (Sep-Mar),Part year,UTTARAKHAND,Uttarakhand,North,Less than 18,2014
+2018-19,2018-19,Year,UTTARAKHAND,Uttarakhand,North,Less than 18,3950
+2019-20,2019-20,Year,UTTARAKHAND,Uttarakhand,North,Less than 18,3804
+2020-21,2020-21,Year,UTTARAKHAND,Uttarakhand,North,Less than 18,3618
+2021-22,2021-22,Year,UTTARAKHAND,Uttarakhand,North,Less than 18,2666
+2022-23,2022-23,Year,UTTARAKHAND,Uttarakhand,North,Less than 18,2747
+2023-24,2023-24,Year,UTTARAKHAND,Uttarakhand,North,Less than 18,2938
+2024-25,2024-25,Year,UTTARAKHAND,Uttarakhand,North,Less than 18,2217
+2025-26,Apr 2025,Month,UTTARAKHAND,Uttarakhand,North,Less than 18,287
+2025-26,May 2025,Month,UTTARAKHAND,Uttarakhand,North,Less than 18,409
+2025-26,Jun 2025,Month,UTTARAKHAND,Uttarakhand,North,Less than 18,303
+2025-26,Jul 2025,Month,UTTARAKHAND,Uttarakhand,North,Less than 18,223
+2017-18,2017-18 (Sep-Mar),Part year,DELHI,Delhi,North,Less than 18,1308
+2018-19,2018-19,Year,DELHI,Delhi,North,Less than 18,3111
+2019-20,2019-20,Year,DELHI,Delhi,North,Less than 18,2866
+2020-21,2020-21,Year,DELHI,Delhi,North,Less than 18,1799
+2021-22,2021-22,Year,DELHI,Delhi,North,Less than 18,2217
+2022-23,2022-23,Year,DELHI,Delhi,North,Less than 18,2685
+2023-24,2023-24,Year,DELHI,Delhi,North,Less than 18,2291
+2024-25,2024-25,Year,DELHI,Delhi,North,Less than 18,2409
+2025-26,Apr 2025,Month,DELHI,Delhi,North,Less than 18,306
+2025-26,May 2025,Month,DELHI,Delhi,North,Less than 18,284
+2025-26,Jun 2025,Month,DELHI,Delhi,North,Less than 18,339
+2025-26,Jul 2025,Month,DELHI,Delhi,North,Less than 18,250
+2017-18,2017-18 (Sep-Mar),Part year,ANDHRA PRADESH,Andhra Pradesh,South,Less than 18,1166
+2018-19,2018-19,Year,ANDHRA PRADESH,Andhra Pradesh,South,Less than 18,2700
+2019-20,2019-20,Year,ANDHRA PRADESH,Andhra Pradesh,South,Less than 18,1936
+2020-21,2020-21,Year,ANDHRA PRADESH,Andhra Pradesh,South,Less than 18,1698
+2021-22,2021-22,Year,ANDHRA PRADESH,Andhra Pradesh,South,Less than 18,2008
+2022-23,2022-23,Year,ANDHRA PRADESH,Andhra Pradesh,South,Less than 18,1941
+2023-24,2023-24,Year,ANDHRA PRADESH,Andhra Pradesh,South,Less than 18,2095
+2024-25,2024-25,Year,ANDHRA PRADESH,Andhra Pradesh,South,Less than 18,2128
+2025-26,Apr 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,Less than 18,217
+2025-26,May 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,Less than 18,222
+2025-26,Jun 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,Less than 18,241
+2025-26,Jul 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,Less than 18,192
+2017-18,2017-18 (Sep-Mar),Part year,MADHYA PRADESH,Madhya Pradesh,Central,Less than 18,945
+2018-19,2018-19,Year,MADHYA PRADESH,Madhya Pradesh,Central,Less than 18,2257
+2019-20,2019-20,Year,MADHYA PRADESH,Madhya Pradesh,Central,Less than 18,2085
+2020-21,2020-21,Year,MADHYA PRADESH,Madhya Pradesh,Central,Less than 18,1414
+2021-22,2021-22,Year,MADHYA PRADESH,Madhya Pradesh,Central,Less than 18,1616
+2022-23,2022-23,Year,MADHYA PRADESH,Madhya Pradesh,Central,Less than 18,1753
+2023-24,2023-24,Year,MADHYA PRADESH,Madhya Pradesh,Central,Less than 18,1876
+2024-25,2024-25,Year,MADHYA PRADESH,Madhya Pradesh,Central,Less than 18,1453
+2025-26,Apr 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,Less than 18,212
+2025-26,May 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,Less than 18,206
+2025-26,Jun 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,Less than 18,189
+2025-26,Jul 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,Less than 18,109
+2017-18,2017-18 (Sep-Mar),Part year,WEST BENGAL,West Bengal,East,Less than 18,1250
+2018-19,2018-19,Year,WEST BENGAL,West Bengal,East,Less than 18,2067
+2019-20,2019-20,Year,WEST BENGAL,West Bengal,East,Less than 18,1655
+2020-21,2020-21,Year,WEST BENGAL,West Bengal,East,Less than 18,1113
+2021-22,2021-22,Year,WEST BENGAL,West Bengal,East,Less than 18,1424
+2022-23,2022-23,Year,WEST BENGAL,West Bengal,East,Less than 18,1510
+2023-24,2023-24,Year,WEST BENGAL,West Bengal,East,Less than 18,1423
+2024-25,2024-25,Year,WEST BENGAL,West Bengal,East,Less than 18,1453
+2025-26,Apr 2025,Month,WEST BENGAL,West Bengal,East,Less than 18,141
+2025-26,May 2025,Month,WEST BENGAL,West Bengal,East,Less than 18,133
+2025-26,Jun 2025,Month,WEST BENGAL,West Bengal,East,Less than 18,120
+2025-26,Jul 2025,Month,WEST BENGAL,West Bengal,East,Less than 18,103
+2017-18,2017-18 (Sep-Mar),Part year,HIMACHAL PRADESH,Himachal Pradesh,North,Less than 18,670
+2018-19,2018-19,Year,HIMACHAL PRADESH,Himachal Pradesh,North,Less than 18,1268
+2019-20,2019-20,Year,HIMACHAL PRADESH,Himachal Pradesh,North,Less than 18,1184
+2020-21,2020-21,Year,HIMACHAL PRADESH,Himachal Pradesh,North,Less than 18,1187
+2021-22,2021-22,Year,HIMACHAL PRADESH,Himachal Pradesh,North,Less than 18,1239
+2022-23,2022-23,Year,HIMACHAL PRADESH,Himachal Pradesh,North,Less than 18,1143
+2023-24,2023-24,Year,HIMACHAL PRADESH,Himachal Pradesh,North,Less than 18,1097
+2024-25,2024-25,Year,HIMACHAL PRADESH,Himachal Pradesh,North,Less than 18,1140
+2025-26,Apr 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,Less than 18,162
+2025-26,May 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,Less than 18,191
+2025-26,Jun 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,Less than 18,166
+2025-26,Jul 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,Less than 18,87
+2017-18,2017-18 (Sep-Mar),Part year,GOA,Goa,West,Less than 18,473
+2018-19,2018-19,Year,GOA,Goa,West,Less than 18,964
+2019-20,2019-20,Year,GOA,Goa,West,Less than 18,809
+2020-21,2020-21,Year,GOA,Goa,West,Less than 18,564
+2021-22,2021-22,Year,GOA,Goa,West,Less than 18,571
+2022-23,2022-23,Year,GOA,Goa,West,Less than 18,739
+2023-24,2023-24,Year,GOA,Goa,West,Less than 18,679
+2024-25,2024-25,Year,GOA,Goa,West,Less than 18,617
+2025-26,Apr 2025,Month,GOA,Goa,West,Less than 18,76
+2025-26,May 2025,Month,GOA,Goa,West,Less than 18,105
+2025-26,Jun 2025,Month,GOA,Goa,West,Less than 18,71
+2025-26,Jul 2025,Month,GOA,Goa,West,Less than 18,60
+2017-18,2017-18 (Sep-Mar),Part year,ORISSA,Odisha,East,Less than 18,446
+2018-19,2018-19,Year,ORISSA,Odisha,East,Less than 18,654
+2019-20,2019-20,Year,ORISSA,Odisha,East,Less than 18,516
+2020-21,2020-21,Year,ORISSA,Odisha,East,Less than 18,516
+2021-22,2021-22,Year,ORISSA,Odisha,East,Less than 18,600
+2022-23,2022-23,Year,ORISSA,Odisha,East,Less than 18,709
+2023-24,2023-24,Year,ORISSA,Odisha,East,Less than 18,743
+2024-25,2024-25,Year,ORISSA,Odisha,East,Less than 18,649
+2025-26,Apr 2025,Month,ORISSA,Odisha,East,Less than 18,54
+2025-26,May 2025,Month,ORISSA,Odisha,East,Less than 18,60
+2025-26,Jun 2025,Month,ORISSA,Odisha,East,Less than 18,43
+2025-26,Jul 2025,Month,ORISSA,Odisha,East,Less than 18,70
+2017-18,2017-18 (Sep-Mar),Part year,CHATTISGARH,Chhattisgarh,Central,Less than 18,422
+2018-19,2018-19,Year,CHATTISGARH,Chhattisgarh,Central,Less than 18,842
+2019-20,2019-20,Year,CHATTISGARH,Chhattisgarh,Central,Less than 18,631
+2020-21,2020-21,Year,CHATTISGARH,Chhattisgarh,Central,Less than 18,571
+2021-22,2021-22,Year,CHATTISGARH,Chhattisgarh,Central,Less than 18,592
+2022-23,2022-23,Year,CHATTISGARH,Chhattisgarh,Central,Less than 18,596
+2023-24,2023-24,Year,CHATTISGARH,Chhattisgarh,Central,Less than 18,635
+2024-25,2024-25,Year,CHATTISGARH,Chhattisgarh,Central,Less than 18,551
+2025-26,Apr 2025,Month,CHATTISGARH,Chhattisgarh,Central,Less than 18,55
+2025-26,May 2025,Month,CHATTISGARH,Chhattisgarh,Central,Less than 18,58
+2025-26,Jun 2025,Month,CHATTISGARH,Chhattisgarh,Central,Less than 18,58
+2025-26,Jul 2025,Month,CHATTISGARH,Chhattisgarh,Central,Less than 18,42
+2017-18,2017-18 (Sep-Mar),Part year,PUNJAB,Punjab,North,Less than 18,515
+2018-19,2018-19,Year,PUNJAB,Punjab,North,Less than 18,966
+2019-20,2019-20,Year,PUNJAB,Punjab,North,Less than 18,897
+2020-21,2020-21,Year,PUNJAB,Punjab,North,Less than 18,563
+2021-22,2021-22,Year,PUNJAB,Punjab,North,Less than 18,644
+2022-23,2022-23,Year,PUNJAB,Punjab,North,Less than 18,469
+2023-24,2023-24,Year,PUNJAB,Punjab,North,Less than 18,450
+2024-25,2024-25,Year,PUNJAB,Punjab,North,Less than 18,287
+2025-26,Apr 2025,Month,PUNJAB,Punjab,North,Less than 18,46
+2025-26,May 2025,Month,PUNJAB,Punjab,North,Less than 18,38
+2025-26,Jun 2025,Month,PUNJAB,Punjab,North,Less than 18,30
+2025-26,Jul 2025,Month,PUNJAB,Punjab,North,Less than 18,35
+2017-18,2017-18 (Sep-Mar),Part year,CHANDIGARH,Chandigarh,North,Less than 18,343
+2018-19,2018-19,Year,CHANDIGARH,Chandigarh,North,Less than 18,928
+2019-20,2019-20,Year,CHANDIGARH,Chandigarh,North,Less than 18,714
+2020-21,2020-21,Year,CHANDIGARH,Chandigarh,North,Less than 18,514
+2021-22,2021-22,Year,CHANDIGARH,Chandigarh,North,Less than 18,618
+2022-23,2022-23,Year,CHANDIGARH,Chandigarh,North,Less than 18,511
+2023-24,2023-24,Year,CHANDIGARH,Chandigarh,North,Less than 18,433
+2024-25,2024-25,Year,CHANDIGARH,Chandigarh,North,Less than 18,459
+2025-26,Apr 2025,Month,CHANDIGARH,Chandigarh,North,Less than 18,45
+2025-26,May 2025,Month,CHANDIGARH,Chandigarh,North,Less than 18,59
+2025-26,Jun 2025,Month,CHANDIGARH,Chandigarh,North,Less than 18,85
+2025-26,Jul 2025,Month,CHANDIGARH,Chandigarh,North,Less than 18,52
+2017-18,2017-18 (Sep-Mar),Part year,BIHAR,Bihar,East,Less than 18,245
+2018-19,2018-19,Year,BIHAR,Bihar,East,Less than 18,383
+2019-20,2019-20,Year,BIHAR,Bihar,East,Less than 18,465
+2020-21,2020-21,Year,BIHAR,Bihar,East,Less than 18,341
+2021-22,2021-22,Year,BIHAR,Bihar,East,Less than 18,494
+2022-23,2022-23,Year,BIHAR,Bihar,East,Less than 18,519
+2023-24,2023-24,Year,BIHAR,Bihar,East,Less than 18,533
+2024-25,2024-25,Year,BIHAR,Bihar,East,Less than 18,515
+2025-26,Apr 2025,Month,BIHAR,Bihar,East,Less than 18,44
+2025-26,May 2025,Month,BIHAR,Bihar,East,Less than 18,24
+2025-26,Jun 2025,Month,BIHAR,Bihar,East,Less than 18,43
+2025-26,Jul 2025,Month,BIHAR,Bihar,East,Less than 18,38
+2017-18,2017-18 (Sep-Mar),Part year,JHARKHAND,Jharkhand,East,Less than 18,259
+2018-19,2018-19,Year,JHARKHAND,Jharkhand,East,Less than 18,607
+2019-20,2019-20,Year,JHARKHAND,Jharkhand,East,Less than 18,412
+2020-21,2020-21,Year,JHARKHAND,Jharkhand,East,Less than 18,332
+2021-22,2021-22,Year,JHARKHAND,Jharkhand,East,Less than 18,381
+2022-23,2022-23,Year,JHARKHAND,Jharkhand,East,Less than 18,480
+2023-24,2023-24,Year,JHARKHAND,Jharkhand,East,Less than 18,484
+2024-25,2024-25,Year,JHARKHAND,Jharkhand,East,Less than 18,376
+2025-26,Apr 2025,Month,JHARKHAND,Jharkhand,East,Less than 18,40
+2025-26,May 2025,Month,JHARKHAND,Jharkhand,East,Less than 18,40
+2025-26,Jun 2025,Month,JHARKHAND,Jharkhand,East,Less than 18,21
+2025-26,Jul 2025,Month,JHARKHAND,Jharkhand,East,Less than 18,20
+2017-18,2017-18 (Sep-Mar),Part year,JAMMU AND KASHMIR,Jammu and Kashmir,North,Less than 18,0
+2018-19,2018-19,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,Less than 18,0
+2019-20,2019-20,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,Less than 18,708
+2020-21,2020-21,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,Less than 18,512
+2021-22,2021-22,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,Less than 18,597
+2022-23,2022-23,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,Less than 18,576
+2023-24,2023-24,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,Less than 18,418
+2024-25,2024-25,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,Less than 18,434
+2025-26,Apr 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,Less than 18,42
+2025-26,May 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,Less than 18,46
+2025-26,Jun 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,Less than 18,75
+2025-26,Jul 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,Less than 18,42
+2017-18,2017-18 (Sep-Mar),Part year,KERALA,Kerala,South,Less than 18,276
+2018-19,2018-19,Year,KERALA,Kerala,South,Less than 18,554
+2019-20,2019-20,Year,KERALA,Kerala,South,Less than 18,550
+2020-21,2020-21,Year,KERALA,Kerala,South,Less than 18,140
+2021-22,2021-22,Year,KERALA,Kerala,South,Less than 18,204
+2022-23,2022-23,Year,KERALA,Kerala,South,Less than 18,206
+2023-24,2023-24,Year,KERALA,Kerala,South,Less than 18,218
+2024-25,2024-25,Year,KERALA,Kerala,South,Less than 18,173
+2025-26,Apr 2025,Month,KERALA,Kerala,South,Less than 18,21
+2025-26,May 2025,Month,KERALA,Kerala,South,Less than 18,23
+2025-26,Jun 2025,Month,KERALA,Kerala,South,Less than 18,13
+2025-26,Jul 2025,Month,KERALA,Kerala,South,Less than 18,13
+2017-18,2017-18 (Sep-Mar),Part year,ASSAM,Assam,North East,Less than 18,199
+2018-19,2018-19,Year,ASSAM,Assam,North East,Less than 18,367
+2019-20,2019-20,Year,ASSAM,Assam,North East,Less than 18,241
+2020-21,2020-21,Year,ASSAM,Assam,North East,Less than 18,185
+2021-22,2021-22,Year,ASSAM,Assam,North East,Less than 18,276
+2022-23,2022-23,Year,ASSAM,Assam,North East,Less than 18,306
+2023-24,2023-24,Year,ASSAM,Assam,North East,Less than 18,265
+2024-25,2024-25,Year,ASSAM,Assam,North East,Less than 18,236
+2025-26,Apr 2025,Month,ASSAM,Assam,North East,Less than 18,23
+2025-26,May 2025,Month,ASSAM,Assam,North East,Less than 18,15
+2025-26,Jun 2025,Month,ASSAM,Assam,North East,Less than 18,24
+2025-26,Jul 2025,Month,ASSAM,Assam,North East,Less than 18,24
+2017-18,2017-18 (Sep-Mar),Part year,TRIPURA,Tripura,North East,Less than 18,30
+2018-19,2018-19,Year,TRIPURA,Tripura,North East,Less than 18,37
+2019-20,2019-20,Year,TRIPURA,Tripura,North East,Less than 18,52
+2020-21,2020-21,Year,TRIPURA,Tripura,North East,Less than 18,84
+2021-22,2021-22,Year,TRIPURA,Tripura,North East,Less than 18,141
+2022-23,2022-23,Year,TRIPURA,Tripura,North East,Less than 18,92
+2023-24,2023-24,Year,TRIPURA,Tripura,North East,Less than 18,19
+2024-25,2024-25,Year,TRIPURA,Tripura,North East,Less than 18,48
+2025-26,Apr 2025,Month,TRIPURA,Tripura,North East,Less than 18,1
+2025-26,May 2025,Month,TRIPURA,Tripura,North East,Less than 18,2
+2025-26,Jun 2025,Month,TRIPURA,Tripura,North East,Less than 18,1
+2025-26,Jul 2025,Month,TRIPURA,Tripura,North East,Less than 18,1
+2017-18,2017-18 (Sep-Mar),Part year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,Less than 18,63
+2018-19,2018-19,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,Less than 18,27
+2019-20,2019-20,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,Less than 18,17
+2020-21,2020-21,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,Less than 18,18
+2021-22,2021-22,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,Less than 18,22
+2022-23,2022-23,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,Less than 18,22
+2023-24,2023-24,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,Less than 18,15
+2024-25,2024-25,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,Less than 18,20
+2025-26,Apr 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,Less than 18,2
+2025-26,May 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,Less than 18,1
+2025-26,Jun 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,Less than 18,1
+2025-26,Jul 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,Less than 18,0
+2017-18,2017-18 (Sep-Mar),Part year,MEGHALAYA,Meghalaya,North East,Less than 18,19
+2018-19,2018-19,Year,MEGHALAYA,Meghalaya,North East,Less than 18,42
+2019-20,2019-20,Year,MEGHALAYA,Meghalaya,North East,Less than 18,22
+2020-21,2020-21,Year,MEGHALAYA,Meghalaya,North East,Less than 18,0
+2021-22,2021-22,Year,MEGHALAYA,Meghalaya,North East,Less than 18,16
+2022-23,2022-23,Year,MEGHALAYA,Meghalaya,North East,Less than 18,17
+2023-24,2023-24,Year,MEGHALAYA,Meghalaya,North East,Less than 18,14
+2024-25,2024-25,Year,MEGHALAYA,Meghalaya,North East,Less than 18,21
+2025-26,Apr 2025,Month,MEGHALAYA,Meghalaya,North East,Less than 18,0
+2025-26,May 2025,Month,MEGHALAYA,Meghalaya,North East,Less than 18,3
+2025-26,Jun 2025,Month,MEGHALAYA,Meghalaya,North East,Less than 18,3
+2025-26,Jul 2025,Month,MEGHALAYA,Meghalaya,North East,Less than 18,0
+2017-18,2017-18 (Sep-Mar),Part year,MANIPUR,Manipur,North East,Less than 18,25
+2018-19,2018-19,Year,MANIPUR,Manipur,North East,Less than 18,28
+2019-20,2019-20,Year,MANIPUR,Manipur,North East,Less than 18,21
+2020-21,2020-21,Year,MANIPUR,Manipur,North East,Less than 18,11
+2021-22,2021-22,Year,MANIPUR,Manipur,North East,Less than 18,14
+2022-23,2022-23,Year,MANIPUR,Manipur,North East,Less than 18,13
+2023-24,2023-24,Year,MANIPUR,Manipur,North East,Less than 18,14
+2024-25,2024-25,Year,MANIPUR,Manipur,North East,Less than 18,19
+2025-26,Apr 2025,Month,MANIPUR,Manipur,North East,Less than 18,1
+2025-26,May 2025,Month,MANIPUR,Manipur,North East,Less than 18,1
+2025-26,Jun 2025,Month,MANIPUR,Manipur,North East,Less than 18,2
+2025-26,Jul 2025,Month,MANIPUR,Manipur,North East,Less than 18,0
+2017-18,2017-18 (Sep-Mar),Part year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,Less than 18,18
+2018-19,2018-19,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,Less than 18,22
+2019-20,2019-20,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,Less than 18,9
+2020-21,2020-21,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,Less than 18,12
+2021-22,2021-22,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,Less than 18,5
+2022-23,2022-23,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,Less than 18,10
+2023-24,2023-24,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,Less than 18,11
+2024-25,2024-25,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,Less than 18,8
+2025-26,Apr 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,Less than 18,0
+2025-26,May 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,Less than 18,0
+2025-26,Jun 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,Less than 18,1
+2025-26,Jul 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,Less than 18,1
+2017-18,2017-18 (Sep-Mar),Part year,NAGALAND,Nagaland,North East,Less than 18,1
+2018-19,2018-19,Year,NAGALAND,Nagaland,North East,Less than 18,1
+2019-20,2019-20,Year,NAGALAND,Nagaland,North East,Less than 18,12
+2020-21,2020-21,Year,NAGALAND,Nagaland,North East,Less than 18,0
+2021-22,2021-22,Year,NAGALAND,Nagaland,North East,Less than 18,5
+2022-23,2022-23,Year,NAGALAND,Nagaland,North East,Less than 18,8
+2023-24,2023-24,Year,NAGALAND,Nagaland,North East,Less than 18,6
+2024-25,2024-25,Year,NAGALAND,Nagaland,North East,Less than 18,3
+2025-26,Apr 2025,Month,NAGALAND,Nagaland,North East,Less than 18,3
+2025-26,May 2025,Month,NAGALAND,Nagaland,North East,Less than 18,0
+2025-26,Jun 2025,Month,NAGALAND,Nagaland,North East,Less than 18,0
+2025-26,Jul 2025,Month,NAGALAND,Nagaland,North East,Less than 18,0
+2017-18,2017-18 (Sep-Mar),Part year,MIZORAM,Mizoram,North East,Less than 18,0
+2018-19,2018-19,Year,MIZORAM,Mizoram,North East,Less than 18,7
+2019-20,2019-20,Year,MIZORAM,Mizoram,North East,Less than 18,0
+2020-21,2020-21,Year,MIZORAM,Mizoram,North East,Less than 18,6
+2021-22,2021-22,Year,MIZORAM,Mizoram,North East,Less than 18,5
+2022-23,2022-23,Year,MIZORAM,Mizoram,North East,Less than 18,4
+2023-24,2023-24,Year,MIZORAM,Mizoram,North East,Less than 18,5
+2024-25,2024-25,Year,MIZORAM,Mizoram,North East,Less than 18,3
+2025-26,Apr 2025,Month,MIZORAM,Mizoram,North East,Less than 18,0
+2025-26,May 2025,Month,MIZORAM,Mizoram,North East,Less than 18,1
+2025-26,Jun 2025,Month,MIZORAM,Mizoram,North East,Less than 18,5
+2025-26,Jul 2025,Month,MIZORAM,Mizoram,North East,Less than 18,0
+2017-18,2017-18 (Sep-Mar),Part year,LADAKH,Ladakh,North,Less than 18,0
+2018-19,2018-19,Year,LADAKH,Ladakh,North,Less than 18,0
+2019-20,2019-20,Year,LADAKH,Ladakh,North,Less than 18,0
+2020-21,2020-21,Year,LADAKH,Ladakh,North,Less than 18,2
+2021-22,2021-22,Year,LADAKH,Ladakh,North,Less than 18,6
+2022-23,2022-23,Year,LADAKH,Ladakh,North,Less than 18,9
+2023-24,2023-24,Year,LADAKH,Ladakh,North,Less than 18,6
+2024-25,2024-25,Year,LADAKH,Ladakh,North,Less than 18,1
+2025-26,Apr 2025,Month,LADAKH,Ladakh,North,Less than 18,1
+2025-26,May 2025,Month,LADAKH,Ladakh,North,Less than 18,1
+2025-26,Jun 2025,Month,LADAKH,Ladakh,North,Less than 18,0
+2025-26,Jul 2025,Month,LADAKH,Ladakh,North,Less than 18,0
+2017-18,2017-18 (Sep-Mar),Part year,MAHARASHTRA,Maharashtra,West,18-21,218748
+2018-19,2018-19,Year,MAHARASHTRA,Maharashtra,West,18-21,531060
+2019-20,2019-20,Year,MAHARASHTRA,Maharashtra,West,18-21,538207
+2020-21,2020-21,Year,MAHARASHTRA,Maharashtra,West,18-21,414591
+2021-22,2021-22,Year,MAHARASHTRA,Maharashtra,West,18-21,604867
+2022-23,2022-23,Year,MAHARASHTRA,Maharashtra,West,18-21,666571
+2023-24,2023-24,Year,MAHARASHTRA,Maharashtra,West,18-21,667434
+2024-25,2024-25,Year,MAHARASHTRA,Maharashtra,West,18-21,654713
+2025-26,Apr 2025,Month,MAHARASHTRA,Maharashtra,West,18-21,59673
+2025-26,May 2025,Month,MAHARASHTRA,Maharashtra,West,18-21,73683
+2025-26,Jun 2025,Month,MAHARASHTRA,Maharashtra,West,18-21,91200
+2025-26,Jul 2025,Month,MAHARASHTRA,Maharashtra,West,18-21,83642
+2017-18,2017-18 (Sep-Mar),Part year,TAMIL NADU,Tamil Nadu,South,18-21,97696
+2018-19,2018-19,Year,TAMIL NADU,Tamil Nadu,South,18-21,260699
+2019-20,2019-20,Year,TAMIL NADU,Tamil Nadu,South,18-21,301419
+2020-21,2020-21,Year,TAMIL NADU,Tamil Nadu,South,18-21,260872
+2021-22,2021-22,Year,TAMIL NADU,Tamil Nadu,South,18-21,364795
+2022-23,2022-23,Year,TAMIL NADU,Tamil Nadu,South,18-21,376872
+2023-24,2023-24,Year,TAMIL NADU,Tamil Nadu,South,18-21,353046
+2024-25,2024-25,Year,TAMIL NADU,Tamil Nadu,South,18-21,336818
+2025-26,Apr 2025,Month,TAMIL NADU,Tamil Nadu,South,18-21,28363
+2025-26,May 2025,Month,TAMIL NADU,Tamil Nadu,South,18-21,41515
+2025-26,Jun 2025,Month,TAMIL NADU,Tamil Nadu,South,18-21,53654
+2025-26,Jul 2025,Month,TAMIL NADU,Tamil Nadu,South,18-21,51460
+2017-18,2017-18 (Sep-Mar),Part year,KARNATAKA,Karnataka,South,18-21,99127
+2018-19,2018-19,Year,KARNATAKA,Karnataka,South,18-21,265827
+2019-20,2019-20,Year,KARNATAKA,Karnataka,South,18-21,287962
+2020-21,2020-21,Year,KARNATAKA,Karnataka,South,18-21,209664
+2021-22,2021-22,Year,KARNATAKA,Karnataka,South,18-21,337255
+2022-23,2022-23,Year,KARNATAKA,Karnataka,South,18-21,355409
+2023-24,2023-24,Year,KARNATAKA,Karnataka,South,18-21,342688
+2024-25,2024-25,Year,KARNATAKA,Karnataka,South,18-21,347704
+2025-26,Apr 2025,Month,KARNATAKA,Karnataka,South,18-21,31103
+2025-26,May 2025,Month,KARNATAKA,Karnataka,South,18-21,37183
+2025-26,Jun 2025,Month,KARNATAKA,Karnataka,South,18-21,48502
+2025-26,Jul 2025,Month,KARNATAKA,Karnataka,South,18-21,51856
+2017-18,2017-18 (Sep-Mar),Part year,GUJARAT,Gujarat,West,18-21,102098
+2018-19,2018-19,Year,GUJARAT,Gujarat,West,18-21,229793
+2019-20,2019-20,Year,GUJARAT,Gujarat,West,18-21,254246
+2020-21,2020-21,Year,GUJARAT,Gujarat,West,18-21,241430
+2021-22,2021-22,Year,GUJARAT,Gujarat,West,18-21,314333
+2022-23,2022-23,Year,GUJARAT,Gujarat,West,18-21,305499
+2023-24,2023-24,Year,GUJARAT,Gujarat,West,18-21,305509
+2024-25,2024-25,Year,GUJARAT,Gujarat,West,18-21,292736
+2025-26,Apr 2025,Month,GUJARAT,Gujarat,West,18-21,31591
+2025-26,May 2025,Month,GUJARAT,Gujarat,West,18-21,37338
+2025-26,Jun 2025,Month,GUJARAT,Gujarat,West,18-21,45648
+2025-26,Jul 2025,Month,GUJARAT,Gujarat,West,18-21,39890
+2017-18,2017-18 (Sep-Mar),Part year,HARYANA,Haryana,North,18-21,82049
+2018-19,2018-19,Year,HARYANA,Haryana,North,18-21,184585
+2019-20,2019-20,Year,HARYANA,Haryana,North,18-21,218980
+2020-21,2020-21,Year,HARYANA,Haryana,North,18-21,216555
+2021-22,2021-22,Year,HARYANA,Haryana,North,18-21,255891
+2022-23,2022-23,Year,HARYANA,Haryana,North,18-21,294942
+2023-24,2023-24,Year,HARYANA,Haryana,North,18-21,301837
+2024-25,2024-25,Year,HARYANA,Haryana,North,18-21,301647
+2025-26,Apr 2025,Month,HARYANA,Haryana,North,18-21,26994
+2025-26,May 2025,Month,HARYANA,Haryana,North,18-21,35160
+2025-26,Jun 2025,Month,HARYANA,Haryana,North,18-21,44623
+2025-26,Jul 2025,Month,HARYANA,Haryana,North,18-21,39986
+2017-18,2017-18 (Sep-Mar),Part year,DELHI,Delhi,North,18-21,59494
+2018-19,2018-19,Year,DELHI,Delhi,North,18-21,163255
+2019-20,2019-20,Year,DELHI,Delhi,North,18-21,179334
+2020-21,2020-21,Year,DELHI,Delhi,North,18-21,119880
+2021-22,2021-22,Year,DELHI,Delhi,North,18-21,190422
+2022-23,2022-23,Year,DELHI,Delhi,North,18-21,228960
+2023-24,2023-24,Year,DELHI,Delhi,North,18-21,228848
+2024-25,2024-25,Year,DELHI,Delhi,North,18-21,214291
+2025-26,Apr 2025,Month,DELHI,Delhi,North,18-21,22216
+2025-26,May 2025,Month,DELHI,Delhi,North,18-21,25057
+2025-26,Jun 2025,Month,DELHI,Delhi,North,18-21,28831
+2025-26,Jul 2025,Month,DELHI,Delhi,North,18-21,30292
+2017-18,2017-18 (Sep-Mar),Part year,TELANGANA,Telangana,South,18-21,43377
+2018-19,2018-19,Year,TELANGANA,Telangana,South,18-21,128393
+2019-20,2019-20,Year,TELANGANA,Telangana,South,18-21,130571
+2020-21,2020-21,Year,TELANGANA,Telangana,South,18-21,103864
+2021-22,2021-22,Year,TELANGANA,Telangana,South,18-21,152718
+2022-23,2022-23,Year,TELANGANA,Telangana,South,18-21,180645
+2023-24,2023-24,Year,TELANGANA,Telangana,South,18-21,188737
+2024-25,2024-25,Year,TELANGANA,Telangana,South,18-21,183414
+2025-26,Apr 2025,Month,TELANGANA,Telangana,South,18-21,14683
+2025-26,May 2025,Month,TELANGANA,Telangana,South,18-21,16625
+2025-26,Jun 2025,Month,TELANGANA,Telangana,South,18-21,24179
+2025-26,Jul 2025,Month,TELANGANA,Telangana,South,18-21,24993
+2017-18,2017-18 (Sep-Mar),Part year,UTTAR PRADESH,Uttar Pradesh,North,18-21,41474
+2018-19,2018-19,Year,UTTAR PRADESH,Uttar Pradesh,North,18-21,103205
+2019-20,2019-20,Year,UTTAR PRADESH,Uttar Pradesh,North,18-21,130506
+2020-21,2020-21,Year,UTTAR PRADESH,Uttar Pradesh,North,18-21,125230
+2021-22,2021-22,Year,UTTAR PRADESH,Uttar Pradesh,North,18-21,155588
+2022-23,2022-23,Year,UTTAR PRADESH,Uttar Pradesh,North,18-21,170474
+2023-24,2023-24,Year,UTTAR PRADESH,Uttar Pradesh,North,18-21,189594
+2024-25,2024-25,Year,UTTAR PRADESH,Uttar Pradesh,North,18-21,179916
+2025-26,Apr 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,18-21,19504
+2025-26,May 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,18-21,24048
+2025-26,Jun 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,18-21,25058
+2025-26,Jul 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,18-21,22469
+2017-18,2017-18 (Sep-Mar),Part year,RAJASTHAN,Rajasthan,North,18-21,29435
+2018-19,2018-19,Year,RAJASTHAN,Rajasthan,North,18-21,66163
+2019-20,2019-20,Year,RAJASTHAN,Rajasthan,North,18-21,78415
+2020-21,2020-21,Year,RAJASTHAN,Rajasthan,North,18-21,74874
+2021-22,2021-22,Year,RAJASTHAN,Rajasthan,North,18-21,94149
+2022-23,2022-23,Year,RAJASTHAN,Rajasthan,North,18-21,104856
+2023-24,2023-24,Year,RAJASTHAN,Rajasthan,North,18-21,111645
+2024-25,2024-25,Year,RAJASTHAN,Rajasthan,North,18-21,102119
+2025-26,Apr 2025,Month,RAJASTHAN,Rajasthan,North,18-21,10468
+2025-26,May 2025,Month,RAJASTHAN,Rajasthan,North,18-21,14128
+2025-26,Jun 2025,Month,RAJASTHAN,Rajasthan,North,18-21,14492
+2025-26,Jul 2025,Month,RAJASTHAN,Rajasthan,North,18-21,13911
+2017-18,2017-18 (Sep-Mar),Part year,WEST BENGAL,West Bengal,East,18-21,33934
+2018-19,2018-19,Year,WEST BENGAL,West Bengal,East,18-21,73101
+2019-20,2019-20,Year,WEST BENGAL,West Bengal,East,18-21,69553
+2020-21,2020-21,Year,WEST BENGAL,West Bengal,East,18-21,53854
+2021-22,2021-22,Year,WEST BENGAL,West Bengal,East,18-21,82509
+2022-23,2022-23,Year,WEST BENGAL,West Bengal,East,18-21,94767
+2023-24,2023-24,Year,WEST BENGAL,West Bengal,East,18-21,93997
+2024-25,2024-25,Year,WEST BENGAL,West Bengal,East,18-21,99373
+2025-26,Apr 2025,Month,WEST BENGAL,West Bengal,East,18-21,9909
+2025-26,May 2025,Month,WEST BENGAL,West Bengal,East,18-21,9796
+2025-26,Jun 2025,Month,WEST BENGAL,West Bengal,East,18-21,10823
+2025-26,Jul 2025,Month,WEST BENGAL,West Bengal,East,18-21,10901
+2017-18,2017-18 (Sep-Mar),Part year,MADHYA PRADESH,Madhya Pradesh,Central,18-21,22018
+2018-19,2018-19,Year,MADHYA PRADESH,Madhya Pradesh,Central,18-21,49644
+2019-20,2019-20,Year,MADHYA PRADESH,Madhya Pradesh,Central,18-21,56627
+2020-21,2020-21,Year,MADHYA PRADESH,Madhya Pradesh,Central,18-21,51488
+2021-22,2021-22,Year,MADHYA PRADESH,Madhya Pradesh,Central,18-21,64588
+2022-23,2022-23,Year,MADHYA PRADESH,Madhya Pradesh,Central,18-21,72065
+2023-24,2023-24,Year,MADHYA PRADESH,Madhya Pradesh,Central,18-21,70041
+2024-25,2024-25,Year,MADHYA PRADESH,Madhya Pradesh,Central,18-21,61522
+2025-26,Apr 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,18-21,6237
+2025-26,May 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,18-21,7572
+2025-26,Jun 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,18-21,8257
+2025-26,Jul 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,18-21,7366
+2017-18,2017-18 (Sep-Mar),Part year,ANDHRA PRADESH,Andhra Pradesh,South,18-21,18837
+2018-19,2018-19,Year,ANDHRA PRADESH,Andhra Pradesh,South,18-21,45100
+2019-20,2019-20,Year,ANDHRA PRADESH,Andhra Pradesh,South,18-21,46691
+2020-21,2020-21,Year,ANDHRA PRADESH,Andhra Pradesh,South,18-21,47676
+2021-22,2021-22,Year,ANDHRA PRADESH,Andhra Pradesh,South,18-21,54901
+2022-23,2022-23,Year,ANDHRA PRADESH,Andhra Pradesh,South,18-21,57357
+2023-24,2023-24,Year,ANDHRA PRADESH,Andhra Pradesh,South,18-21,58783
+2024-25,2024-25,Year,ANDHRA PRADESH,Andhra Pradesh,South,18-21,57517
+2025-26,Apr 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,18-21,4853
+2025-26,May 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,18-21,6026
+2025-26,Jun 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,18-21,7214
+2025-26,Jul 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,18-21,6924
+2017-18,2017-18 (Sep-Mar),Part year,UTTARAKHAND,Uttarakhand,North,18-21,23045
+2018-19,2018-19,Year,UTTARAKHAND,Uttarakhand,North,18-21,43873
+2019-20,2019-20,Year,UTTARAKHAND,Uttarakhand,North,18-21,46631
+2020-21,2020-21,Year,UTTARAKHAND,Uttarakhand,North,18-21,49494
+2021-22,2021-22,Year,UTTARAKHAND,Uttarakhand,North,18-21,48362
+2022-23,2022-23,Year,UTTARAKHAND,Uttarakhand,North,18-21,58013
+2023-24,2023-24,Year,UTTARAKHAND,Uttarakhand,North,18-21,58764
+2024-25,2024-25,Year,UTTARAKHAND,Uttarakhand,North,18-21,47621
+2025-26,Apr 2025,Month,UTTARAKHAND,Uttarakhand,North,18-21,5007
+2025-26,May 2025,Month,UTTARAKHAND,Uttarakhand,North,18-21,6263
+2025-26,Jun 2025,Month,UTTARAKHAND,Uttarakhand,North,18-21,6212
+2025-26,Jul 2025,Month,UTTARAKHAND,Uttarakhand,North,18-21,6291
+2017-18,2017-18 (Sep-Mar),Part year,KERALA,Kerala,South,18-21,11763
+2018-19,2018-19,Year,KERALA,Kerala,South,18-21,28087
+2019-20,2019-20,Year,KERALA,Kerala,South,18-21,28752
+2020-21,2020-21,Year,KERALA,Kerala,South,18-21,15664
+2021-22,2021-22,Year,KERALA,Kerala,South,18-21,31419
+2022-23,2022-23,Year,KERALA,Kerala,South,18-21,35147
+2023-24,2023-24,Year,KERALA,Kerala,South,18-21,33109
+2024-25,2024-25,Year,KERALA,Kerala,South,18-21,31519
+2025-26,Apr 2025,Month,KERALA,Kerala,South,18-21,2571
+2025-26,May 2025,Month,KERALA,Kerala,South,18-21,3243
+2025-26,Jun 2025,Month,KERALA,Kerala,South,18-21,3523
+2025-26,Jul 2025,Month,KERALA,Kerala,South,18-21,3304
+2017-18,2017-18 (Sep-Mar),Part year,PUNJAB,Punjab,North,18-21,10538
+2018-19,2018-19,Year,PUNJAB,Punjab,North,18-21,27743
+2019-20,2019-20,Year,PUNJAB,Punjab,North,18-21,28346
+2020-21,2020-21,Year,PUNJAB,Punjab,North,18-21,26830
+2021-22,2021-22,Year,PUNJAB,Punjab,North,18-21,35050
+2022-23,2022-23,Year,PUNJAB,Punjab,North,18-21,30868
+2023-24,2023-24,Year,PUNJAB,Punjab,North,18-21,29578
+2024-25,2024-25,Year,PUNJAB,Punjab,North,18-21,24804
+2025-26,Apr 2025,Month,PUNJAB,Punjab,North,18-21,2184
+2025-26,May 2025,Month,PUNJAB,Punjab,North,18-21,2399
+2025-26,Jun 2025,Month,PUNJAB,Punjab,North,18-21,3204
+2025-26,Jul 2025,Month,PUNJAB,Punjab,North,18-21,3251
+2017-18,2017-18 (Sep-Mar),Part year,ORISSA,Odisha,East,18-21,11892
+2018-19,2018-19,Year,ORISSA,Odisha,East,18-21,17882
+2019-20,2019-20,Year,ORISSA,Odisha,East,18-21,18457
+2020-21,2020-21,Year,ORISSA,Odisha,East,18-21,19113
+2021-22,2021-22,Year,ORISSA,Odisha,East,18-21,29152
+2022-23,2022-23,Year,ORISSA,Odisha,East,18-21,34850
+2023-24,2023-24,Year,ORISSA,Odisha,East,18-21,40098
+2024-25,2024-25,Year,ORISSA,Odisha,East,18-21,38380
+2025-26,Apr 2025,Month,ORISSA,Odisha,East,18-21,3146
+2025-26,May 2025,Month,ORISSA,Odisha,East,18-21,4181
+2025-26,Jun 2025,Month,ORISSA,Odisha,East,18-21,3848
+2025-26,Jul 2025,Month,ORISSA,Odisha,East,18-21,3794
+2017-18,2017-18 (Sep-Mar),Part year,CHANDIGARH,Chandigarh,North,18-21,11235
+2018-19,2018-19,Year,CHANDIGARH,Chandigarh,North,18-21,27717
+2019-20,2019-20,Year,CHANDIGARH,Chandigarh,North,18-21,21985
+2020-21,2020-21,Year,CHANDIGARH,Chandigarh,North,18-21,20667
+2021-22,2021-22,Year,CHANDIGARH,Chandigarh,North,18-21,28106
+2022-23,2022-23,Year,CHANDIGARH,Chandigarh,North,18-21,31914
+2023-24,2023-24,Year,CHANDIGARH,Chandigarh,North,18-21,31261
+2024-25,2024-25,Year,CHANDIGARH,Chandigarh,North,18-21,28861
+2025-26,Apr 2025,Month,CHANDIGARH,Chandigarh,North,18-21,2888
+2025-26,May 2025,Month,CHANDIGARH,Chandigarh,North,18-21,3302
+2025-26,Jun 2025,Month,CHANDIGARH,Chandigarh,North,18-21,4256
+2025-26,Jul 2025,Month,CHANDIGARH,Chandigarh,North,18-21,4023
+2017-18,2017-18 (Sep-Mar),Part year,HIMACHAL PRADESH,Himachal Pradesh,North,18-21,9173
+2018-19,2018-19,Year,HIMACHAL PRADESH,Himachal Pradesh,North,18-21,20044
+2019-20,2019-20,Year,HIMACHAL PRADESH,Himachal Pradesh,North,18-21,22268
+2020-21,2020-21,Year,HIMACHAL PRADESH,Himachal Pradesh,North,18-21,26927
+2021-22,2021-22,Year,HIMACHAL PRADESH,Himachal Pradesh,North,18-21,26879
+2022-23,2022-23,Year,HIMACHAL PRADESH,Himachal Pradesh,North,18-21,28020
+2023-24,2023-24,Year,HIMACHAL PRADESH,Himachal Pradesh,North,18-21,26809
+2024-25,2024-25,Year,HIMACHAL PRADESH,Himachal Pradesh,North,18-21,24387
+2025-26,Apr 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,18-21,2571
+2025-26,May 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,18-21,3252
+2025-26,Jun 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,18-21,3678
+2025-26,Jul 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,18-21,3156
+2017-18,2017-18 (Sep-Mar),Part year,GOA,Goa,West,18-21,8398
+2018-19,2018-19,Year,GOA,Goa,West,18-21,16430
+2019-20,2019-20,Year,GOA,Goa,West,18-21,17869
+2020-21,2020-21,Year,GOA,Goa,West,18-21,15548
+2021-22,2021-22,Year,GOA,Goa,West,18-21,17459
+2022-23,2022-23,Year,GOA,Goa,West,18-21,21371
+2023-24,2023-24,Year,GOA,Goa,West,18-21,20540
+2024-25,2024-25,Year,GOA,Goa,West,18-21,19841
+2025-26,Apr 2025,Month,GOA,Goa,West,18-21,1790
+2025-26,May 2025,Month,GOA,Goa,West,18-21,2287
+2025-26,Jun 2025,Month,GOA,Goa,West,18-21,2440
+2025-26,Jul 2025,Month,GOA,Goa,West,18-21,2470
+2017-18,2017-18 (Sep-Mar),Part year,CHATTISGARH,Chhattisgarh,Central,18-21,7050
+2018-19,2018-19,Year,CHATTISGARH,Chhattisgarh,Central,18-21,16750
+2019-20,2019-20,Year,CHATTISGARH,Chhattisgarh,Central,18-21,14457
+2020-21,2020-21,Year,CHATTISGARH,Chhattisgarh,Central,18-21,14153
+2021-22,2021-22,Year,CHATTISGARH,Chhattisgarh,Central,18-21,19231
+2022-23,2022-23,Year,CHATTISGARH,Chhattisgarh,Central,18-21,19954
+2023-24,2023-24,Year,CHATTISGARH,Chhattisgarh,Central,18-21,21396
+2024-25,2024-25,Year,CHATTISGARH,Chhattisgarh,Central,18-21,22129
+2025-26,Apr 2025,Month,CHATTISGARH,Chhattisgarh,Central,18-21,2312
+2025-26,May 2025,Month,CHATTISGARH,Chhattisgarh,Central,18-21,2463
+2025-26,Jun 2025,Month,CHATTISGARH,Chhattisgarh,Central,18-21,2840
+2025-26,Jul 2025,Month,CHATTISGARH,Chhattisgarh,Central,18-21,2843
+2017-18,2017-18 (Sep-Mar),Part year,JHARKHAND,Jharkhand,East,18-21,6516
+2018-19,2018-19,Year,JHARKHAND,Jharkhand,East,18-21,15760
+2019-20,2019-20,Year,JHARKHAND,Jharkhand,East,18-21,14695
+2020-21,2020-21,Year,JHARKHAND,Jharkhand,East,18-21,12847
+2021-22,2021-22,Year,JHARKHAND,Jharkhand,East,18-21,17992
+2022-23,2022-23,Year,JHARKHAND,Jharkhand,East,18-21,19282
+2023-24,2023-24,Year,JHARKHAND,Jharkhand,East,18-21,21355
+2024-25,2024-25,Year,JHARKHAND,Jharkhand,East,18-21,20648
+2025-26,Apr 2025,Month,JHARKHAND,Jharkhand,East,18-21,1759
+2025-26,May 2025,Month,JHARKHAND,Jharkhand,East,18-21,2073
+2025-26,Jun 2025,Month,JHARKHAND,Jharkhand,East,18-21,1476
+2025-26,Jul 2025,Month,JHARKHAND,Jharkhand,East,18-21,1345
+2017-18,2017-18 (Sep-Mar),Part year,BIHAR,Bihar,East,18-21,3860
+2018-19,2018-19,Year,BIHAR,Bihar,East,18-21,13167
+2019-20,2019-20,Year,BIHAR,Bihar,East,18-21,14248
+2020-21,2020-21,Year,BIHAR,Bihar,East,18-21,9000
+2021-22,2021-22,Year,BIHAR,Bihar,East,18-21,13182
+2022-23,2022-23,Year,BIHAR,Bihar,East,18-21,18525
+2023-24,2023-24,Year,BIHAR,Bihar,East,18-21,22116
+2024-25,2024-25,Year,BIHAR,Bihar,East,18-21,25529
+2025-26,Apr 2025,Month,BIHAR,Bihar,East,18-21,1932
+2025-26,May 2025,Month,BIHAR,Bihar,East,18-21,2025
+2025-26,Jun 2025,Month,BIHAR,Bihar,East,18-21,2344
+2025-26,Jul 2025,Month,BIHAR,Bihar,East,18-21,2217
+2017-18,2017-18 (Sep-Mar),Part year,ASSAM,Assam,North East,18-21,7391
+2018-19,2018-19,Year,ASSAM,Assam,North East,18-21,12343
+2019-20,2019-20,Year,ASSAM,Assam,North East,18-21,12149
+2020-21,2020-21,Year,ASSAM,Assam,North East,18-21,6551
+2021-22,2021-22,Year,ASSAM,Assam,North East,18-21,7116
+2022-23,2022-23,Year,ASSAM,Assam,North East,18-21,10636
+2023-24,2023-24,Year,ASSAM,Assam,North East,18-21,13087
+2024-25,2024-25,Year,ASSAM,Assam,North East,18-21,8628
+2025-26,Apr 2025,Month,ASSAM,Assam,North East,18-21,1013
+2025-26,May 2025,Month,ASSAM,Assam,North East,18-21,1217
+2025-26,Jun 2025,Month,ASSAM,Assam,North East,18-21,1371
+2025-26,Jul 2025,Month,ASSAM,Assam,North East,18-21,1247
+2017-18,2017-18 (Sep-Mar),Part year,JAMMU AND KASHMIR,Jammu and Kashmir,North,18-21,0
+2018-19,2018-19,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,18-21,0
+2019-20,2019-20,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,18-21,5334
+2020-21,2020-21,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,18-21,6063
+2021-22,2021-22,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,18-21,6825
+2022-23,2022-23,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,18-21,6785
+2023-24,2023-24,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,18-21,6421
+2024-25,2024-25,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,18-21,6302
+2025-26,Apr 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,18-21,611
+2025-26,May 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,18-21,537
+2025-26,Jun 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,18-21,670
+2025-26,Jul 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,18-21,620
+2017-18,2017-18 (Sep-Mar),Part year,MEGHALAYA,Meghalaya,North East,18-21,563
+2018-19,2018-19,Year,MEGHALAYA,Meghalaya,North East,18-21,1083
+2019-20,2019-20,Year,MEGHALAYA,Meghalaya,North East,18-21,707
+2020-21,2020-21,Year,MEGHALAYA,Meghalaya,North East,18-21,360
+2021-22,2021-22,Year,MEGHALAYA,Meghalaya,North East,18-21,527
+2022-23,2022-23,Year,MEGHALAYA,Meghalaya,North East,18-21,608
+2023-24,2023-24,Year,MEGHALAYA,Meghalaya,North East,18-21,609
+2024-25,2024-25,Year,MEGHALAYA,Meghalaya,North East,18-21,656
+2025-26,Apr 2025,Month,MEGHALAYA,Meghalaya,North East,18-21,135
+2025-26,May 2025,Month,MEGHALAYA,Meghalaya,North East,18-21,106
+2025-26,Jun 2025,Month,MEGHALAYA,Meghalaya,North East,18-21,94
+2025-26,Jul 2025,Month,MEGHALAYA,Meghalaya,North East,18-21,61
+2017-18,2017-18 (Sep-Mar),Part year,TRIPURA,Tripura,North East,18-21,369
+2018-19,2018-19,Year,TRIPURA,Tripura,North East,18-21,317
+2019-20,2019-20,Year,TRIPURA,Tripura,North East,18-21,343
+2020-21,2020-21,Year,TRIPURA,Tripura,North East,18-21,341
+2021-22,2021-22,Year,TRIPURA,Tripura,North East,18-21,517
+2022-23,2022-23,Year,TRIPURA,Tripura,North East,18-21,418
+2023-24,2023-24,Year,TRIPURA,Tripura,North East,18-21,381
+2024-25,2024-25,Year,TRIPURA,Tripura,North East,18-21,385
+2025-26,Apr 2025,Month,TRIPURA,Tripura,North East,18-21,53
+2025-26,May 2025,Month,TRIPURA,Tripura,North East,18-21,34
+2025-26,Jun 2025,Month,TRIPURA,Tripura,North East,18-21,40
+2025-26,Jul 2025,Month,TRIPURA,Tripura,North East,18-21,44
+2017-18,2017-18 (Sep-Mar),Part year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,18-21,227
+2018-19,2018-19,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,18-21,371
+2019-20,2019-20,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,18-21,338
+2020-21,2020-21,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,18-21,315
+2021-22,2021-22,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,18-21,213
+2022-23,2022-23,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,18-21,387
+2023-24,2023-24,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,18-21,359
+2024-25,2024-25,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,18-21,271
+2025-26,Apr 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,18-21,23
+2025-26,May 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,18-21,20
+2025-26,Jun 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,18-21,17
+2025-26,Jul 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,18-21,19
+2017-18,2017-18 (Sep-Mar),Part year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,18-21,246
+2018-19,2018-19,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,18-21,236
+2019-20,2019-20,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,18-21,163
+2020-21,2020-21,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,18-21,192
+2021-22,2021-22,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,18-21,241
+2022-23,2022-23,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,18-21,275
+2023-24,2023-24,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,18-21,308
+2024-25,2024-25,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,18-21,253
+2025-26,Apr 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,18-21,21
+2025-26,May 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,18-21,18
+2025-26,Jun 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,18-21,18
+2025-26,Jul 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,18-21,4
+2017-18,2017-18 (Sep-Mar),Part year,MANIPUR,Manipur,North East,18-21,175
+2018-19,2018-19,Year,MANIPUR,Manipur,North East,18-21,205
+2019-20,2019-20,Year,MANIPUR,Manipur,North East,18-21,234
+2020-21,2020-21,Year,MANIPUR,Manipur,North East,18-21,221
+2021-22,2021-22,Year,MANIPUR,Manipur,North East,18-21,261
+2022-23,2022-23,Year,MANIPUR,Manipur,North East,18-21,272
+2023-24,2023-24,Year,MANIPUR,Manipur,North East,18-21,202
+2024-25,2024-25,Year,MANIPUR,Manipur,North East,18-21,246
+2025-26,Apr 2025,Month,MANIPUR,Manipur,North East,18-21,42
+2025-26,May 2025,Month,MANIPUR,Manipur,North East,18-21,14
+2025-26,Jun 2025,Month,MANIPUR,Manipur,North East,18-21,20
+2025-26,Jul 2025,Month,MANIPUR,Manipur,North East,18-21,15
+2017-18,2017-18 (Sep-Mar),Part year,NAGALAND,Nagaland,North East,18-21,31
+2018-19,2018-19,Year,NAGALAND,Nagaland,North East,18-21,76
+2019-20,2019-20,Year,NAGALAND,Nagaland,North East,18-21,87
+2020-21,2020-21,Year,NAGALAND,Nagaland,North East,18-21,52
+2021-22,2021-22,Year,NAGALAND,Nagaland,North East,18-21,56
+2022-23,2022-23,Year,NAGALAND,Nagaland,North East,18-21,78
+2023-24,2023-24,Year,NAGALAND,Nagaland,North East,18-21,100
+2024-25,2024-25,Year,NAGALAND,Nagaland,North East,18-21,94
+2025-26,Apr 2025,Month,NAGALAND,Nagaland,North East,18-21,15
+2025-26,May 2025,Month,NAGALAND,Nagaland,North East,18-21,6
+2025-26,Jun 2025,Month,NAGALAND,Nagaland,North East,18-21,19
+2025-26,Jul 2025,Month,NAGALAND,Nagaland,North East,18-21,8
+2017-18,2017-18 (Sep-Mar),Part year,MIZORAM,Mizoram,North East,18-21,17
+2018-19,2018-19,Year,MIZORAM,Mizoram,North East,18-21,89
+2019-20,2019-20,Year,MIZORAM,Mizoram,North East,18-21,44
+2020-21,2020-21,Year,MIZORAM,Mizoram,North East,18-21,47
+2021-22,2021-22,Year,MIZORAM,Mizoram,North East,18-21,46
+2022-23,2022-23,Year,MIZORAM,Mizoram,North East,18-21,35
+2023-24,2023-24,Year,MIZORAM,Mizoram,North East,18-21,79
+2024-25,2024-25,Year,MIZORAM,Mizoram,North East,18-21,57
+2025-26,Apr 2025,Month,MIZORAM,Mizoram,North East,18-21,2
+2025-26,May 2025,Month,MIZORAM,Mizoram,North East,18-21,-3
+2025-26,Jun 2025,Month,MIZORAM,Mizoram,North East,18-21,9
+2025-26,Jul 2025,Month,MIZORAM,Mizoram,North East,18-21,2
+2017-18,2017-18 (Sep-Mar),Part year,LADAKH,Ladakh,North,18-21,0
+2018-19,2018-19,Year,LADAKH,Ladakh,North,18-21,0
+2019-20,2019-20,Year,LADAKH,Ladakh,North,18-21,-20
+2020-21,2020-21,Year,LADAKH,Ladakh,North,18-21,21
+2021-22,2021-22,Year,LADAKH,Ladakh,North,18-21,66
+2022-23,2022-23,Year,LADAKH,Ladakh,North,18-21,72
+2023-24,2023-24,Year,LADAKH,Ladakh,North,18-21,46
+2024-25,2024-25,Year,LADAKH,Ladakh,North,18-21,36
+2025-26,Apr 2025,Month,LADAKH,Ladakh,North,18-21,10
+2025-26,May 2025,Month,LADAKH,Ladakh,North,18-21,11
+2025-26,Jun 2025,Month,LADAKH,Ladakh,North,18-21,6
+2025-26,Jul 2025,Month,LADAKH,Ladakh,North,18-21,2
+2017-18,2017-18 (Sep-Mar),Part year,MAHARASHTRA,Maharashtra,West,22-25,174784
+2018-19,2018-19,Year,MAHARASHTRA,Maharashtra,West,22-25,486518
+2019-20,2019-20,Year,MAHARASHTRA,Maharashtra,West,22-25,535252
+2020-21,2020-21,Year,MAHARASHTRA,Maharashtra,West,22-25,436908
+2021-22,2021-22,Year,MAHARASHTRA,Maharashtra,West,22-25,793522
+2022-23,2022-23,Year,MAHARASHTRA,Maharashtra,West,22-25,822449
+2023-24,2023-24,Year,MAHARASHTRA,Maharashtra,West,22-25,750290
+2024-25,2024-25,Year,MAHARASHTRA,Maharashtra,West,22-25,756771
+2025-26,Apr 2025,Month,MAHARASHTRA,Maharashtra,West,22-25,69783
+2025-26,May 2025,Month,MAHARASHTRA,Maharashtra,West,22-25,84576
+2025-26,Jun 2025,Month,MAHARASHTRA,Maharashtra,West,22-25,97231
+2025-26,Jul 2025,Month,MAHARASHTRA,Maharashtra,West,22-25,107687
+2017-18,2017-18 (Sep-Mar),Part year,KARNATAKA,Karnataka,South,22-25,45239
+2018-19,2018-19,Year,KARNATAKA,Karnataka,South,22-25,219708
+2019-20,2019-20,Year,KARNATAKA,Karnataka,South,22-25,272594
+2020-21,2020-21,Year,KARNATAKA,Karnataka,South,22-25,212330
+2021-22,2021-22,Year,KARNATAKA,Karnataka,South,22-25,438827
+2022-23,2022-23,Year,KARNATAKA,Karnataka,South,22-25,398245
+2023-24,2023-24,Year,KARNATAKA,Karnataka,South,22-25,368447
+2024-25,2024-25,Year,KARNATAKA,Karnataka,South,22-25,374621
+2025-26,Apr 2025,Month,KARNATAKA,Karnataka,South,22-25,40678
+2025-26,May 2025,Month,KARNATAKA,Karnataka,South,22-25,37969
+2025-26,Jun 2025,Month,KARNATAKA,Karnataka,South,22-25,55212
+2025-26,Jul 2025,Month,KARNATAKA,Karnataka,South,22-25,65096
+2017-18,2017-18 (Sep-Mar),Part year,TAMIL NADU,Tamil Nadu,South,22-25,32464
+2018-19,2018-19,Year,TAMIL NADU,Tamil Nadu,South,22-25,126990
+2019-20,2019-20,Year,TAMIL NADU,Tamil Nadu,South,22-25,188768
+2020-21,2020-21,Year,TAMIL NADU,Tamil Nadu,South,22-25,174261
+2021-22,2021-22,Year,TAMIL NADU,Tamil Nadu,South,22-25,351949
+2022-23,2022-23,Year,TAMIL NADU,Tamil Nadu,South,22-25,368981
+2023-24,2023-24,Year,TAMIL NADU,Tamil Nadu,South,22-25,308474
+2024-25,2024-25,Year,TAMIL NADU,Tamil Nadu,South,22-25,302139
+2025-26,Apr 2025,Month,TAMIL NADU,Tamil Nadu,South,22-25,29149
+2025-26,May 2025,Month,TAMIL NADU,Tamil Nadu,South,22-25,33014
+2025-26,Jun 2025,Month,TAMIL NADU,Tamil Nadu,South,22-25,51082
+2025-26,Jul 2025,Month,TAMIL NADU,Tamil Nadu,South,22-25,55773
+2017-18,2017-18 (Sep-Mar),Part year,GUJARAT,Gujarat,West,22-25,47633
+2018-19,2018-19,Year,GUJARAT,Gujarat,West,22-25,137373
+2019-20,2019-20,Year,GUJARAT,Gujarat,West,22-25,176214
+2020-21,2020-21,Year,GUJARAT,Gujarat,West,22-25,193900
+2021-22,2021-22,Year,GUJARAT,Gujarat,West,22-25,268797
+2022-23,2022-23,Year,GUJARAT,Gujarat,West,22-25,280933
+2023-24,2023-24,Year,GUJARAT,Gujarat,West,22-25,266635
+2024-25,2024-25,Year,GUJARAT,Gujarat,West,22-25,260116
+2025-26,Apr 2025,Month,GUJARAT,Gujarat,West,22-25,27020
+2025-26,May 2025,Month,GUJARAT,Gujarat,West,22-25,29671
+2025-26,Jun 2025,Month,GUJARAT,Gujarat,West,22-25,43004
+2025-26,Jul 2025,Month,GUJARAT,Gujarat,West,22-25,43192
+2017-18,2017-18 (Sep-Mar),Part year,HARYANA,Haryana,North,22-25,29542
+2018-19,2018-19,Year,HARYANA,Haryana,North,22-25,97682
+2019-20,2019-20,Year,HARYANA,Haryana,North,22-25,160248
+2020-21,2020-21,Year,HARYANA,Haryana,North,22-25,209000
+2021-22,2021-22,Year,HARYANA,Haryana,North,22-25,267635
+2022-23,2022-23,Year,HARYANA,Haryana,North,22-25,311866
+2023-24,2023-24,Year,HARYANA,Haryana,North,22-25,265329
+2024-25,2024-25,Year,HARYANA,Haryana,North,22-25,268284
+2025-26,Apr 2025,Month,HARYANA,Haryana,North,22-25,23557
+2025-26,May 2025,Month,HARYANA,Haryana,North,22-25,29567
+2025-26,Jun 2025,Month,HARYANA,Haryana,North,22-25,37734
+2025-26,Jul 2025,Month,HARYANA,Haryana,North,22-25,41424
+2017-18,2017-18 (Sep-Mar),Part year,DELHI,Delhi,North,22-25,27821
+2018-19,2018-19,Year,DELHI,Delhi,North,22-25,126375
+2019-20,2019-20,Year,DELHI,Delhi,North,22-25,158600
+2020-21,2020-21,Year,DELHI,Delhi,North,22-25,129072
+2021-22,2021-22,Year,DELHI,Delhi,North,22-25,249815
+2022-23,2022-23,Year,DELHI,Delhi,North,22-25,276744
+2023-24,2023-24,Year,DELHI,Delhi,North,22-25,246845
+2024-25,2024-25,Year,DELHI,Delhi,North,22-25,233441
+2025-26,Apr 2025,Month,DELHI,Delhi,North,22-25,25427
+2025-26,May 2025,Month,DELHI,Delhi,North,22-25,24331
+2025-26,Jun 2025,Month,DELHI,Delhi,North,22-25,30638
+2025-26,Jul 2025,Month,DELHI,Delhi,North,22-25,35234
+2017-18,2017-18 (Sep-Mar),Part year,TELANGANA,Telangana,South,22-25,34596
+2018-19,2018-19,Year,TELANGANA,Telangana,South,22-25,123214
+2019-20,2019-20,Year,TELANGANA,Telangana,South,22-25,130528
+2020-21,2020-21,Year,TELANGANA,Telangana,South,22-25,121182
+2021-22,2021-22,Year,TELANGANA,Telangana,South,22-25,213365
+2022-23,2022-23,Year,TELANGANA,Telangana,South,22-25,227560
+2023-24,2023-24,Year,TELANGANA,Telangana,South,22-25,205620
+2024-25,2024-25,Year,TELANGANA,Telangana,South,22-25,216226
+2025-26,Apr 2025,Month,TELANGANA,Telangana,South,22-25,18998
+2025-26,May 2025,Month,TELANGANA,Telangana,South,22-25,17686
+2025-26,Jun 2025,Month,TELANGANA,Telangana,South,22-25,28966
+2025-26,Jul 2025,Month,TELANGANA,Telangana,South,22-25,30822
+2017-18,2017-18 (Sep-Mar),Part year,UTTAR PRADESH,Uttar Pradesh,North,22-25,16150
+2018-19,2018-19,Year,UTTAR PRADESH,Uttar Pradesh,North,22-25,68444
+2019-20,2019-20,Year,UTTAR PRADESH,Uttar Pradesh,North,22-25,121261
+2020-21,2020-21,Year,UTTAR PRADESH,Uttar Pradesh,North,22-25,139888
+2021-22,2021-22,Year,UTTAR PRADESH,Uttar Pradesh,North,22-25,172210
+2022-23,2022-23,Year,UTTAR PRADESH,Uttar Pradesh,North,22-25,179605
+2023-24,2023-24,Year,UTTAR PRADESH,Uttar Pradesh,North,22-25,184454
+2024-25,2024-25,Year,UTTAR PRADESH,Uttar Pradesh,North,22-25,175960
+2025-26,Apr 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,22-25,19194
+2025-26,May 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,22-25,21895
+2025-26,Jun 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,22-25,23767
+2025-26,Jul 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,22-25,24529
+2017-18,2017-18 (Sep-Mar),Part year,WEST BENGAL,West Bengal,East,22-25,35753
+2018-19,2018-19,Year,WEST BENGAL,West Bengal,East,22-25,79502
+2019-20,2019-20,Year,WEST BENGAL,West Bengal,East,22-25,79101
+2020-21,2020-21,Year,WEST BENGAL,West Bengal,East,22-25,69486
+2021-22,2021-22,Year,WEST BENGAL,West Bengal,East,22-25,109049
+2022-23,2022-23,Year,WEST BENGAL,West Bengal,East,22-25,122785
+2023-24,2023-24,Year,WEST BENGAL,West Bengal,East,22-25,114926
+2024-25,2024-25,Year,WEST BENGAL,West Bengal,East,22-25,112691
+2025-26,Apr 2025,Month,WEST BENGAL,West Bengal,East,22-25,11599
+2025-26,May 2025,Month,WEST BENGAL,West Bengal,East,22-25,9613
+2025-26,Jun 2025,Month,WEST BENGAL,West Bengal,East,22-25,12390
+2025-26,Jul 2025,Month,WEST BENGAL,West Bengal,East,22-25,14298
+2017-18,2017-18 (Sep-Mar),Part year,RAJASTHAN,Rajasthan,North,22-25,17283
+2018-19,2018-19,Year,RAJASTHAN,Rajasthan,North,22-25,44997
+2019-20,2019-20,Year,RAJASTHAN,Rajasthan,North,22-25,63456
+2020-21,2020-21,Year,RAJASTHAN,Rajasthan,North,22-25,74168
+2021-22,2021-22,Year,RAJASTHAN,Rajasthan,North,22-25,99675
+2022-23,2022-23,Year,RAJASTHAN,Rajasthan,North,22-25,107269
+2023-24,2023-24,Year,RAJASTHAN,Rajasthan,North,22-25,104224
+2024-25,2024-25,Year,RAJASTHAN,Rajasthan,North,22-25,95920
+2025-26,Apr 2025,Month,RAJASTHAN,Rajasthan,North,22-25,10109
+2025-26,May 2025,Month,RAJASTHAN,Rajasthan,North,22-25,14414
+2025-26,Jun 2025,Month,RAJASTHAN,Rajasthan,North,22-25,13749
+2025-26,Jul 2025,Month,RAJASTHAN,Rajasthan,North,22-25,15427
+2017-18,2017-18 (Sep-Mar),Part year,MADHYA PRADESH,Madhya Pradesh,Central,22-25,10905
+2018-19,2018-19,Year,MADHYA PRADESH,Madhya Pradesh,Central,22-25,38571
+2019-20,2019-20,Year,MADHYA PRADESH,Madhya Pradesh,Central,22-25,48657
+2020-21,2020-21,Year,MADHYA PRADESH,Madhya Pradesh,Central,22-25,47742
+2021-22,2021-22,Year,MADHYA PRADESH,Madhya Pradesh,Central,22-25,66192
+2022-23,2022-23,Year,MADHYA PRADESH,Madhya Pradesh,Central,22-25,75434
+2023-24,2023-24,Year,MADHYA PRADESH,Madhya Pradesh,Central,22-25,68429
+2024-25,2024-25,Year,MADHYA PRADESH,Madhya Pradesh,Central,22-25,64191
+2025-26,Apr 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,22-25,5659
+2025-26,May 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,22-25,7141
+2025-26,Jun 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,22-25,8311
+2025-26,Jul 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,22-25,9525
+2017-18,2017-18 (Sep-Mar),Part year,ANDHRA PRADESH,Andhra Pradesh,South,22-25,16747
+2018-19,2018-19,Year,ANDHRA PRADESH,Andhra Pradesh,South,22-25,36978
+2019-20,2019-20,Year,ANDHRA PRADESH,Andhra Pradesh,South,22-25,39699
+2020-21,2020-21,Year,ANDHRA PRADESH,Andhra Pradesh,South,22-25,46502
+2021-22,2021-22,Year,ANDHRA PRADESH,Andhra Pradesh,South,22-25,61142
+2022-23,2022-23,Year,ANDHRA PRADESH,Andhra Pradesh,South,22-25,63969
+2023-24,2023-24,Year,ANDHRA PRADESH,Andhra Pradesh,South,22-25,55547
+2024-25,2024-25,Year,ANDHRA PRADESH,Andhra Pradesh,South,22-25,52709
+2025-26,Apr 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,22-25,4059
+2025-26,May 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,22-25,4634
+2025-26,Jun 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,22-25,7218
+2025-26,Jul 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,22-25,7961
+2017-18,2017-18 (Sep-Mar),Part year,KERALA,Kerala,South,22-25,6265
+2018-19,2018-19,Year,KERALA,Kerala,South,22-25,21790
+2019-20,2019-20,Year,KERALA,Kerala,South,22-25,30116
+2020-21,2020-21,Year,KERALA,Kerala,South,22-25,31842
+2021-22,2021-22,Year,KERALA,Kerala,South,22-25,58721
+2022-23,2022-23,Year,KERALA,Kerala,South,22-25,66060
+2023-24,2023-24,Year,KERALA,Kerala,South,22-25,54771
+2024-25,2024-25,Year,KERALA,Kerala,South,22-25,53865
+2025-26,Apr 2025,Month,KERALA,Kerala,South,22-25,4581
+2025-26,May 2025,Month,KERALA,Kerala,South,22-25,4408
+2025-26,Jun 2025,Month,KERALA,Kerala,South,22-25,6048
+2025-26,Jul 2025,Month,KERALA,Kerala,South,22-25,6765
+2017-18,2017-18 (Sep-Mar),Part year,ORISSA,Odisha,East,22-25,11284
+2018-19,2018-19,Year,ORISSA,Odisha,East,22-25,16129
+2019-20,2019-20,Year,ORISSA,Odisha,East,22-25,20487
+2020-21,2020-21,Year,ORISSA,Odisha,East,22-25,25067
+2021-22,2021-22,Year,ORISSA,Odisha,East,22-25,39446
+2022-23,2022-23,Year,ORISSA,Odisha,East,22-25,48797
+2023-24,2023-24,Year,ORISSA,Odisha,East,22-25,49963
+2024-25,2024-25,Year,ORISSA,Odisha,East,22-25,49583
+2025-26,Apr 2025,Month,ORISSA,Odisha,East,22-25,3893
+2025-26,May 2025,Month,ORISSA,Odisha,East,22-25,5546
+2025-26,Jun 2025,Month,ORISSA,Odisha,East,22-25,4468
+2025-26,Jul 2025,Month,ORISSA,Odisha,East,22-25,5115
+2017-18,2017-18 (Sep-Mar),Part year,UTTARAKHAND,Uttarakhand,North,22-25,5246
+2018-19,2018-19,Year,UTTARAKHAND,Uttarakhand,North,22-25,16618
+2019-20,2019-20,Year,UTTARAKHAND,Uttarakhand,North,22-25,25832
+2020-21,2020-21,Year,UTTARAKHAND,Uttarakhand,North,22-25,40036
+2021-22,2021-22,Year,UTTARAKHAND,Uttarakhand,North,22-25,38718
+2022-23,2022-23,Year,UTTARAKHAND,Uttarakhand,North,22-25,49507
+2023-24,2023-24,Year,UTTARAKHAND,Uttarakhand,North,22-25,44935
+2024-25,2024-25,Year,UTTARAKHAND,Uttarakhand,North,22-25,31777
+2025-26,Apr 2025,Month,UTTARAKHAND,Uttarakhand,North,22-25,3518
+2025-26,May 2025,Month,UTTARAKHAND,Uttarakhand,North,22-25,4498
+2025-26,Jun 2025,Month,UTTARAKHAND,Uttarakhand,North,22-25,4944
+2025-26,Jul 2025,Month,UTTARAKHAND,Uttarakhand,North,22-25,5945
+2017-18,2017-18 (Sep-Mar),Part year,CHANDIGARH,Chandigarh,North,22-25,6527
+2018-19,2018-19,Year,CHANDIGARH,Chandigarh,North,22-25,22791
+2019-20,2019-20,Year,CHANDIGARH,Chandigarh,North,22-25,18166
+2020-21,2020-21,Year,CHANDIGARH,Chandigarh,North,22-25,24015
+2021-22,2021-22,Year,CHANDIGARH,Chandigarh,North,22-25,34410
+2022-23,2022-23,Year,CHANDIGARH,Chandigarh,North,22-25,37222
+2023-24,2023-24,Year,CHANDIGARH,Chandigarh,North,22-25,28130
+2024-25,2024-25,Year,CHANDIGARH,Chandigarh,North,22-25,26152
+2025-26,Apr 2025,Month,CHANDIGARH,Chandigarh,North,22-25,3029
+2025-26,May 2025,Month,CHANDIGARH,Chandigarh,North,22-25,3284
+2025-26,Jun 2025,Month,CHANDIGARH,Chandigarh,North,22-25,4027
+2025-26,Jul 2025,Month,CHANDIGARH,Chandigarh,North,22-25,4808
+2017-18,2017-18 (Sep-Mar),Part year,PUNJAB,Punjab,North,22-25,4837
+2018-19,2018-19,Year,PUNJAB,Punjab,North,22-25,19213
+2019-20,2019-20,Year,PUNJAB,Punjab,North,22-25,24114
+2020-21,2020-21,Year,PUNJAB,Punjab,North,22-25,24555
+2021-22,2021-22,Year,PUNJAB,Punjab,North,22-25,32144
+2022-23,2022-23,Year,PUNJAB,Punjab,North,22-25,28463
+2023-24,2023-24,Year,PUNJAB,Punjab,North,22-25,25336
+2024-25,2024-25,Year,PUNJAB,Punjab,North,22-25,19979
+2025-26,Apr 2025,Month,PUNJAB,Punjab,North,22-25,2099
+2025-26,May 2025,Month,PUNJAB,Punjab,North,22-25,2192
+2025-26,Jun 2025,Month,PUNJAB,Punjab,North,22-25,2734
+2025-26,Jul 2025,Month,PUNJAB,Punjab,North,22-25,3428
+2017-18,2017-18 (Sep-Mar),Part year,CHATTISGARH,Chhattisgarh,Central,22-25,8717
+2018-19,2018-19,Year,CHATTISGARH,Chhattisgarh,Central,22-25,20555
+2019-20,2019-20,Year,CHATTISGARH,Chhattisgarh,Central,22-25,17289
+2020-21,2020-21,Year,CHATTISGARH,Chhattisgarh,Central,22-25,18978
+2021-22,2021-22,Year,CHATTISGARH,Chhattisgarh,Central,22-25,27232
+2022-23,2022-23,Year,CHATTISGARH,Chhattisgarh,Central,22-25,28726
+2023-24,2023-24,Year,CHATTISGARH,Chhattisgarh,Central,22-25,26330
+2024-25,2024-25,Year,CHATTISGARH,Chhattisgarh,Central,22-25,27609
+2025-26,Apr 2025,Month,CHATTISGARH,Chhattisgarh,Central,22-25,2918
+2025-26,May 2025,Month,CHATTISGARH,Chhattisgarh,Central,22-25,2585
+2025-26,Jun 2025,Month,CHATTISGARH,Chhattisgarh,Central,22-25,3626
+2025-26,Jul 2025,Month,CHATTISGARH,Chhattisgarh,Central,22-25,3776
+2017-18,2017-18 (Sep-Mar),Part year,BIHAR,Bihar,East,22-25,2679
+2018-19,2018-19,Year,BIHAR,Bihar,East,22-25,16992
+2019-20,2019-20,Year,BIHAR,Bihar,East,22-25,16436
+2020-21,2020-21,Year,BIHAR,Bihar,East,22-25,13207
+2021-22,2021-22,Year,BIHAR,Bihar,East,22-25,19441
+2022-23,2022-23,Year,BIHAR,Bihar,East,22-25,32931
+2023-24,2023-24,Year,BIHAR,Bihar,East,22-25,32268
+2024-25,2024-25,Year,BIHAR,Bihar,East,22-25,34937
+2025-26,Apr 2025,Month,BIHAR,Bihar,East,22-25,2819
+2025-26,May 2025,Month,BIHAR,Bihar,East,22-25,3002
+2025-26,Jun 2025,Month,BIHAR,Bihar,East,22-25,3196
+2025-26,Jul 2025,Month,BIHAR,Bihar,East,22-25,3425
+2017-18,2017-18 (Sep-Mar),Part year,JHARKHAND,Jharkhand,East,22-25,6390
+2018-19,2018-19,Year,JHARKHAND,Jharkhand,East,22-25,14737
+2019-20,2019-20,Year,JHARKHAND,Jharkhand,East,22-25,15618
+2020-21,2020-21,Year,JHARKHAND,Jharkhand,East,22-25,16163
+2021-22,2021-22,Year,JHARKHAND,Jharkhand,East,22-25,22091
+2022-23,2022-23,Year,JHARKHAND,Jharkhand,East,22-25,26739
+2023-24,2023-24,Year,JHARKHAND,Jharkhand,East,22-25,26436
+2024-25,2024-25,Year,JHARKHAND,Jharkhand,East,22-25,24903
+2025-26,Apr 2025,Month,JHARKHAND,Jharkhand,East,22-25,2123
+2025-26,May 2025,Month,JHARKHAND,Jharkhand,East,22-25,2247
+2025-26,Jun 2025,Month,JHARKHAND,Jharkhand,East,22-25,1987
+2025-26,Jul 2025,Month,JHARKHAND,Jharkhand,East,22-25,2223
+2017-18,2017-18 (Sep-Mar),Part year,HIMACHAL PRADESH,Himachal Pradesh,North,22-25,1346
+2018-19,2018-19,Year,HIMACHAL PRADESH,Himachal Pradesh,North,22-25,9202
+2019-20,2019-20,Year,HIMACHAL PRADESH,Himachal Pradesh,North,22-25,14580
+2020-21,2020-21,Year,HIMACHAL PRADESH,Himachal Pradesh,North,22-25,22615
+2021-22,2021-22,Year,HIMACHAL PRADESH,Himachal Pradesh,North,22-25,21385
+2022-23,2022-23,Year,HIMACHAL PRADESH,Himachal Pradesh,North,22-25,22127
+2023-24,2023-24,Year,HIMACHAL PRADESH,Himachal Pradesh,North,22-25,19271
+2024-25,2024-25,Year,HIMACHAL PRADESH,Himachal Pradesh,North,22-25,17546
+2025-26,Apr 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,22-25,1904
+2025-26,May 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,22-25,2162
+2025-26,Jun 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,22-25,2996
+2025-26,Jul 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,22-25,3084
+2017-18,2017-18 (Sep-Mar),Part year,GOA,Goa,West,22-25,3751
+2018-19,2018-19,Year,GOA,Goa,West,22-25,8372
+2019-20,2019-20,Year,GOA,Goa,West,22-25,12745
+2020-21,2020-21,Year,GOA,Goa,West,22-25,14719
+2021-22,2021-22,Year,GOA,Goa,West,22-25,17589
+2022-23,2022-23,Year,GOA,Goa,West,22-25,22424
+2023-24,2023-24,Year,GOA,Goa,West,22-25,18303
+2024-25,2024-25,Year,GOA,Goa,West,22-25,18378
+2025-26,Apr 2025,Month,GOA,Goa,West,22-25,1622
+2025-26,May 2025,Month,GOA,Goa,West,22-25,1741
+2025-26,Jun 2025,Month,GOA,Goa,West,22-25,2237
+2025-26,Jul 2025,Month,GOA,Goa,West,22-25,2540
+2017-18,2017-18 (Sep-Mar),Part year,ASSAM,Assam,North East,22-25,10787
+2018-19,2018-19,Year,ASSAM,Assam,North East,22-25,14872
+2019-20,2019-20,Year,ASSAM,Assam,North East,22-25,14633
+2020-21,2020-21,Year,ASSAM,Assam,North East,22-25,8751
+2021-22,2021-22,Year,ASSAM,Assam,North East,22-25,3460
+2022-23,2022-23,Year,ASSAM,Assam,North East,22-25,13758
+2023-24,2023-24,Year,ASSAM,Assam,North East,22-25,13685
+2024-25,2024-25,Year,ASSAM,Assam,North East,22-25,9927
+2025-26,Apr 2025,Month,ASSAM,Assam,North East,22-25,1434
+2025-26,May 2025,Month,ASSAM,Assam,North East,22-25,1458
+2025-26,Jun 2025,Month,ASSAM,Assam,North East,22-25,1413
+2025-26,Jul 2025,Month,ASSAM,Assam,North East,22-25,1464
+2017-18,2017-18 (Sep-Mar),Part year,JAMMU AND KASHMIR,Jammu and Kashmir,North,22-25,0
+2018-19,2018-19,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,22-25,0
+2019-20,2019-20,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,22-25,9266
+2020-21,2020-21,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,22-25,7038
+2021-22,2021-22,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,22-25,7354
+2022-23,2022-23,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,22-25,8038
+2023-24,2023-24,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,22-25,6995
+2024-25,2024-25,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,22-25,7034
+2025-26,Apr 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,22-25,940
+2025-26,May 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,22-25,607
+2025-26,Jun 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,22-25,732
+2025-26,Jul 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,22-25,682
+2017-18,2017-18 (Sep-Mar),Part year,MEGHALAYA,Meghalaya,North East,22-25,811
+2018-19,2018-19,Year,MEGHALAYA,Meghalaya,North East,22-25,1805
+2019-20,2019-20,Year,MEGHALAYA,Meghalaya,North East,22-25,1207
+2020-21,2020-21,Year,MEGHALAYA,Meghalaya,North East,22-25,750
+2021-22,2021-22,Year,MEGHALAYA,Meghalaya,North East,22-25,1144
+2022-23,2022-23,Year,MEGHALAYA,Meghalaya,North East,22-25,1318
+2023-24,2023-24,Year,MEGHALAYA,Meghalaya,North East,22-25,1269
+2024-25,2024-25,Year,MEGHALAYA,Meghalaya,North East,22-25,1262
+2025-26,Apr 2025,Month,MEGHALAYA,Meghalaya,North East,22-25,167
+2025-26,May 2025,Month,MEGHALAYA,Meghalaya,North East,22-25,172
+2025-26,Jun 2025,Month,MEGHALAYA,Meghalaya,North East,22-25,145
+2025-26,Jul 2025,Month,MEGHALAYA,Meghalaya,North East,22-25,101
+2017-18,2017-18 (Sep-Mar),Part year,TRIPURA,Tripura,North East,22-25,531
+2018-19,2018-19,Year,TRIPURA,Tripura,North East,22-25,607
+2019-20,2019-20,Year,TRIPURA,Tripura,North East,22-25,537
+2020-21,2020-21,Year,TRIPURA,Tripura,North East,22-25,570
+2021-22,2021-22,Year,TRIPURA,Tripura,North East,22-25,736
+2022-23,2022-23,Year,TRIPURA,Tripura,North East,22-25,592
+2023-24,2023-24,Year,TRIPURA,Tripura,North East,22-25,808
+2024-25,2024-25,Year,TRIPURA,Tripura,North East,22-25,707
+2025-26,Apr 2025,Month,TRIPURA,Tripura,North East,22-25,118
+2025-26,May 2025,Month,TRIPURA,Tripura,North East,22-25,92
+2025-26,Jun 2025,Month,TRIPURA,Tripura,North East,22-25,59
+2025-26,Jul 2025,Month,TRIPURA,Tripura,North East,22-25,103
+2017-18,2017-18 (Sep-Mar),Part year,MANIPUR,Manipur,North East,22-25,248
+2018-19,2018-19,Year,MANIPUR,Manipur,North East,22-25,443
+2019-20,2019-20,Year,MANIPUR,Manipur,North East,22-25,434
+2020-21,2020-21,Year,MANIPUR,Manipur,North East,22-25,384
+2021-22,2021-22,Year,MANIPUR,Manipur,North East,22-25,494
+2022-23,2022-23,Year,MANIPUR,Manipur,North East,22-25,640
+2023-24,2023-24,Year,MANIPUR,Manipur,North East,22-25,331
+2024-25,2024-25,Year,MANIPUR,Manipur,North East,22-25,412
+2025-26,Apr 2025,Month,MANIPUR,Manipur,North East,22-25,94
+2025-26,May 2025,Month,MANIPUR,Manipur,North East,22-25,25
+2025-26,Jun 2025,Month,MANIPUR,Manipur,North East,22-25,32
+2025-26,Jul 2025,Month,MANIPUR,Manipur,North East,22-25,16
+2017-18,2017-18 (Sep-Mar),Part year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,22-25,283
+2018-19,2018-19,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,22-25,510
+2019-20,2019-20,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,22-25,385
+2020-21,2020-21,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,22-25,433
+2021-22,2021-22,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,22-25,362
+2022-23,2022-23,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,22-25,557
+2023-24,2023-24,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,22-25,423
+2024-25,2024-25,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,22-25,418
+2025-26,Apr 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,22-25,16
+2025-26,May 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,22-25,10
+2025-26,Jun 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,22-25,46
+2025-26,Jul 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,22-25,40
+2017-18,2017-18 (Sep-Mar),Part year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,22-25,291
+2018-19,2018-19,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,22-25,347
+2019-20,2019-20,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,22-25,304
+2020-21,2020-21,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,22-25,352
+2021-22,2021-22,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,22-25,508
+2022-23,2022-23,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,22-25,556
+2023-24,2023-24,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,22-25,576
+2024-25,2024-25,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,22-25,402
+2025-26,Apr 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,22-25,18
+2025-26,May 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,22-25,11
+2025-26,Jun 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,22-25,41
+2025-26,Jul 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,22-25,29
+2017-18,2017-18 (Sep-Mar),Part year,NAGALAND,Nagaland,North East,22-25,71
+2018-19,2018-19,Year,NAGALAND,Nagaland,North East,22-25,261
+2019-20,2019-20,Year,NAGALAND,Nagaland,North East,22-25,281
+2020-21,2020-21,Year,NAGALAND,Nagaland,North East,22-25,135
+2021-22,2021-22,Year,NAGALAND,Nagaland,North East,22-25,194
+2022-23,2022-23,Year,NAGALAND,Nagaland,North East,22-25,297
+2023-24,2023-24,Year,NAGALAND,Nagaland,North East,22-25,306
+2024-25,2024-25,Year,NAGALAND,Nagaland,North East,22-25,219
+2025-26,Apr 2025,Month,NAGALAND,Nagaland,North East,22-25,57
+2025-26,May 2025,Month,NAGALAND,Nagaland,North East,22-25,30
+2025-26,Jun 2025,Month,NAGALAND,Nagaland,North East,22-25,43
+2025-26,Jul 2025,Month,NAGALAND,Nagaland,North East,22-25,20
+2017-18,2017-18 (Sep-Mar),Part year,MIZORAM,Mizoram,North East,22-25,35
+2018-19,2018-19,Year,MIZORAM,Mizoram,North East,22-25,109
+2019-20,2019-20,Year,MIZORAM,Mizoram,North East,22-25,86
+2020-21,2020-21,Year,MIZORAM,Mizoram,North East,22-25,88
+2021-22,2021-22,Year,MIZORAM,Mizoram,North East,22-25,154
+2022-23,2022-23,Year,MIZORAM,Mizoram,North East,22-25,113
+2023-24,2023-24,Year,MIZORAM,Mizoram,North East,22-25,183
+2024-25,2024-25,Year,MIZORAM,Mizoram,North East,22-25,168
+2025-26,Apr 2025,Month,MIZORAM,Mizoram,North East,22-25,17
+2025-26,May 2025,Month,MIZORAM,Mizoram,North East,22-25,9
+2025-26,Jun 2025,Month,MIZORAM,Mizoram,North East,22-25,14
+2025-26,Jul 2025,Month,MIZORAM,Mizoram,North East,22-25,1
+2017-18,2017-18 (Sep-Mar),Part year,LADAKH,Ladakh,North,22-25,0
+2018-19,2018-19,Year,LADAKH,Ladakh,North,22-25,0
+2019-20,2019-20,Year,LADAKH,Ladakh,North,22-25,32
+2020-21,2020-21,Year,LADAKH,Ladakh,North,22-25,29
+2021-22,2021-22,Year,LADAKH,Ladakh,North,22-25,128
+2022-23,2022-23,Year,LADAKH,Ladakh,North,22-25,143
+2023-24,2023-24,Year,LADAKH,Ladakh,North,22-25,107
+2024-25,2024-25,Year,LADAKH,Ladakh,North,22-25,64
+2025-26,Apr 2025,Month,LADAKH,Ladakh,North,22-25,10
+2025-26,May 2025,Month,LADAKH,Ladakh,North,22-25,9
+2025-26,Jun 2025,Month,LADAKH,Ladakh,North,22-25,1
+2025-26,Jul 2025,Month,LADAKH,Ladakh,North,22-25,6
+2017-18,2017-18 (Sep-Mar),Part year,MAHARASHTRA,Maharashtra,West,26-28,26962
+2018-19,2018-19,Year,MAHARASHTRA,Maharashtra,West,26-28,168034
+2019-20,2019-20,Year,MAHARASHTRA,Maharashtra,West,26-28,206247
+2020-21,2020-21,Year,MAHARASHTRA,Maharashtra,West,26-28,194575
+2021-22,2021-22,Year,MAHARASHTRA,Maharashtra,West,26-28,377918
+2022-23,2022-23,Year,MAHARASHTRA,Maharashtra,West,26-28,432320
+2023-24,2023-24,Year,MAHARASHTRA,Maharashtra,West,26-28,394672
+2024-25,2024-25,Year,MAHARASHTRA,Maharashtra,West,26-28,384609
+2025-26,Apr 2025,Month,MAHARASHTRA,Maharashtra,West,26-28,40569
+2025-26,May 2025,Month,MAHARASHTRA,Maharashtra,West,26-28,40241
+2025-26,Jun 2025,Month,MAHARASHTRA,Maharashtra,West,26-28,50988
+2025-26,Jul 2025,Month,MAHARASHTRA,Maharashtra,West,26-28,58633
+2017-18,2017-18 (Sep-Mar),Part year,KARNATAKA,Karnataka,South,26-28,-17344
+2018-19,2018-19,Year,KARNATAKA,Karnataka,South,26-28,53295
+2019-20,2019-20,Year,KARNATAKA,Karnataka,South,26-28,90322
+2020-21,2020-21,Year,KARNATAKA,Karnataka,South,26-28,72912
+2021-22,2021-22,Year,KARNATAKA,Karnataka,South,26-28,185501
+2022-23,2022-23,Year,KARNATAKA,Karnataka,South,26-28,159526
+2023-24,2023-24,Year,KARNATAKA,Karnataka,South,26-28,151695
+2024-25,2024-25,Year,KARNATAKA,Karnataka,South,26-28,142573
+2025-26,Apr 2025,Month,KARNATAKA,Karnataka,South,26-28,21285
+2025-26,May 2025,Month,KARNATAKA,Karnataka,South,26-28,16520
+2025-26,Jun 2025,Month,KARNATAKA,Karnataka,South,26-28,27583
+2025-26,Jul 2025,Month,KARNATAKA,Karnataka,South,26-28,31787
+2017-18,2017-18 (Sep-Mar),Part year,GUJARAT,Gujarat,West,26-28,10382
+2018-19,2018-19,Year,GUJARAT,Gujarat,West,26-28,50496
+2019-20,2019-20,Year,GUJARAT,Gujarat,West,26-28,74450
+2020-21,2020-21,Year,GUJARAT,Gujarat,West,26-28,88917
+2021-22,2021-22,Year,GUJARAT,Gujarat,West,26-28,134056
+2022-23,2022-23,Year,GUJARAT,Gujarat,West,26-28,149976
+2023-24,2023-24,Year,GUJARAT,Gujarat,West,26-28,147601
+2024-25,2024-25,Year,GUJARAT,Gujarat,West,26-28,145380
+2025-26,Apr 2025,Month,GUJARAT,Gujarat,West,26-28,15813
+2025-26,May 2025,Month,GUJARAT,Gujarat,West,26-28,16241
+2025-26,Jun 2025,Month,GUJARAT,Gujarat,West,26-28,24367
+2025-26,Jul 2025,Month,GUJARAT,Gujarat,West,26-28,24993
+2017-18,2017-18 (Sep-Mar),Part year,HARYANA,Haryana,North,26-28,-3349
+2018-19,2018-19,Year,HARYANA,Haryana,North,26-28,24504
+2019-20,2019-20,Year,HARYANA,Haryana,North,26-28,60324
+2020-21,2020-21,Year,HARYANA,Haryana,North,26-28,87909
+2021-22,2021-22,Year,HARYANA,Haryana,North,26-28,128983
+2022-23,2022-23,Year,HARYANA,Haryana,North,26-28,165657
+2023-24,2023-24,Year,HARYANA,Haryana,North,26-28,142609
+2024-25,2024-25,Year,HARYANA,Haryana,North,26-28,149010
+2025-26,Apr 2025,Month,HARYANA,Haryana,North,26-28,13662
+2025-26,May 2025,Month,HARYANA,Haryana,North,26-28,16435
+2025-26,Jun 2025,Month,HARYANA,Haryana,North,26-28,20691
+2025-26,Jul 2025,Month,HARYANA,Haryana,North,26-28,24271
+2017-18,2017-18 (Sep-Mar),Part year,TAMIL NADU,Tamil Nadu,South,26-28,-7229
+2018-19,2018-19,Year,TAMIL NADU,Tamil Nadu,South,26-28,26479
+2019-20,2019-20,Year,TAMIL NADU,Tamil Nadu,South,26-28,71629
+2020-21,2020-21,Year,TAMIL NADU,Tamil Nadu,South,26-28,58092
+2021-22,2021-22,Year,TAMIL NADU,Tamil Nadu,South,26-28,149956
+2022-23,2022-23,Year,TAMIL NADU,Tamil Nadu,South,26-28,163658
+2023-24,2023-24,Year,TAMIL NADU,Tamil Nadu,South,26-28,142426
+2024-25,2024-25,Year,TAMIL NADU,Tamil Nadu,South,26-28,137705
+2025-26,Apr 2025,Month,TAMIL NADU,Tamil Nadu,South,26-28,15277
+2025-26,May 2025,Month,TAMIL NADU,Tamil Nadu,South,26-28,15316
+2025-26,Jun 2025,Month,TAMIL NADU,Tamil Nadu,South,26-28,25795
+2025-26,Jul 2025,Month,TAMIL NADU,Tamil Nadu,South,26-28,29347
+2017-18,2017-18 (Sep-Mar),Part year,DELHI,Delhi,North,26-28,-3564
+2018-19,2018-19,Year,DELHI,Delhi,North,26-28,38974
+2019-20,2019-20,Year,DELHI,Delhi,North,26-28,62138
+2020-21,2020-21,Year,DELHI,Delhi,North,26-28,60612
+2021-22,2021-22,Year,DELHI,Delhi,North,26-28,131967
+2022-23,2022-23,Year,DELHI,Delhi,North,26-28,149689
+2023-24,2023-24,Year,DELHI,Delhi,North,26-28,137132
+2024-25,2024-25,Year,DELHI,Delhi,North,26-28,132919
+2025-26,Apr 2025,Month,DELHI,Delhi,North,26-28,16848
+2025-26,May 2025,Month,DELHI,Delhi,North,26-28,13487
+2025-26,Jun 2025,Month,DELHI,Delhi,North,26-28,17291
+2025-26,Jul 2025,Month,DELHI,Delhi,North,26-28,20863
+2017-18,2017-18 (Sep-Mar),Part year,TELANGANA,Telangana,South,26-28,4904
+2018-19,2018-19,Year,TELANGANA,Telangana,South,26-28,42274
+2019-20,2019-20,Year,TELANGANA,Telangana,South,26-28,52125
+2020-21,2020-21,Year,TELANGANA,Telangana,South,26-28,59193
+2021-22,2021-22,Year,TELANGANA,Telangana,South,26-28,111371
+2022-23,2022-23,Year,TELANGANA,Telangana,South,26-28,115193
+2023-24,2023-24,Year,TELANGANA,Telangana,South,26-28,104360
+2024-25,2024-25,Year,TELANGANA,Telangana,South,26-28,114342
+2025-26,Apr 2025,Month,TELANGANA,Telangana,South,26-28,11085
+2025-26,May 2025,Month,TELANGANA,Telangana,South,26-28,10985
+2025-26,Jun 2025,Month,TELANGANA,Telangana,South,26-28,17194
+2025-26,Jul 2025,Month,TELANGANA,Telangana,South,26-28,18209
+2017-18,2017-18 (Sep-Mar),Part year,UTTAR PRADESH,Uttar Pradesh,North,26-28,-54
+2018-19,2018-19,Year,UTTAR PRADESH,Uttar Pradesh,North,26-28,21601
+2019-20,2019-20,Year,UTTAR PRADESH,Uttar Pradesh,North,26-28,56899
+2020-21,2020-21,Year,UTTAR PRADESH,Uttar Pradesh,North,26-28,65470
+2021-22,2021-22,Year,UTTAR PRADESH,Uttar Pradesh,North,26-28,93384
+2022-23,2022-23,Year,UTTAR PRADESH,Uttar Pradesh,North,26-28,104865
+2023-24,2023-24,Year,UTTAR PRADESH,Uttar Pradesh,North,26-28,113185
+2024-25,2024-25,Year,UTTAR PRADESH,Uttar Pradesh,North,26-28,109870
+2025-26,Apr 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,26-28,12565
+2025-26,May 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,26-28,13267
+2025-26,Jun 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,26-28,15223
+2025-26,Jul 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,26-28,15741
+2017-18,2017-18 (Sep-Mar),Part year,WEST BENGAL,West Bengal,East,26-28,13336
+2018-19,2018-19,Year,WEST BENGAL,West Bengal,East,26-28,36094
+2019-20,2019-20,Year,WEST BENGAL,West Bengal,East,26-28,37748
+2020-21,2020-21,Year,WEST BENGAL,West Bengal,East,26-28,35108
+2021-22,2021-22,Year,WEST BENGAL,West Bengal,East,26-28,57001
+2022-23,2022-23,Year,WEST BENGAL,West Bengal,East,26-28,69451
+2023-24,2023-24,Year,WEST BENGAL,West Bengal,East,26-28,65854
+2024-25,2024-25,Year,WEST BENGAL,West Bengal,East,26-28,62829
+2025-26,Apr 2025,Month,WEST BENGAL,West Bengal,East,26-28,7410
+2025-26,May 2025,Month,WEST BENGAL,West Bengal,East,26-28,5015
+2025-26,Jun 2025,Month,WEST BENGAL,West Bengal,East,26-28,7031
+2025-26,Jul 2025,Month,WEST BENGAL,West Bengal,East,26-28,8405
+2017-18,2017-18 (Sep-Mar),Part year,RAJASTHAN,Rajasthan,North,26-28,3856
+2018-19,2018-19,Year,RAJASTHAN,Rajasthan,North,26-28,12502
+2019-20,2019-20,Year,RAJASTHAN,Rajasthan,North,26-28,29238
+2020-21,2020-21,Year,RAJASTHAN,Rajasthan,North,26-28,37922
+2021-22,2021-22,Year,RAJASTHAN,Rajasthan,North,26-28,56174
+2022-23,2022-23,Year,RAJASTHAN,Rajasthan,North,26-28,60903
+2023-24,2023-24,Year,RAJASTHAN,Rajasthan,North,26-28,63092
+2024-25,2024-25,Year,RAJASTHAN,Rajasthan,North,26-28,56968
+2025-26,Apr 2025,Month,RAJASTHAN,Rajasthan,North,26-28,6153
+2025-26,May 2025,Month,RAJASTHAN,Rajasthan,North,26-28,9599
+2025-26,Jun 2025,Month,RAJASTHAN,Rajasthan,North,26-28,8661
+2025-26,Jul 2025,Month,RAJASTHAN,Rajasthan,North,26-28,10023
+2017-18,2017-18 (Sep-Mar),Part year,MADHYA PRADESH,Madhya Pradesh,Central,26-28,976
+2018-19,2018-19,Year,MADHYA PRADESH,Madhya Pradesh,Central,26-28,16030
+2019-20,2019-20,Year,MADHYA PRADESH,Madhya Pradesh,Central,26-28,23044
+2020-21,2020-21,Year,MADHYA PRADESH,Madhya Pradesh,Central,26-28,23198
+2021-22,2021-22,Year,MADHYA PRADESH,Madhya Pradesh,Central,26-28,34915
+2022-23,2022-23,Year,MADHYA PRADESH,Madhya Pradesh,Central,26-28,42416
+2023-24,2023-24,Year,MADHYA PRADESH,Madhya Pradesh,Central,26-28,38888
+2024-25,2024-25,Year,MADHYA PRADESH,Madhya Pradesh,Central,26-28,36692
+2025-26,Apr 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,26-28,2821
+2025-26,May 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,26-28,4363
+2025-26,Jun 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,26-28,4481
+2025-26,Jul 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,26-28,5431
+2017-18,2017-18 (Sep-Mar),Part year,ANDHRA PRADESH,Andhra Pradesh,South,26-28,6812
+2018-19,2018-19,Year,ANDHRA PRADESH,Andhra Pradesh,South,26-28,17495
+2019-20,2019-20,Year,ANDHRA PRADESH,Andhra Pradesh,South,26-28,18953
+2020-21,2020-21,Year,ANDHRA PRADESH,Andhra Pradesh,South,26-28,23376
+2021-22,2021-22,Year,ANDHRA PRADESH,Andhra Pradesh,South,26-28,32427
+2022-23,2022-23,Year,ANDHRA PRADESH,Andhra Pradesh,South,26-28,33924
+2023-24,2023-24,Year,ANDHRA PRADESH,Andhra Pradesh,South,26-28,30174
+2024-25,2024-25,Year,ANDHRA PRADESH,Andhra Pradesh,South,26-28,27438
+2025-26,Apr 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,26-28,2412
+2025-26,May 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,26-28,2690
+2025-26,Jun 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,26-28,4283
+2025-26,Jul 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,26-28,4609
+2017-18,2017-18 (Sep-Mar),Part year,ORISSA,Odisha,East,26-28,3984
+2018-19,2018-19,Year,ORISSA,Odisha,East,26-28,4289
+2019-20,2019-20,Year,ORISSA,Odisha,East,26-28,9086
+2020-21,2020-21,Year,ORISSA,Odisha,East,26-28,13558
+2021-22,2021-22,Year,ORISSA,Odisha,East,26-28,21801
+2022-23,2022-23,Year,ORISSA,Odisha,East,26-28,28326
+2023-24,2023-24,Year,ORISSA,Odisha,East,26-28,31216
+2024-25,2024-25,Year,ORISSA,Odisha,East,26-28,33329
+2025-26,Apr 2025,Month,ORISSA,Odisha,East,26-28,2654
+2025-26,May 2025,Month,ORISSA,Odisha,East,26-28,3521
+2025-26,Jun 2025,Month,ORISSA,Odisha,East,26-28,2760
+2025-26,Jul 2025,Month,ORISSA,Odisha,East,26-28,3757
+2017-18,2017-18 (Sep-Mar),Part year,UTTARAKHAND,Uttarakhand,North,26-28,-1260
+2018-19,2018-19,Year,UTTARAKHAND,Uttarakhand,North,26-28,5674
+2019-20,2019-20,Year,UTTARAKHAND,Uttarakhand,North,26-28,10972
+2020-21,2020-21,Year,UTTARAKHAND,Uttarakhand,North,26-28,19044
+2021-22,2021-22,Year,UTTARAKHAND,Uttarakhand,North,26-28,18755
+2022-23,2022-23,Year,UTTARAKHAND,Uttarakhand,North,26-28,27026
+2023-24,2023-24,Year,UTTARAKHAND,Uttarakhand,North,26-28,24895
+2024-25,2024-25,Year,UTTARAKHAND,Uttarakhand,North,26-28,20018
+2025-26,Apr 2025,Month,UTTARAKHAND,Uttarakhand,North,26-28,2422
+2025-26,May 2025,Month,UTTARAKHAND,Uttarakhand,North,26-28,2830
+2025-26,Jun 2025,Month,UTTARAKHAND,Uttarakhand,North,26-28,3041
+2025-26,Jul 2025,Month,UTTARAKHAND,Uttarakhand,North,26-28,3755
+2017-18,2017-18 (Sep-Mar),Part year,BIHAR,Bihar,East,26-28,2208
+2018-19,2018-19,Year,BIHAR,Bihar,East,26-28,12143
+2019-20,2019-20,Year,BIHAR,Bihar,East,26-28,9212
+2020-21,2020-21,Year,BIHAR,Bihar,East,26-28,18216
+2021-22,2021-22,Year,BIHAR,Bihar,East,26-28,13261
+2022-23,2022-23,Year,BIHAR,Bihar,East,26-28,24911
+2023-24,2023-24,Year,BIHAR,Bihar,East,26-28,23273
+2024-25,2024-25,Year,BIHAR,Bihar,East,26-28,23223
+2025-26,Apr 2025,Month,BIHAR,Bihar,East,26-28,1850
+2025-26,May 2025,Month,BIHAR,Bihar,East,26-28,2255
+2025-26,Jun 2025,Month,BIHAR,Bihar,East,26-28,2452
+2025-26,Jul 2025,Month,BIHAR,Bihar,East,26-28,2455
+2017-18,2017-18 (Sep-Mar),Part year,CHATTISGARH,Chhattisgarh,Central,26-28,4345
+2018-19,2018-19,Year,CHATTISGARH,Chhattisgarh,Central,26-28,11190
+2019-20,2019-20,Year,CHATTISGARH,Chhattisgarh,Central,26-28,9331
+2020-21,2020-21,Year,CHATTISGARH,Chhattisgarh,Central,26-28,11098
+2021-22,2021-22,Year,CHATTISGARH,Chhattisgarh,Central,26-28,17091
+2022-23,2022-23,Year,CHATTISGARH,Chhattisgarh,Central,26-28,19198
+2023-24,2023-24,Year,CHATTISGARH,Chhattisgarh,Central,26-28,16424
+2024-25,2024-25,Year,CHATTISGARH,Chhattisgarh,Central,26-28,17173
+2025-26,Apr 2025,Month,CHATTISGARH,Chhattisgarh,Central,26-28,1833
+2025-26,May 2025,Month,CHATTISGARH,Chhattisgarh,Central,26-28,1594
+2025-26,Jun 2025,Month,CHATTISGARH,Chhattisgarh,Central,26-28,2521
+2025-26,Jul 2025,Month,CHATTISGARH,Chhattisgarh,Central,26-28,2567
+2017-18,2017-18 (Sep-Mar),Part year,KERALA,Kerala,South,26-28,-2865
+2018-19,2018-19,Year,KERALA,Kerala,South,26-28,1252
+2019-20,2019-20,Year,KERALA,Kerala,South,26-28,7707
+2020-21,2020-21,Year,KERALA,Kerala,South,26-28,10256
+2021-22,2021-22,Year,KERALA,Kerala,South,26-28,20058
+2022-23,2022-23,Year,KERALA,Kerala,South,26-28,22613
+2023-24,2023-24,Year,KERALA,Kerala,South,26-28,20643
+2024-25,2024-25,Year,KERALA,Kerala,South,26-28,21408
+2025-26,Apr 2025,Month,KERALA,Kerala,South,26-28,1839
+2025-26,May 2025,Month,KERALA,Kerala,South,26-28,1713
+2025-26,Jun 2025,Month,KERALA,Kerala,South,26-28,2900
+2025-26,Jul 2025,Month,KERALA,Kerala,South,26-28,3120
+2017-18,2017-18 (Sep-Mar),Part year,CHANDIGARH,Chandigarh,North,26-28,602
+2018-19,2018-19,Year,CHANDIGARH,Chandigarh,North,26-28,8145
+2019-20,2019-20,Year,CHANDIGARH,Chandigarh,North,26-28,7032
+2020-21,2020-21,Year,CHANDIGARH,Chandigarh,North,26-28,12134
+2021-22,2021-22,Year,CHANDIGARH,Chandigarh,North,26-28,18963
+2022-23,2022-23,Year,CHANDIGARH,Chandigarh,North,26-28,20437
+2023-24,2023-24,Year,CHANDIGARH,Chandigarh,North,26-28,14690
+2024-25,2024-25,Year,CHANDIGARH,Chandigarh,North,26-28,14960
+2025-26,Apr 2025,Month,CHANDIGARH,Chandigarh,North,26-28,2124
+2025-26,May 2025,Month,CHANDIGARH,Chandigarh,North,26-28,1903
+2025-26,Jun 2025,Month,CHANDIGARH,Chandigarh,North,26-28,2451
+2025-26,Jul 2025,Month,CHANDIGARH,Chandigarh,North,26-28,2792
+2017-18,2017-18 (Sep-Mar),Part year,JHARKHAND,Jharkhand,East,26-28,2373
+2018-19,2018-19,Year,JHARKHAND,Jharkhand,East,26-28,8008
+2019-20,2019-20,Year,JHARKHAND,Jharkhand,East,26-28,9088
+2020-21,2020-21,Year,JHARKHAND,Jharkhand,East,26-28,9676
+2021-22,2021-22,Year,JHARKHAND,Jharkhand,East,26-28,13843
+2022-23,2022-23,Year,JHARKHAND,Jharkhand,East,26-28,18390
+2023-24,2023-24,Year,JHARKHAND,Jharkhand,East,26-28,18477
+2024-25,2024-25,Year,JHARKHAND,Jharkhand,East,26-28,18656
+2025-26,Apr 2025,Month,JHARKHAND,Jharkhand,East,26-28,1801
+2025-26,May 2025,Month,JHARKHAND,Jharkhand,East,26-28,1666
+2025-26,Jun 2025,Month,JHARKHAND,Jharkhand,East,26-28,1593
+2025-26,Jul 2025,Month,JHARKHAND,Jharkhand,East,26-28,1836
+2017-18,2017-18 (Sep-Mar),Part year,PUNJAB,Punjab,North,26-28,-1144
+2018-19,2018-19,Year,PUNJAB,Punjab,North,26-28,6114
+2019-20,2019-20,Year,PUNJAB,Punjab,North,26-28,10386
+2020-21,2020-21,Year,PUNJAB,Punjab,North,26-28,12466
+2021-22,2021-22,Year,PUNJAB,Punjab,North,26-28,17570
+2022-23,2022-23,Year,PUNJAB,Punjab,North,26-28,17231
+2023-24,2023-24,Year,PUNJAB,Punjab,North,26-28,15989
+2024-25,2024-25,Year,PUNJAB,Punjab,North,26-28,11168
+2025-26,Apr 2025,Month,PUNJAB,Punjab,North,26-28,1336
+2025-26,May 2025,Month,PUNJAB,Punjab,North,26-28,1339
+2025-26,Jun 2025,Month,PUNJAB,Punjab,North,26-28,1730
+2025-26,Jul 2025,Month,PUNJAB,Punjab,North,26-28,2536
+2017-18,2017-18 (Sep-Mar),Part year,HIMACHAL PRADESH,Himachal Pradesh,North,26-28,-539
+2018-19,2018-19,Year,HIMACHAL PRADESH,Himachal Pradesh,North,26-28,2671
+2019-20,2019-20,Year,HIMACHAL PRADESH,Himachal Pradesh,North,26-28,5347
+2020-21,2020-21,Year,HIMACHAL PRADESH,Himachal Pradesh,North,26-28,8862
+2021-22,2021-22,Year,HIMACHAL PRADESH,Himachal Pradesh,North,26-28,10485
+2022-23,2022-23,Year,HIMACHAL PRADESH,Himachal Pradesh,North,26-28,10679
+2023-24,2023-24,Year,HIMACHAL PRADESH,Himachal Pradesh,North,26-28,9310
+2024-25,2024-25,Year,HIMACHAL PRADESH,Himachal Pradesh,North,26-28,9667
+2025-26,Apr 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,26-28,1090
+2025-26,May 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,26-28,1135
+2025-26,Jun 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,26-28,1633
+2025-26,Jul 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,26-28,1737
+2017-18,2017-18 (Sep-Mar),Part year,ASSAM,Assam,North East,26-28,5159
+2018-19,2018-19,Year,ASSAM,Assam,North East,26-28,7074
+2019-20,2019-20,Year,ASSAM,Assam,North East,26-28,7913
+2020-21,2020-21,Year,ASSAM,Assam,North East,26-28,4307
+2021-22,2021-22,Year,ASSAM,Assam,North East,26-28,1819
+2022-23,2022-23,Year,ASSAM,Assam,North East,26-28,7926
+2023-24,2023-24,Year,ASSAM,Assam,North East,26-28,7283
+2024-25,2024-25,Year,ASSAM,Assam,North East,26-28,5442
+2025-26,Apr 2025,Month,ASSAM,Assam,North East,26-28,928
+2025-26,May 2025,Month,ASSAM,Assam,North East,26-28,946
+2025-26,Jun 2025,Month,ASSAM,Assam,North East,26-28,802
+2025-26,Jul 2025,Month,ASSAM,Assam,North East,26-28,872
+2017-18,2017-18 (Sep-Mar),Part year,GOA,Goa,West,26-28,419
+2018-19,2018-19,Year,GOA,Goa,West,26-28,1979
+2019-20,2019-20,Year,GOA,Goa,West,26-28,4065
+2020-21,2020-21,Year,GOA,Goa,West,26-28,5747
+2021-22,2021-22,Year,GOA,Goa,West,26-28,7033
+2022-23,2022-23,Year,GOA,Goa,West,26-28,9859
+2023-24,2023-24,Year,GOA,Goa,West,26-28,7945
+2024-25,2024-25,Year,GOA,Goa,West,26-28,8513
+2025-26,Apr 2025,Month,GOA,Goa,West,26-28,852
+2025-26,May 2025,Month,GOA,Goa,West,26-28,716
+2025-26,Jun 2025,Month,GOA,Goa,West,26-28,1207
+2025-26,Jul 2025,Month,GOA,Goa,West,26-28,1417
+2017-18,2017-18 (Sep-Mar),Part year,JAMMU AND KASHMIR,Jammu and Kashmir,North,26-28,0
+2018-19,2018-19,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,26-28,0
+2019-20,2019-20,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,26-28,7449
+2020-21,2020-21,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,26-28,4158
+2021-22,2021-22,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,26-28,4125
+2022-23,2022-23,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,26-28,4896
+2023-24,2023-24,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,26-28,4212
+2024-25,2024-25,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,26-28,4932
+2025-26,Apr 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,26-28,629
+2025-26,May 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,26-28,403
+2025-26,Jun 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,26-28,536
+2025-26,Jul 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,26-28,442
+2017-18,2017-18 (Sep-Mar),Part year,MEGHALAYA,Meghalaya,North East,26-28,396
+2018-19,2018-19,Year,MEGHALAYA,Meghalaya,North East,26-28,1109
+2019-20,2019-20,Year,MEGHALAYA,Meghalaya,North East,26-28,665
+2020-21,2020-21,Year,MEGHALAYA,Meghalaya,North East,26-28,375
+2021-22,2021-22,Year,MEGHALAYA,Meghalaya,North East,26-28,932
+2022-23,2022-23,Year,MEGHALAYA,Meghalaya,North East,26-28,876
+2023-24,2023-24,Year,MEGHALAYA,Meghalaya,North East,26-28,748
+2024-25,2024-25,Year,MEGHALAYA,Meghalaya,North East,26-28,795
+2025-26,Apr 2025,Month,MEGHALAYA,Meghalaya,North East,26-28,139
+2025-26,May 2025,Month,MEGHALAYA,Meghalaya,North East,26-28,103
+2025-26,Jun 2025,Month,MEGHALAYA,Meghalaya,North East,26-28,89
+2025-26,Jul 2025,Month,MEGHALAYA,Meghalaya,North East,26-28,69
+2017-18,2017-18 (Sep-Mar),Part year,TRIPURA,Tripura,North East,26-28,386
+2018-19,2018-19,Year,TRIPURA,Tripura,North East,26-28,351
+2019-20,2019-20,Year,TRIPURA,Tripura,North East,26-28,405
+2020-21,2020-21,Year,TRIPURA,Tripura,North East,26-28,380
+2021-22,2021-22,Year,TRIPURA,Tripura,North East,26-28,520
+2022-23,2022-23,Year,TRIPURA,Tripura,North East,26-28,461
+2023-24,2023-24,Year,TRIPURA,Tripura,North East,26-28,607
+2024-25,2024-25,Year,TRIPURA,Tripura,North East,26-28,482
+2025-26,Apr 2025,Month,TRIPURA,Tripura,North East,26-28,93
+2025-26,May 2025,Month,TRIPURA,Tripura,North East,26-28,72
+2025-26,Jun 2025,Month,TRIPURA,Tripura,North East,26-28,47
+2025-26,Jul 2025,Month,TRIPURA,Tripura,North East,26-28,56
+2017-18,2017-18 (Sep-Mar),Part year,MANIPUR,Manipur,North East,26-28,155
+2018-19,2018-19,Year,MANIPUR,Manipur,North East,26-28,249
+2019-20,2019-20,Year,MANIPUR,Manipur,North East,26-28,297
+2020-21,2020-21,Year,MANIPUR,Manipur,North East,26-28,170
+2021-22,2021-22,Year,MANIPUR,Manipur,North East,26-28,276
+2022-23,2022-23,Year,MANIPUR,Manipur,North East,26-28,480
+2023-24,2023-24,Year,MANIPUR,Manipur,North East,26-28,203
+2024-25,2024-25,Year,MANIPUR,Manipur,North East,26-28,351
+2025-26,Apr 2025,Month,MANIPUR,Manipur,North East,26-28,83
+2025-26,May 2025,Month,MANIPUR,Manipur,North East,26-28,13
+2025-26,Jun 2025,Month,MANIPUR,Manipur,North East,26-28,19
+2025-26,Jul 2025,Month,MANIPUR,Manipur,North East,26-28,14
+2017-18,2017-18 (Sep-Mar),Part year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,26-28,195
+2018-19,2018-19,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,26-28,167
+2019-20,2019-20,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,26-28,188
+2020-21,2020-21,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,26-28,240
+2021-22,2021-22,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,26-28,293
+2022-23,2022-23,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,26-28,369
+2023-24,2023-24,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,26-28,489
+2024-25,2024-25,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,26-28,255
+2025-26,Apr 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,26-28,30
+2025-26,May 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,26-28,0
+2025-26,Jun 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,26-28,22
+2025-26,Jul 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,26-28,37
+2017-18,2017-18 (Sep-Mar),Part year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,26-28,144
+2018-19,2018-19,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,26-28,289
+2019-20,2019-20,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,26-28,191
+2020-21,2020-21,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,26-28,219
+2021-22,2021-22,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,26-28,228
+2022-23,2022-23,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,26-28,396
+2023-24,2023-24,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,26-28,214
+2024-25,2024-25,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,26-28,175
+2025-26,Apr 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,26-28,18
+2025-26,May 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,26-28,-3
+2025-26,Jun 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,26-28,28
+2025-26,Jul 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,26-28,36
+2017-18,2017-18 (Sep-Mar),Part year,NAGALAND,Nagaland,North East,26-28,-19
+2018-19,2018-19,Year,NAGALAND,Nagaland,North East,26-28,195
+2019-20,2019-20,Year,NAGALAND,Nagaland,North East,26-28,244
+2020-21,2020-21,Year,NAGALAND,Nagaland,North East,26-28,40
+2021-22,2021-22,Year,NAGALAND,Nagaland,North East,26-28,208
+2022-23,2022-23,Year,NAGALAND,Nagaland,North East,26-28,282
+2023-24,2023-24,Year,NAGALAND,Nagaland,North East,26-28,243
+2024-25,2024-25,Year,NAGALAND,Nagaland,North East,26-28,146
+2025-26,Apr 2025,Month,NAGALAND,Nagaland,North East,26-28,57
+2025-26,May 2025,Month,NAGALAND,Nagaland,North East,26-28,32
+2025-26,Jun 2025,Month,NAGALAND,Nagaland,North East,26-28,52
+2025-26,Jul 2025,Month,NAGALAND,Nagaland,North East,26-28,12
+2017-18,2017-18 (Sep-Mar),Part year,MIZORAM,Mizoram,North East,26-28,26
+2018-19,2018-19,Year,MIZORAM,Mizoram,North East,26-28,82
+2019-20,2019-20,Year,MIZORAM,Mizoram,North East,26-28,98
+2020-21,2020-21,Year,MIZORAM,Mizoram,North East,26-28,110
+2021-22,2021-22,Year,MIZORAM,Mizoram,North East,26-28,119
+2022-23,2022-23,Year,MIZORAM,Mizoram,North East,26-28,84
+2023-24,2023-24,Year,MIZORAM,Mizoram,North East,26-28,113
+2024-25,2024-25,Year,MIZORAM,Mizoram,North East,26-28,123
+2025-26,Apr 2025,Month,MIZORAM,Mizoram,North East,26-28,3
+2025-26,May 2025,Month,MIZORAM,Mizoram,North East,26-28,7
+2025-26,Jun 2025,Month,MIZORAM,Mizoram,North East,26-28,6
+2025-26,Jul 2025,Month,MIZORAM,Mizoram,North East,26-28,8
+2017-18,2017-18 (Sep-Mar),Part year,LADAKH,Ladakh,North,26-28,0
+2018-19,2018-19,Year,LADAKH,Ladakh,North,26-28,0
+2019-20,2019-20,Year,LADAKH,Ladakh,North,26-28,28
+2020-21,2020-21,Year,LADAKH,Ladakh,North,26-28,23
+2021-22,2021-22,Year,LADAKH,Ladakh,North,26-28,118
+2022-23,2022-23,Year,LADAKH,Ladakh,North,26-28,138
+2023-24,2023-24,Year,LADAKH,Ladakh,North,26-28,62
+2024-25,2024-25,Year,LADAKH,Ladakh,North,26-28,51
+2025-26,Apr 2025,Month,LADAKH,Ladakh,North,26-28,4
+2025-26,May 2025,Month,LADAKH,Ladakh,North,26-28,4
+2025-26,Jun 2025,Month,LADAKH,Ladakh,North,26-28,2
+2025-26,Jul 2025,Month,LADAKH,Ladakh,North,26-28,10
+2017-18,2017-18 (Sep-Mar),Part year,MAHARASHTRA,Maharashtra,West,29-35,18275
+2018-19,2018-19,Year,MAHARASHTRA,Maharashtra,West,29-35,205359
+2019-20,2019-20,Year,MAHARASHTRA,Maharashtra,West,29-35,256869
+2020-21,2020-21,Year,MAHARASHTRA,Maharashtra,West,29-35,261527
+2021-22,2021-22,Year,MAHARASHTRA,Maharashtra,West,29-35,502422
+2022-23,2022-23,Year,MAHARASHTRA,Maharashtra,West,29-35,607715
+2023-24,2023-24,Year,MAHARASHTRA,Maharashtra,West,29-35,563593
+2024-25,2024-25,Year,MAHARASHTRA,Maharashtra,West,29-35,574077
+2025-26,Apr 2025,Month,MAHARASHTRA,Maharashtra,West,29-35,68924
+2025-26,May 2025,Month,MAHARASHTRA,Maharashtra,West,29-35,60470
+2025-26,Jun 2025,Month,MAHARASHTRA,Maharashtra,West,29-35,80475
+2025-26,Jul 2025,Month,MAHARASHTRA,Maharashtra,West,29-35,94296
+2017-18,2017-18 (Sep-Mar),Part year,GUJARAT,Gujarat,West,29-35,10953
+2018-19,2018-19,Year,GUJARAT,Gujarat,West,29-35,70835
+2019-20,2019-20,Year,GUJARAT,Gujarat,West,29-35,107472
+2020-21,2020-21,Year,GUJARAT,Gujarat,West,29-35,123590
+2021-22,2021-22,Year,GUJARAT,Gujarat,West,29-35,185873
+2022-23,2022-23,Year,GUJARAT,Gujarat,West,29-35,218106
+2023-24,2023-24,Year,GUJARAT,Gujarat,West,29-35,216384
+2024-25,2024-25,Year,GUJARAT,Gujarat,West,29-35,223201
+2025-26,Apr 2025,Month,GUJARAT,Gujarat,West,29-35,25996
+2025-26,May 2025,Month,GUJARAT,Gujarat,West,29-35,24625
+2025-26,Jun 2025,Month,GUJARAT,Gujarat,West,29-35,37562
+2025-26,Jul 2025,Month,GUJARAT,Gujarat,West,29-35,40506
+2017-18,2017-18 (Sep-Mar),Part year,TAMIL NADU,Tamil Nadu,South,29-35,-6716
+2018-19,2018-19,Year,TAMIL NADU,Tamil Nadu,South,29-35,42252
+2019-20,2019-20,Year,TAMIL NADU,Tamil Nadu,South,29-35,114886
+2020-21,2020-21,Year,TAMIL NADU,Tamil Nadu,South,29-35,86185
+2021-22,2021-22,Year,TAMIL NADU,Tamil Nadu,South,29-35,209223
+2022-23,2022-23,Year,TAMIL NADU,Tamil Nadu,South,29-35,235006
+2023-24,2023-24,Year,TAMIL NADU,Tamil Nadu,South,29-35,221427
+2024-25,2024-25,Year,TAMIL NADU,Tamil Nadu,South,29-35,231059
+2025-26,Apr 2025,Month,TAMIL NADU,Tamil Nadu,South,29-35,25628
+2025-26,May 2025,Month,TAMIL NADU,Tamil Nadu,South,29-35,26103
+2025-26,Jun 2025,Month,TAMIL NADU,Tamil Nadu,South,29-35,40981
+2025-26,Jul 2025,Month,TAMIL NADU,Tamil Nadu,South,29-35,49038
+2017-18,2017-18 (Sep-Mar),Part year,KARNATAKA,Karnataka,South,29-35,-30239
+2018-19,2018-19,Year,KARNATAKA,Karnataka,South,29-35,54054
+2019-20,2019-20,Year,KARNATAKA,Karnataka,South,29-35,102151
+2020-21,2020-21,Year,KARNATAKA,Karnataka,South,29-35,85655
+2021-22,2021-22,Year,KARNATAKA,Karnataka,South,29-35,236638
+2022-23,2022-23,Year,KARNATAKA,Karnataka,South,29-35,207345
+2023-24,2023-24,Year,KARNATAKA,Karnataka,South,29-35,202049
+2024-25,2024-25,Year,KARNATAKA,Karnataka,South,29-35,191579
+2025-26,Apr 2025,Month,KARNATAKA,Karnataka,South,29-35,31646
+2025-26,May 2025,Month,KARNATAKA,Karnataka,South,29-35,22770
+2025-26,Jun 2025,Month,KARNATAKA,Karnataka,South,29-35,42378
+2025-26,Jul 2025,Month,KARNATAKA,Karnataka,South,29-35,49204
+2017-18,2017-18 (Sep-Mar),Part year,HARYANA,Haryana,North,29-35,-9959
+2018-19,2018-19,Year,HARYANA,Haryana,North,29-35,31017
+2019-20,2019-20,Year,HARYANA,Haryana,North,29-35,80226
+2020-21,2020-21,Year,HARYANA,Haryana,North,29-35,109721
+2021-22,2021-22,Year,HARYANA,Haryana,North,29-35,165762
+2022-23,2022-23,Year,HARYANA,Haryana,North,29-35,215478
+2023-24,2023-24,Year,HARYANA,Haryana,North,29-35,187607
+2024-25,2024-25,Year,HARYANA,Haryana,North,29-35,212138
+2025-26,Apr 2025,Month,HARYANA,Haryana,North,29-35,21801
+2025-26,May 2025,Month,HARYANA,Haryana,North,29-35,26056
+2025-26,Jun 2025,Month,HARYANA,Haryana,North,29-35,28466
+2025-26,Jul 2025,Month,HARYANA,Haryana,North,29-35,38137
+2017-18,2017-18 (Sep-Mar),Part year,DELHI,Delhi,North,29-35,-8171
+2018-19,2018-19,Year,DELHI,Delhi,North,29-35,43125
+2019-20,2019-20,Year,DELHI,Delhi,North,29-35,74480
+2020-21,2020-21,Year,DELHI,Delhi,North,29-35,70475
+2021-22,2021-22,Year,DELHI,Delhi,North,29-35,176698
+2022-23,2022-23,Year,DELHI,Delhi,North,29-35,205578
+2023-24,2023-24,Year,DELHI,Delhi,North,29-35,194401
+2024-25,2024-25,Year,DELHI,Delhi,North,29-35,202075
+2025-26,Apr 2025,Month,DELHI,Delhi,North,29-35,28159
+2025-26,May 2025,Month,DELHI,Delhi,North,29-35,20739
+2025-26,Jun 2025,Month,DELHI,Delhi,North,29-35,27699
+2025-26,Jul 2025,Month,DELHI,Delhi,North,29-35,33571
+2017-18,2017-18 (Sep-Mar),Part year,TELANGANA,Telangana,South,29-35,3964
+2018-19,2018-19,Year,TELANGANA,Telangana,South,29-35,59920
+2019-20,2019-20,Year,TELANGANA,Telangana,South,29-35,69660
+2020-21,2020-21,Year,TELANGANA,Telangana,South,29-35,81663
+2021-22,2021-22,Year,TELANGANA,Telangana,South,29-35,158323
+2022-23,2022-23,Year,TELANGANA,Telangana,South,29-35,172802
+2023-24,2023-24,Year,TELANGANA,Telangana,South,29-35,168565
+2024-25,2024-25,Year,TELANGANA,Telangana,South,29-35,183112
+2025-26,Apr 2025,Month,TELANGANA,Telangana,South,29-35,18637
+2025-26,May 2025,Month,TELANGANA,Telangana,South,29-35,18458
+2025-26,Jun 2025,Month,TELANGANA,Telangana,South,29-35,30467
+2025-26,Jul 2025,Month,TELANGANA,Telangana,South,29-35,31258
+2017-18,2017-18 (Sep-Mar),Part year,UTTAR PRADESH,Uttar Pradesh,North,29-35,-2671
+2018-19,2018-19,Year,UTTAR PRADESH,Uttar Pradesh,North,29-35,28073
+2019-20,2019-20,Year,UTTAR PRADESH,Uttar Pradesh,North,29-35,80078
+2020-21,2020-21,Year,UTTAR PRADESH,Uttar Pradesh,North,29-35,89058
+2021-22,2021-22,Year,UTTAR PRADESH,Uttar Pradesh,North,29-35,134073
+2022-23,2022-23,Year,UTTAR PRADESH,Uttar Pradesh,North,29-35,148693
+2023-24,2023-24,Year,UTTAR PRADESH,Uttar Pradesh,North,29-35,167281
+2024-25,2024-25,Year,UTTAR PRADESH,Uttar Pradesh,North,29-35,166308
+2025-26,Apr 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,29-35,19788
+2025-26,May 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,29-35,20421
+2025-26,Jun 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,29-35,23479
+2025-26,Jul 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,29-35,24348
+2017-18,2017-18 (Sep-Mar),Part year,WEST BENGAL,West Bengal,East,29-35,15002
+2018-19,2018-19,Year,WEST BENGAL,West Bengal,East,29-35,45773
+2019-20,2019-20,Year,WEST BENGAL,West Bengal,East,29-35,49347
+2020-21,2020-21,Year,WEST BENGAL,West Bengal,East,29-35,47128
+2021-22,2021-22,Year,WEST BENGAL,West Bengal,East,29-35,77905
+2022-23,2022-23,Year,WEST BENGAL,West Bengal,East,29-35,107057
+2023-24,2023-24,Year,WEST BENGAL,West Bengal,East,29-35,105919
+2024-25,2024-25,Year,WEST BENGAL,West Bengal,East,29-35,101537
+2025-26,Apr 2025,Month,WEST BENGAL,West Bengal,East,29-35,13185
+2025-26,May 2025,Month,WEST BENGAL,West Bengal,East,29-35,8425
+2025-26,Jun 2025,Month,WEST BENGAL,West Bengal,East,29-35,11421
+2025-26,Jul 2025,Month,WEST BENGAL,West Bengal,East,29-35,14283
+2017-18,2017-18 (Sep-Mar),Part year,RAJASTHAN,Rajasthan,North,29-35,5384
+2018-19,2018-19,Year,RAJASTHAN,Rajasthan,North,29-35,24946
+2019-20,2019-20,Year,RAJASTHAN,Rajasthan,North,29-35,37860
+2020-21,2020-21,Year,RAJASTHAN,Rajasthan,North,29-35,51571
+2021-22,2021-22,Year,RAJASTHAN,Rajasthan,North,29-35,79974
+2022-23,2022-23,Year,RAJASTHAN,Rajasthan,North,29-35,86786
+2023-24,2023-24,Year,RAJASTHAN,Rajasthan,North,29-35,94518
+2024-25,2024-25,Year,RAJASTHAN,Rajasthan,North,29-35,90189
+2025-26,Apr 2025,Month,RAJASTHAN,Rajasthan,North,29-35,10579
+2025-26,May 2025,Month,RAJASTHAN,Rajasthan,North,29-35,16505
+2025-26,Jun 2025,Month,RAJASTHAN,Rajasthan,North,29-35,13912
+2025-26,Jul 2025,Month,RAJASTHAN,Rajasthan,North,29-35,17426
+2017-18,2017-18 (Sep-Mar),Part year,MADHYA PRADESH,Madhya Pradesh,Central,29-35,1205
+2018-19,2018-19,Year,MADHYA PRADESH,Madhya Pradesh,Central,29-35,21598
+2019-20,2019-20,Year,MADHYA PRADESH,Madhya Pradesh,Central,29-35,32425
+2020-21,2020-21,Year,MADHYA PRADESH,Madhya Pradesh,Central,29-35,32692
+2021-22,2021-22,Year,MADHYA PRADESH,Madhya Pradesh,Central,29-35,51790
+2022-23,2022-23,Year,MADHYA PRADESH,Madhya Pradesh,Central,29-35,67560
+2023-24,2023-24,Year,MADHYA PRADESH,Madhya Pradesh,Central,29-35,66902
+2024-25,2024-25,Year,MADHYA PRADESH,Madhya Pradesh,Central,29-35,62895
+2025-26,Apr 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,29-35,4740
+2025-26,May 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,29-35,8182
+2025-26,Jun 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,29-35,7819
+2025-26,Jul 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,29-35,9767
+2017-18,2017-18 (Sep-Mar),Part year,ANDHRA PRADESH,Andhra Pradesh,South,29-35,7910
+2018-19,2018-19,Year,ANDHRA PRADESH,Andhra Pradesh,South,29-35,26742
+2019-20,2019-20,Year,ANDHRA PRADESH,Andhra Pradesh,South,29-35,29536
+2020-21,2020-21,Year,ANDHRA PRADESH,Andhra Pradesh,South,29-35,37645
+2021-22,2021-22,Year,ANDHRA PRADESH,Andhra Pradesh,South,29-35,62037
+2022-23,2022-23,Year,ANDHRA PRADESH,Andhra Pradesh,South,29-35,63681
+2023-24,2023-24,Year,ANDHRA PRADESH,Andhra Pradesh,South,29-35,52833
+2024-25,2024-25,Year,ANDHRA PRADESH,Andhra Pradesh,South,29-35,52120
+2025-26,Apr 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,29-35,5395
+2025-26,May 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,29-35,5353
+2025-26,Jun 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,29-35,8830
+2025-26,Jul 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,29-35,9215
+2017-18,2017-18 (Sep-Mar),Part year,BIHAR,Bihar,East,29-35,4573
+2018-19,2018-19,Year,BIHAR,Bihar,East,29-35,21986
+2019-20,2019-20,Year,BIHAR,Bihar,East,29-35,16914
+2020-21,2020-21,Year,BIHAR,Bihar,East,29-35,87579
+2021-22,2021-22,Year,BIHAR,Bihar,East,29-35,21606
+2022-23,2022-23,Year,BIHAR,Bihar,East,29-35,41736
+2023-24,2023-24,Year,BIHAR,Bihar,East,29-35,39187
+2024-25,2024-25,Year,BIHAR,Bihar,East,29-35,30279
+2025-26,Apr 2025,Month,BIHAR,Bihar,East,29-35,3899
+2025-26,May 2025,Month,BIHAR,Bihar,East,29-35,4262
+2025-26,Jun 2025,Month,BIHAR,Bihar,East,29-35,4441
+2025-26,Jul 2025,Month,BIHAR,Bihar,East,29-35,4455
+2017-18,2017-18 (Sep-Mar),Part year,ORISSA,Odisha,East,29-35,4019
+2018-19,2018-19,Year,ORISSA,Odisha,East,29-35,3442
+2019-20,2019-20,Year,ORISSA,Odisha,East,29-35,14095
+2020-21,2020-21,Year,ORISSA,Odisha,East,29-35,23481
+2021-22,2021-22,Year,ORISSA,Odisha,East,29-35,36456
+2022-23,2022-23,Year,ORISSA,Odisha,East,29-35,49421
+2023-24,2023-24,Year,ORISSA,Odisha,East,29-35,53529
+2024-25,2024-25,Year,ORISSA,Odisha,East,29-35,51868
+2025-26,Apr 2025,Month,ORISSA,Odisha,East,29-35,5517
+2025-26,May 2025,Month,ORISSA,Odisha,East,29-35,5523
+2025-26,Jun 2025,Month,ORISSA,Odisha,East,29-35,4499
+2025-26,Jul 2025,Month,ORISSA,Odisha,East,29-35,7231
+2017-18,2017-18 (Sep-Mar),Part year,UTTARAKHAND,Uttarakhand,North,29-35,1770
+2018-19,2018-19,Year,UTTARAKHAND,Uttarakhand,North,29-35,9153
+2019-20,2019-20,Year,UTTARAKHAND,Uttarakhand,North,29-35,14699
+2020-21,2020-21,Year,UTTARAKHAND,Uttarakhand,North,29-35,24931
+2021-22,2021-22,Year,UTTARAKHAND,Uttarakhand,North,29-35,25974
+2022-23,2022-23,Year,UTTARAKHAND,Uttarakhand,North,29-35,36568
+2023-24,2023-24,Year,UTTARAKHAND,Uttarakhand,North,29-35,36038
+2024-25,2024-25,Year,UTTARAKHAND,Uttarakhand,North,29-35,31017
+2025-26,Apr 2025,Month,UTTARAKHAND,Uttarakhand,North,29-35,4361
+2025-26,May 2025,Month,UTTARAKHAND,Uttarakhand,North,29-35,4651
+2025-26,Jun 2025,Month,UTTARAKHAND,Uttarakhand,North,29-35,4531
+2025-26,Jul 2025,Month,UTTARAKHAND,Uttarakhand,North,29-35,5925
+2017-18,2017-18 (Sep-Mar),Part year,CHATTISGARH,Chhattisgarh,Central,29-35,6196
+2018-19,2018-19,Year,CHATTISGARH,Chhattisgarh,Central,29-35,15160
+2019-20,2019-20,Year,CHATTISGARH,Chhattisgarh,Central,29-35,13577
+2020-21,2020-21,Year,CHATTISGARH,Chhattisgarh,Central,29-35,18730
+2021-22,2021-22,Year,CHATTISGARH,Chhattisgarh,Central,29-35,28056
+2022-23,2022-23,Year,CHATTISGARH,Chhattisgarh,Central,29-35,33794
+2023-24,2023-24,Year,CHATTISGARH,Chhattisgarh,Central,29-35,29169
+2024-25,2024-25,Year,CHATTISGARH,Chhattisgarh,Central,29-35,31788
+2025-26,Apr 2025,Month,CHATTISGARH,Chhattisgarh,Central,29-35,3246
+2025-26,May 2025,Month,CHATTISGARH,Chhattisgarh,Central,29-35,2886
+2025-26,Jun 2025,Month,CHATTISGARH,Chhattisgarh,Central,29-35,4378
+2025-26,Jul 2025,Month,CHATTISGARH,Chhattisgarh,Central,29-35,4489
+2017-18,2017-18 (Sep-Mar),Part year,JHARKHAND,Jharkhand,East,29-35,2562
+2018-19,2018-19,Year,JHARKHAND,Jharkhand,East,29-35,11524
+2019-20,2019-20,Year,JHARKHAND,Jharkhand,East,29-35,14471
+2020-21,2020-21,Year,JHARKHAND,Jharkhand,East,29-35,15056
+2021-22,2021-22,Year,JHARKHAND,Jharkhand,East,29-35,21541
+2022-23,2022-23,Year,JHARKHAND,Jharkhand,East,29-35,32373
+2023-24,2023-24,Year,JHARKHAND,Jharkhand,East,29-35,32785
+2024-25,2024-25,Year,JHARKHAND,Jharkhand,East,29-35,35086
+2025-26,Apr 2025,Month,JHARKHAND,Jharkhand,East,29-35,3179
+2025-26,May 2025,Month,JHARKHAND,Jharkhand,East,29-35,3107
+2025-26,Jun 2025,Month,JHARKHAND,Jharkhand,East,29-35,2943
+2025-26,Jul 2025,Month,JHARKHAND,Jharkhand,East,29-35,3958
+2017-18,2017-18 (Sep-Mar),Part year,PUNJAB,Punjab,North,29-35,-1895
+2018-19,2018-19,Year,PUNJAB,Punjab,North,29-35,10391
+2019-20,2019-20,Year,PUNJAB,Punjab,North,29-35,17869
+2020-21,2020-21,Year,PUNJAB,Punjab,North,29-35,20885
+2021-22,2021-22,Year,PUNJAB,Punjab,North,29-35,29701
+2022-23,2022-23,Year,PUNJAB,Punjab,North,29-35,31750
+2023-24,2023-24,Year,PUNJAB,Punjab,North,29-35,30240
+2024-25,2024-25,Year,PUNJAB,Punjab,North,29-35,21493
+2025-26,Apr 2025,Month,PUNJAB,Punjab,North,29-35,2821
+2025-26,May 2025,Month,PUNJAB,Punjab,North,29-35,2698
+2025-26,Jun 2025,Month,PUNJAB,Punjab,North,29-35,3113
+2025-26,Jul 2025,Month,PUNJAB,Punjab,North,29-35,5031
+2017-18,2017-18 (Sep-Mar),Part year,CHANDIGARH,Chandigarh,North,29-35,1106
+2018-19,2018-19,Year,CHANDIGARH,Chandigarh,North,29-35,11265
+2019-20,2019-20,Year,CHANDIGARH,Chandigarh,North,29-35,8964
+2020-21,2020-21,Year,CHANDIGARH,Chandigarh,North,29-35,15703
+2021-22,2021-22,Year,CHANDIGARH,Chandigarh,North,29-35,26179
+2022-23,2022-23,Year,CHANDIGARH,Chandigarh,North,29-35,29030
+2023-24,2023-24,Year,CHANDIGARH,Chandigarh,North,29-35,21806
+2024-25,2024-25,Year,CHANDIGARH,Chandigarh,North,29-35,26743
+2025-26,Apr 2025,Month,CHANDIGARH,Chandigarh,North,29-35,4087
+2025-26,May 2025,Month,CHANDIGARH,Chandigarh,North,29-35,2828
+2025-26,Jun 2025,Month,CHANDIGARH,Chandigarh,North,29-35,4172
+2025-26,Jul 2025,Month,CHANDIGARH,Chandigarh,North,29-35,5053
+2017-18,2017-18 (Sep-Mar),Part year,KERALA,Kerala,South,29-35,-1796
+2018-19,2018-19,Year,KERALA,Kerala,South,29-35,4937
+2019-20,2019-20,Year,KERALA,Kerala,South,29-35,11406
+2020-21,2020-21,Year,KERALA,Kerala,South,29-35,11276
+2021-22,2021-22,Year,KERALA,Kerala,South,29-35,22474
+2022-23,2022-23,Year,KERALA,Kerala,South,29-35,29265
+2023-24,2023-24,Year,KERALA,Kerala,South,29-35,27060
+2024-25,2024-25,Year,KERALA,Kerala,South,29-35,29780
+2025-26,Apr 2025,Month,KERALA,Kerala,South,29-35,2519
+2025-26,May 2025,Month,KERALA,Kerala,South,29-35,2433
+2025-26,Jun 2025,Month,KERALA,Kerala,South,29-35,4607
+2025-26,Jul 2025,Month,KERALA,Kerala,South,29-35,5027
+2017-18,2017-18 (Sep-Mar),Part year,HIMACHAL PRADESH,Himachal Pradesh,North,29-35,-523
+2018-19,2018-19,Year,HIMACHAL PRADESH,Himachal Pradesh,North,29-35,4371
+2019-20,2019-20,Year,HIMACHAL PRADESH,Himachal Pradesh,North,29-35,8025
+2020-21,2020-21,Year,HIMACHAL PRADESH,Himachal Pradesh,North,29-35,11953
+2021-22,2021-22,Year,HIMACHAL PRADESH,Himachal Pradesh,North,29-35,14335
+2022-23,2022-23,Year,HIMACHAL PRADESH,Himachal Pradesh,North,29-35,14709
+2023-24,2023-24,Year,HIMACHAL PRADESH,Himachal Pradesh,North,29-35,12974
+2024-25,2024-25,Year,HIMACHAL PRADESH,Himachal Pradesh,North,29-35,13970
+2025-26,Apr 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,29-35,1822
+2025-26,May 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,29-35,1710
+2025-26,Jun 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,29-35,2445
+2025-26,Jul 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,29-35,2693
+2017-18,2017-18 (Sep-Mar),Part year,ASSAM,Assam,North East,29-35,7140
+2018-19,2018-19,Year,ASSAM,Assam,North East,29-35,12159
+2019-20,2019-20,Year,ASSAM,Assam,North East,29-35,12104
+2020-21,2020-21,Year,ASSAM,Assam,North East,29-35,8359
+2021-22,2021-22,Year,ASSAM,Assam,North East,29-35,4025
+2022-23,2022-23,Year,ASSAM,Assam,North East,29-35,13823
+2023-24,2023-24,Year,ASSAM,Assam,North East,29-35,10492
+2024-25,2024-25,Year,ASSAM,Assam,North East,29-35,2776
+2025-26,Apr 2025,Month,ASSAM,Assam,North East,29-35,811
+2025-26,May 2025,Month,ASSAM,Assam,North East,29-35,1395
+2025-26,Jun 2025,Month,ASSAM,Assam,North East,29-35,1209
+2025-26,Jul 2025,Month,ASSAM,Assam,North East,29-35,1400
+2017-18,2017-18 (Sep-Mar),Part year,GOA,Goa,West,29-35,716
+2018-19,2018-19,Year,GOA,Goa,West,29-35,3004
+2019-20,2019-20,Year,GOA,Goa,West,29-35,5106
+2020-21,2020-21,Year,GOA,Goa,West,29-35,7333
+2021-22,2021-22,Year,GOA,Goa,West,29-35,8355
+2022-23,2022-23,Year,GOA,Goa,West,29-35,11846
+2023-24,2023-24,Year,GOA,Goa,West,29-35,10479
+2024-25,2024-25,Year,GOA,Goa,West,29-35,10368
+2025-26,Apr 2025,Month,GOA,Goa,West,29-35,1113
+2025-26,May 2025,Month,GOA,Goa,West,29-35,991
+2025-26,Jun 2025,Month,GOA,Goa,West,29-35,1510
+2025-26,Jul 2025,Month,GOA,Goa,West,29-35,1748
+2017-18,2017-18 (Sep-Mar),Part year,JAMMU AND KASHMIR,Jammu and Kashmir,North,29-35,0
+2018-19,2018-19,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,29-35,0
+2019-20,2019-20,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,29-35,15635
+2020-21,2020-21,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,29-35,4784
+2021-22,2021-22,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,29-35,6031
+2022-23,2022-23,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,29-35,7609
+2023-24,2023-24,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,29-35,6737
+2024-25,2024-25,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,29-35,7690
+2025-26,Apr 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,29-35,1196
+2025-26,May 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,29-35,724
+2025-26,Jun 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,29-35,917
+2025-26,Jul 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,29-35,716
+2017-18,2017-18 (Sep-Mar),Part year,MEGHALAYA,Meghalaya,North East,29-35,433
+2018-19,2018-19,Year,MEGHALAYA,Meghalaya,North East,29-35,1659
+2019-20,2019-20,Year,MEGHALAYA,Meghalaya,North East,29-35,732
+2020-21,2020-21,Year,MEGHALAYA,Meghalaya,North East,29-35,415
+2021-22,2021-22,Year,MEGHALAYA,Meghalaya,North East,29-35,1180
+2022-23,2022-23,Year,MEGHALAYA,Meghalaya,North East,29-35,913
+2023-24,2023-24,Year,MEGHALAYA,Meghalaya,North East,29-35,568
+2024-25,2024-25,Year,MEGHALAYA,Meghalaya,North East,29-35,655
+2025-26,Apr 2025,Month,MEGHALAYA,Meghalaya,North East,29-35,189
+2025-26,May 2025,Month,MEGHALAYA,Meghalaya,North East,29-35,94
+2025-26,Jun 2025,Month,MEGHALAYA,Meghalaya,North East,29-35,95
+2025-26,Jul 2025,Month,MEGHALAYA,Meghalaya,North East,29-35,92
+2017-18,2017-18 (Sep-Mar),Part year,TRIPURA,Tripura,North East,29-35,472
+2018-19,2018-19,Year,TRIPURA,Tripura,North East,29-35,450
+2019-20,2019-20,Year,TRIPURA,Tripura,North East,29-35,700
+2020-21,2020-21,Year,TRIPURA,Tripura,North East,29-35,662
+2021-22,2021-22,Year,TRIPURA,Tripura,North East,29-35,847
+2022-23,2022-23,Year,TRIPURA,Tripura,North East,29-35,610
+2023-24,2023-24,Year,TRIPURA,Tripura,North East,29-35,925
+2024-25,2024-25,Year,TRIPURA,Tripura,North East,29-35,901
+2025-26,Apr 2025,Month,TRIPURA,Tripura,North East,29-35,152
+2025-26,May 2025,Month,TRIPURA,Tripura,North East,29-35,103
+2025-26,Jun 2025,Month,TRIPURA,Tripura,North East,29-35,82
+2025-26,Jul 2025,Month,TRIPURA,Tripura,North East,29-35,107
+2017-18,2017-18 (Sep-Mar),Part year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,29-35,209
+2018-19,2018-19,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,29-35,697
+2019-20,2019-20,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,29-35,305
+2020-21,2020-21,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,29-35,353
+2021-22,2021-22,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,29-35,367
+2022-23,2022-23,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,29-35,615
+2023-24,2023-24,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,29-35,377
+2024-25,2024-25,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,29-35,372
+2025-26,Apr 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,29-35,47
+2025-26,May 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,29-35,0
+2025-26,Jun 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,29-35,39
+2025-26,Jul 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,29-35,51
+2017-18,2017-18 (Sep-Mar),Part year,MANIPUR,Manipur,North East,29-35,162
+2018-19,2018-19,Year,MANIPUR,Manipur,North East,29-35,380
+2019-20,2019-20,Year,MANIPUR,Manipur,North East,29-35,495
+2020-21,2020-21,Year,MANIPUR,Manipur,North East,29-35,293
+2021-22,2021-22,Year,MANIPUR,Manipur,North East,29-35,306
+2022-23,2022-23,Year,MANIPUR,Manipur,North East,29-35,623
+2023-24,2023-24,Year,MANIPUR,Manipur,North East,29-35,242
+2024-25,2024-25,Year,MANIPUR,Manipur,North East,29-35,453
+2025-26,Apr 2025,Month,MANIPUR,Manipur,North East,29-35,153
+2025-26,May 2025,Month,MANIPUR,Manipur,North East,29-35,17
+2025-26,Jun 2025,Month,MANIPUR,Manipur,North East,29-35,19
+2025-26,Jul 2025,Month,MANIPUR,Manipur,North East,29-35,24
+2017-18,2017-18 (Sep-Mar),Part year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,29-35,280
+2018-19,2018-19,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,29-35,246
+2019-20,2019-20,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,29-35,250
+2020-21,2020-21,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,29-35,362
+2021-22,2021-22,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,29-35,311
+2022-23,2022-23,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,29-35,607
+2023-24,2023-24,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,29-35,594
+2024-25,2024-25,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,29-35,334
+2025-26,Apr 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,29-35,47
+2025-26,May 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,29-35,8
+2025-26,Jun 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,29-35,28
+2025-26,Jul 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,29-35,47
+2017-18,2017-18 (Sep-Mar),Part year,NAGALAND,Nagaland,North East,29-35,-98
+2018-19,2018-19,Year,NAGALAND,Nagaland,North East,29-35,140
+2019-20,2019-20,Year,NAGALAND,Nagaland,North East,29-35,192
+2020-21,2020-21,Year,NAGALAND,Nagaland,North East,29-35,29
+2021-22,2021-22,Year,NAGALAND,Nagaland,North East,29-35,163
+2022-23,2022-23,Year,NAGALAND,Nagaland,North East,29-35,337
+2023-24,2023-24,Year,NAGALAND,Nagaland,North East,29-35,245
+2024-25,2024-25,Year,NAGALAND,Nagaland,North East,29-35,218
+2025-26,Apr 2025,Month,NAGALAND,Nagaland,North East,29-35,94
+2025-26,May 2025,Month,NAGALAND,Nagaland,North East,29-35,45
+2025-26,Jun 2025,Month,NAGALAND,Nagaland,North East,29-35,108
+2025-26,Jul 2025,Month,NAGALAND,Nagaland,North East,29-35,41
+2017-18,2017-18 (Sep-Mar),Part year,LADAKH,Ladakh,North,29-35,0
+2018-19,2018-19,Year,LADAKH,Ladakh,North,29-35,0
+2019-20,2019-20,Year,LADAKH,Ladakh,North,29-35,84
+2020-21,2020-21,Year,LADAKH,Ladakh,North,29-35,75
+2021-22,2021-22,Year,LADAKH,Ladakh,North,29-35,210
+2022-23,2022-23,Year,LADAKH,Ladakh,North,29-35,195
+2023-24,2023-24,Year,LADAKH,Ladakh,North,29-35,106
+2024-25,2024-25,Year,LADAKH,Ladakh,North,29-35,107
+2025-26,Apr 2025,Month,LADAKH,Ladakh,North,29-35,38
+2025-26,May 2025,Month,LADAKH,Ladakh,North,29-35,24
+2025-26,Jun 2025,Month,LADAKH,Ladakh,North,29-35,15
+2025-26,Jul 2025,Month,LADAKH,Ladakh,North,29-35,14
+2017-18,2017-18 (Sep-Mar),Part year,MIZORAM,Mizoram,North East,29-35,12
+2018-19,2018-19,Year,MIZORAM,Mizoram,North East,29-35,86
+2019-20,2019-20,Year,MIZORAM,Mizoram,North East,29-35,74
+2020-21,2020-21,Year,MIZORAM,Mizoram,North East,29-35,122
+2021-22,2021-22,Year,MIZORAM,Mizoram,North East,29-35,148
+2022-23,2022-23,Year,MIZORAM,Mizoram,North East,29-35,63
+2023-24,2023-24,Year,MIZORAM,Mizoram,North East,29-35,118
+2024-25,2024-25,Year,MIZORAM,Mizoram,North East,29-35,181
+2025-26,Apr 2025,Month,MIZORAM,Mizoram,North East,29-35,18
+2025-26,May 2025,Month,MIZORAM,Mizoram,North East,29-35,-2
+2025-26,Jun 2025,Month,MIZORAM,Mizoram,North East,29-35,9
+2025-26,Jul 2025,Month,MIZORAM,Mizoram,North East,29-35,-4
+2017-18,2017-18 (Sep-Mar),Part year,MAHARASHTRA,Maharashtra,West,More than 35,14113
+2018-19,2018-19,Year,MAHARASHTRA,Maharashtra,West,More than 35,172410
+2019-20,2019-20,Year,MAHARASHTRA,Maharashtra,West,More than 35,196681
+2020-21,2020-21,Year,MAHARASHTRA,Maharashtra,West,More than 35,179141
+2021-22,2021-22,Year,MAHARASHTRA,Maharashtra,West,More than 35,357701
+2022-23,2022-23,Year,MAHARASHTRA,Maharashtra,West,More than 35,489879
+2023-24,2023-24,Year,MAHARASHTRA,Maharashtra,West,More than 35,459409
+2024-25,2024-25,Year,MAHARASHTRA,Maharashtra,West,More than 35,482274
+2025-26,Apr 2025,Month,MAHARASHTRA,Maharashtra,West,More than 35,70251
+2025-26,May 2025,Month,MAHARASHTRA,Maharashtra,West,More than 35,50476
+2025-26,Jun 2025,Month,MAHARASHTRA,Maharashtra,West,More than 35,70272
+2025-26,Jul 2025,Month,MAHARASHTRA,Maharashtra,West,More than 35,85639
+2017-18,2017-18 (Sep-Mar),Part year,TAMIL NADU,Tamil Nadu,South,More than 35,-28794
+2018-19,2018-19,Year,TAMIL NADU,Tamil Nadu,South,More than 35,21072
+2019-20,2019-20,Year,TAMIL NADU,Tamil Nadu,South,More than 35,103596
+2020-21,2020-21,Year,TAMIL NADU,Tamil Nadu,South,More than 35,66080
+2021-22,2021-22,Year,TAMIL NADU,Tamil Nadu,South,More than 35,191095
+2022-23,2022-23,Year,TAMIL NADU,Tamil Nadu,South,More than 35,244891
+2023-24,2023-24,Year,TAMIL NADU,Tamil Nadu,South,More than 35,232120
+2024-25,2024-25,Year,TAMIL NADU,Tamil Nadu,South,More than 35,232902
+2025-26,Apr 2025,Month,TAMIL NADU,Tamil Nadu,South,More than 35,26881
+2025-26,May 2025,Month,TAMIL NADU,Tamil Nadu,South,More than 35,32727
+2025-26,Jun 2025,Month,TAMIL NADU,Tamil Nadu,South,More than 35,41939
+2025-26,Jul 2025,Month,TAMIL NADU,Tamil Nadu,South,More than 35,54445
+2017-18,2017-18 (Sep-Mar),Part year,GUJARAT,Gujarat,West,More than 35,417
+2018-19,2018-19,Year,GUJARAT,Gujarat,West,More than 35,56281
+2019-20,2019-20,Year,GUJARAT,Gujarat,West,More than 35,95958
+2020-21,2020-21,Year,GUJARAT,Gujarat,West,More than 35,99551
+2021-22,2021-22,Year,GUJARAT,Gujarat,West,More than 35,162769
+2022-23,2022-23,Year,GUJARAT,Gujarat,West,More than 35,205020
+2023-24,2023-24,Year,GUJARAT,Gujarat,West,More than 35,196486
+2024-25,2024-25,Year,GUJARAT,Gujarat,West,More than 35,197820
+2025-26,Apr 2025,Month,GUJARAT,Gujarat,West,More than 35,31455
+2025-26,May 2025,Month,GUJARAT,Gujarat,West,More than 35,22103
+2025-26,Jun 2025,Month,GUJARAT,Gujarat,West,More than 35,35918
+2025-26,Jul 2025,Month,GUJARAT,Gujarat,West,More than 35,39633
+2017-18,2017-18 (Sep-Mar),Part year,HARYANA,Haryana,North,More than 35,-7254
+2018-19,2018-19,Year,HARYANA,Haryana,North,More than 35,31493
+2019-20,2019-20,Year,HARYANA,Haryana,North,More than 35,64977
+2020-21,2020-21,Year,HARYANA,Haryana,North,More than 35,86839
+2021-22,2021-22,Year,HARYANA,Haryana,North,More than 35,137958
+2022-23,2022-23,Year,HARYANA,Haryana,North,More than 35,175918
+2023-24,2023-24,Year,HARYANA,Haryana,North,More than 35,155362
+2024-25,2024-25,Year,HARYANA,Haryana,North,More than 35,175297
+2025-26,Apr 2025,Month,HARYANA,Haryana,North,More than 35,19870
+2025-26,May 2025,Month,HARYANA,Haryana,North,More than 35,22235
+2025-26,Jun 2025,Month,HARYANA,Haryana,North,More than 35,24381
+2025-26,Jul 2025,Month,HARYANA,Haryana,North,More than 35,32832
+2017-18,2017-18 (Sep-Mar),Part year,DELHI,Delhi,North,More than 35,-10797
+2018-19,2018-19,Year,DELHI,Delhi,North,More than 35,21555
+2019-20,2019-20,Year,DELHI,Delhi,North,More than 35,57466
+2020-21,2020-21,Year,DELHI,Delhi,North,More than 35,43648
+2021-22,2021-22,Year,DELHI,Delhi,North,More than 35,138509
+2022-23,2022-23,Year,DELHI,Delhi,North,More than 35,165720
+2023-24,2023-24,Year,DELHI,Delhi,North,More than 35,151210
+2024-25,2024-25,Year,DELHI,Delhi,North,More than 35,177492
+2025-26,Apr 2025,Month,DELHI,Delhi,North,More than 35,28354
+2025-26,May 2025,Month,DELHI,Delhi,North,More than 35,18976
+2025-26,Jun 2025,Month,DELHI,Delhi,North,More than 35,23795
+2025-26,Jul 2025,Month,DELHI,Delhi,North,More than 35,30418
+2017-18,2017-18 (Sep-Mar),Part year,KARNATAKA,Karnataka,South,More than 35,-30926
+2018-19,2018-19,Year,KARNATAKA,Karnataka,South,More than 35,17323
+2019-20,2019-20,Year,KARNATAKA,Karnataka,South,More than 35,52287
+2020-21,2020-21,Year,KARNATAKA,Karnataka,South,More than 35,38949
+2021-22,2021-22,Year,KARNATAKA,Karnataka,South,More than 35,157473
+2022-23,2022-23,Year,KARNATAKA,Karnataka,South,More than 35,173325
+2023-24,2023-24,Year,KARNATAKA,Karnataka,South,More than 35,160626
+2024-25,2024-25,Year,KARNATAKA,Karnataka,South,More than 35,142482
+2025-26,Apr 2025,Month,KARNATAKA,Karnataka,South,More than 35,24423
+2025-26,May 2025,Month,KARNATAKA,Karnataka,South,More than 35,17876
+2025-26,Jun 2025,Month,KARNATAKA,Karnataka,South,More than 35,37715
+2025-26,Jul 2025,Month,KARNATAKA,Karnataka,South,More than 35,42784
+2017-18,2017-18 (Sep-Mar),Part year,TELANGANA,Telangana,South,More than 35,-5579
+2018-19,2018-19,Year,TELANGANA,Telangana,South,More than 35,45988
+2019-20,2019-20,Year,TELANGANA,Telangana,South,More than 35,51658
+2020-21,2020-21,Year,TELANGANA,Telangana,South,More than 35,47747
+2021-22,2021-22,Year,TELANGANA,Telangana,South,More than 35,118045
+2022-23,2022-23,Year,TELANGANA,Telangana,South,More than 35,151840
+2023-24,2023-24,Year,TELANGANA,Telangana,South,More than 35,163340
+2024-25,2024-25,Year,TELANGANA,Telangana,South,More than 35,160168
+2025-26,Apr 2025,Month,TELANGANA,Telangana,South,More than 35,19701
+2025-26,May 2025,Month,TELANGANA,Telangana,South,More than 35,17686
+2025-26,Jun 2025,Month,TELANGANA,Telangana,South,More than 35,31344
+2025-26,Jul 2025,Month,TELANGANA,Telangana,South,More than 35,31341
+2017-18,2017-18 (Sep-Mar),Part year,UTTAR PRADESH,Uttar Pradesh,North,More than 35,-5095
+2018-19,2018-19,Year,UTTAR PRADESH,Uttar Pradesh,North,More than 35,27427
+2019-20,2019-20,Year,UTTAR PRADESH,Uttar Pradesh,North,More than 35,69077
+2020-21,2020-21,Year,UTTAR PRADESH,Uttar Pradesh,North,More than 35,66774
+2021-22,2021-22,Year,UTTAR PRADESH,Uttar Pradesh,North,More than 35,121134
+2022-23,2022-23,Year,UTTAR PRADESH,Uttar Pradesh,North,More than 35,135257
+2023-24,2023-24,Year,UTTAR PRADESH,Uttar Pradesh,North,More than 35,143313
+2024-25,2024-25,Year,UTTAR PRADESH,Uttar Pradesh,North,More than 35,143931
+2025-26,Apr 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,More than 35,18914
+2025-26,May 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,More than 35,17405
+2025-26,Jun 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,More than 35,19448
+2025-26,Jul 2025,Month,UTTAR PRADESH,Uttar Pradesh,North,More than 35,21657
+2017-18,2017-18 (Sep-Mar),Part year,RAJASTHAN,Rajasthan,North,More than 35,4089
+2018-19,2018-19,Year,RAJASTHAN,Rajasthan,North,More than 35,25715
+2019-20,2019-20,Year,RAJASTHAN,Rajasthan,North,More than 35,32416
+2020-21,2020-21,Year,RAJASTHAN,Rajasthan,North,More than 35,42664
+2021-22,2021-22,Year,RAJASTHAN,Rajasthan,North,More than 35,75689
+2022-23,2022-23,Year,RAJASTHAN,Rajasthan,North,More than 35,82653
+2023-24,2023-24,Year,RAJASTHAN,Rajasthan,North,More than 35,82693
+2024-25,2024-25,Year,RAJASTHAN,Rajasthan,North,More than 35,82393
+2025-26,Apr 2025,Month,RAJASTHAN,Rajasthan,North,More than 35,11821
+2025-26,May 2025,Month,RAJASTHAN,Rajasthan,North,More than 35,13594
+2025-26,Jun 2025,Month,RAJASTHAN,Rajasthan,North,More than 35,12557
+2025-26,Jul 2025,Month,RAJASTHAN,Rajasthan,North,More than 35,16277
+2017-18,2017-18 (Sep-Mar),Part year,WEST BENGAL,West Bengal,East,More than 35,-1911
+2018-19,2018-19,Year,WEST BENGAL,West Bengal,East,More than 35,27016
+2019-20,2019-20,Year,WEST BENGAL,West Bengal,East,More than 35,31005
+2020-21,2020-21,Year,WEST BENGAL,West Bengal,East,More than 35,14665
+2021-22,2021-22,Year,WEST BENGAL,West Bengal,East,More than 35,43707
+2022-23,2022-23,Year,WEST BENGAL,West Bengal,East,More than 35,92692
+2023-24,2023-24,Year,WEST BENGAL,West Bengal,East,More than 35,94320
+2024-25,2024-25,Year,WEST BENGAL,West Bengal,East,More than 35,79814
+2025-26,Apr 2025,Month,WEST BENGAL,West Bengal,East,More than 35,15426
+2025-26,May 2025,Month,WEST BENGAL,West Bengal,East,More than 35,8922
+2025-26,Jun 2025,Month,WEST BENGAL,West Bengal,East,More than 35,11200
+2025-26,Jul 2025,Month,WEST BENGAL,West Bengal,East,More than 35,14141
+2017-18,2017-18 (Sep-Mar),Part year,BIHAR,Bihar,East,More than 35,2717
+2018-19,2018-19,Year,BIHAR,Bihar,East,More than 35,23622
+2019-20,2019-20,Year,BIHAR,Bihar,East,More than 35,25182
+2020-21,2020-21,Year,BIHAR,Bihar,East,More than 35,250428
+2021-22,2021-22,Year,BIHAR,Bihar,East,More than 35,24075
+2022-23,2022-23,Year,BIHAR,Bihar,East,More than 35,44541
+2023-24,2023-24,Year,BIHAR,Bihar,East,More than 35,33857
+2024-25,2024-25,Year,BIHAR,Bihar,East,More than 35,-13963
+2025-26,Apr 2025,Month,BIHAR,Bihar,East,More than 35,4372
+2025-26,May 2025,Month,BIHAR,Bihar,East,More than 35,4587
+2025-26,Jun 2025,Month,BIHAR,Bihar,East,More than 35,5140
+2025-26,Jul 2025,Month,BIHAR,Bihar,East,More than 35,5040
+2017-18,2017-18 (Sep-Mar),Part year,ANDHRA PRADESH,Andhra Pradesh,South,More than 35,2814
+2018-19,2018-19,Year,ANDHRA PRADESH,Andhra Pradesh,South,More than 35,22009
+2019-20,2019-20,Year,ANDHRA PRADESH,Andhra Pradesh,South,More than 35,25351
+2020-21,2020-21,Year,ANDHRA PRADESH,Andhra Pradesh,South,More than 35,31089
+2021-22,2021-22,Year,ANDHRA PRADESH,Andhra Pradesh,South,More than 35,60589
+2022-23,2022-23,Year,ANDHRA PRADESH,Andhra Pradesh,South,More than 35,69970
+2023-24,2023-24,Year,ANDHRA PRADESH,Andhra Pradesh,South,More than 35,50668
+2024-25,2024-25,Year,ANDHRA PRADESH,Andhra Pradesh,South,More than 35,53835
+2025-26,Apr 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,More than 35,7786
+2025-26,May 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,More than 35,6450
+2025-26,Jun 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,More than 35,11920
+2025-26,Jul 2025,Month,ANDHRA PRADESH,Andhra Pradesh,South,More than 35,10558
+2017-18,2017-18 (Sep-Mar),Part year,MADHYA PRADESH,Madhya Pradesh,Central,More than 35,-4437
+2018-19,2018-19,Year,MADHYA PRADESH,Madhya Pradesh,Central,More than 35,13961
+2019-20,2019-20,Year,MADHYA PRADESH,Madhya Pradesh,Central,More than 35,27563
+2020-21,2020-21,Year,MADHYA PRADESH,Madhya Pradesh,Central,More than 35,23444
+2021-22,2021-22,Year,MADHYA PRADESH,Madhya Pradesh,Central,More than 35,43247
+2022-23,2022-23,Year,MADHYA PRADESH,Madhya Pradesh,Central,More than 35,63220
+2023-24,2023-24,Year,MADHYA PRADESH,Madhya Pradesh,Central,More than 35,61434
+2024-25,2024-25,Year,MADHYA PRADESH,Madhya Pradesh,Central,More than 35,57220
+2025-26,Apr 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,More than 35,5552
+2025-26,May 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,More than 35,8219
+2025-26,Jun 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,More than 35,6981
+2025-26,Jul 2025,Month,MADHYA PRADESH,Madhya Pradesh,Central,More than 35,10418
+2017-18,2017-18 (Sep-Mar),Part year,ORISSA,Odisha,East,More than 35,-8125
+2018-19,2018-19,Year,ORISSA,Odisha,East,More than 35,-6907
+2019-20,2019-20,Year,ORISSA,Odisha,East,More than 35,8786
+2020-21,2020-21,Year,ORISSA,Odisha,East,More than 35,18626
+2021-22,2021-22,Year,ORISSA,Odisha,East,More than 35,40028
+2022-23,2022-23,Year,ORISSA,Odisha,East,More than 35,57077
+2023-24,2023-24,Year,ORISSA,Odisha,East,More than 35,61446
+2024-25,2024-25,Year,ORISSA,Odisha,East,More than 35,52570
+2025-26,Apr 2025,Month,ORISSA,Odisha,East,More than 35,7025
+2025-26,May 2025,Month,ORISSA,Odisha,East,More than 35,5957
+2025-26,Jun 2025,Month,ORISSA,Odisha,East,More than 35,3571
+2025-26,Jul 2025,Month,ORISSA,Odisha,East,More than 35,9570
+2017-18,2017-18 (Sep-Mar),Part year,JHARKHAND,Jharkhand,East,More than 35,-1690
+2018-19,2018-19,Year,JHARKHAND,Jharkhand,East,More than 35,4980
+2019-20,2019-20,Year,JHARKHAND,Jharkhand,East,More than 35,12045
+2020-21,2020-21,Year,JHARKHAND,Jharkhand,East,More than 35,11876
+2021-22,2021-22,Year,JHARKHAND,Jharkhand,East,More than 35,21192
+2022-23,2022-23,Year,JHARKHAND,Jharkhand,East,More than 35,36926
+2023-24,2023-24,Year,JHARKHAND,Jharkhand,East,More than 35,32805
+2024-25,2024-25,Year,JHARKHAND,Jharkhand,East,More than 35,85378
+2025-26,Apr 2025,Month,JHARKHAND,Jharkhand,East,More than 35,2694
+2025-26,May 2025,Month,JHARKHAND,Jharkhand,East,More than 35,3204
+2025-26,Jun 2025,Month,JHARKHAND,Jharkhand,East,More than 35,4076
+2025-26,Jul 2025,Month,JHARKHAND,Jharkhand,East,More than 35,4834
+2017-18,2017-18 (Sep-Mar),Part year,PUNJAB,Punjab,North,More than 35,-8767
+2018-19,2018-19,Year,PUNJAB,Punjab,North,More than 35,7930
+2019-20,2019-20,Year,PUNJAB,Punjab,North,More than 35,17665
+2020-21,2020-21,Year,PUNJAB,Punjab,North,More than 35,21925
+2021-22,2021-22,Year,PUNJAB,Punjab,North,More than 35,32952
+2022-23,2022-23,Year,PUNJAB,Punjab,North,More than 35,37046
+2023-24,2023-24,Year,PUNJAB,Punjab,North,More than 35,37999
+2024-25,2024-25,Year,PUNJAB,Punjab,North,More than 35,23246
+2025-26,Apr 2025,Month,PUNJAB,Punjab,North,More than 35,3554
+2025-26,May 2025,Month,PUNJAB,Punjab,North,More than 35,3292
+2025-26,Jun 2025,Month,PUNJAB,Punjab,North,More than 35,3756
+2025-26,Jul 2025,Month,PUNJAB,Punjab,North,More than 35,6893
+2017-18,2017-18 (Sep-Mar),Part year,CHATTISGARH,Chhattisgarh,Central,More than 35,3929
+2018-19,2018-19,Year,CHATTISGARH,Chhattisgarh,Central,More than 35,10889
+2019-20,2019-20,Year,CHATTISGARH,Chhattisgarh,Central,More than 35,10476
+2020-21,2020-21,Year,CHATTISGARH,Chhattisgarh,Central,More than 35,17916
+2021-22,2021-22,Year,CHATTISGARH,Chhattisgarh,Central,More than 35,27167
+2022-23,2022-23,Year,CHATTISGARH,Chhattisgarh,Central,More than 35,33494
+2023-24,2023-24,Year,CHATTISGARH,Chhattisgarh,Central,More than 35,27786
+2024-25,2024-25,Year,CHATTISGARH,Chhattisgarh,Central,More than 35,32780
+2025-26,Apr 2025,Month,CHATTISGARH,Chhattisgarh,Central,More than 35,3512
+2025-26,May 2025,Month,CHATTISGARH,Chhattisgarh,Central,More than 35,3002
+2025-26,Jun 2025,Month,CHATTISGARH,Chhattisgarh,Central,More than 35,4312
+2025-26,Jul 2025,Month,CHATTISGARH,Chhattisgarh,Central,More than 35,5063
+2017-18,2017-18 (Sep-Mar),Part year,UTTARAKHAND,Uttarakhand,North,More than 35,1834
+2018-19,2018-19,Year,UTTARAKHAND,Uttarakhand,North,More than 35,8864
+2019-20,2019-20,Year,UTTARAKHAND,Uttarakhand,North,More than 35,13329
+2020-21,2020-21,Year,UTTARAKHAND,Uttarakhand,North,More than 35,18356
+2021-22,2021-22,Year,UTTARAKHAND,Uttarakhand,North,More than 35,20570
+2022-23,2022-23,Year,UTTARAKHAND,Uttarakhand,North,More than 35,27899
+2023-24,2023-24,Year,UTTARAKHAND,Uttarakhand,North,More than 35,28897
+2024-25,2024-25,Year,UTTARAKHAND,Uttarakhand,North,More than 35,26019
+2025-26,Apr 2025,Month,UTTARAKHAND,Uttarakhand,North,More than 35,3794
+2025-26,May 2025,Month,UTTARAKHAND,Uttarakhand,North,More than 35,4342
+2025-26,Jun 2025,Month,UTTARAKHAND,Uttarakhand,North,More than 35,3585
+2025-26,Jul 2025,Month,UTTARAKHAND,Uttarakhand,North,More than 35,5356
+2017-18,2017-18 (Sep-Mar),Part year,CHANDIGARH,Chandigarh,North,More than 35,897
+2018-19,2018-19,Year,CHANDIGARH,Chandigarh,North,More than 35,9320
+2019-20,2019-20,Year,CHANDIGARH,Chandigarh,North,More than 35,7599
+2020-21,2020-21,Year,CHANDIGARH,Chandigarh,North,More than 35,12061
+2021-22,2021-22,Year,CHANDIGARH,Chandigarh,North,More than 35,21883
+2022-23,2022-23,Year,CHANDIGARH,Chandigarh,North,More than 35,28853
+2023-24,2023-24,Year,CHANDIGARH,Chandigarh,North,More than 35,25765
+2024-25,2024-25,Year,CHANDIGARH,Chandigarh,North,More than 35,27782
+2025-26,Apr 2025,Month,CHANDIGARH,Chandigarh,North,More than 35,5307
+2025-26,May 2025,Month,CHANDIGARH,Chandigarh,North,More than 35,2861
+2025-26,Jun 2025,Month,CHANDIGARH,Chandigarh,North,More than 35,4175
+2025-26,Jul 2025,Month,CHANDIGARH,Chandigarh,North,More than 35,5223
+2017-18,2017-18 (Sep-Mar),Part year,HIMACHAL PRADESH,Himachal Pradesh,North,More than 35,-652
+2018-19,2018-19,Year,HIMACHAL PRADESH,Himachal Pradesh,North,More than 35,4926
+2019-20,2019-20,Year,HIMACHAL PRADESH,Himachal Pradesh,North,More than 35,7456
+2020-21,2020-21,Year,HIMACHAL PRADESH,Himachal Pradesh,North,More than 35,10645
+2021-22,2021-22,Year,HIMACHAL PRADESH,Himachal Pradesh,North,More than 35,11171
+2022-23,2022-23,Year,HIMACHAL PRADESH,Himachal Pradesh,North,More than 35,12764
+2023-24,2023-24,Year,HIMACHAL PRADESH,Himachal Pradesh,North,More than 35,10859
+2024-25,2024-25,Year,HIMACHAL PRADESH,Himachal Pradesh,North,More than 35,11963
+2025-26,Apr 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,More than 35,1854
+2025-26,May 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,More than 35,1497
+2025-26,Jun 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,More than 35,2041
+2025-26,Jul 2025,Month,HIMACHAL PRADESH,Himachal Pradesh,North,More than 35,2712
+2017-18,2017-18 (Sep-Mar),Part year,ASSAM,Assam,North East,More than 35,5199
+2018-19,2018-19,Year,ASSAM,Assam,North East,More than 35,10955
+2019-20,2019-20,Year,ASSAM,Assam,North East,More than 35,11235
+2020-21,2020-21,Year,ASSAM,Assam,North East,More than 35,8481
+2021-22,2021-22,Year,ASSAM,Assam,North East,More than 35,6588
+2022-23,2022-23,Year,ASSAM,Assam,North East,More than 35,17983
+2023-24,2023-24,Year,ASSAM,Assam,North East,More than 35,12658
+2024-25,2024-25,Year,ASSAM,Assam,North East,More than 35,-5355
+2025-26,Apr 2025,Month,ASSAM,Assam,North East,More than 35,-331
+2025-26,May 2025,Month,ASSAM,Assam,North East,More than 35,1701
+2025-26,Jun 2025,Month,ASSAM,Assam,North East,More than 35,1271
+2025-26,Jul 2025,Month,ASSAM,Assam,North East,More than 35,1906
+2017-18,2017-18 (Sep-Mar),Part year,JAMMU AND KASHMIR,Jammu and Kashmir,North,More than 35,0
+2018-19,2018-19,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,More than 35,0
+2019-20,2019-20,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,More than 35,29057
+2020-21,2020-21,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,More than 35,6714
+2021-22,2021-22,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,More than 35,6921
+2022-23,2022-23,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,More than 35,8452
+2023-24,2023-24,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,More than 35,7544
+2024-25,2024-25,Year,JAMMU AND KASHMIR,Jammu and Kashmir,North,More than 35,8939
+2025-26,Apr 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,More than 35,1434
+2025-26,May 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,More than 35,1047
+2025-26,Jun 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,More than 35,989
+2025-26,Jul 2025,Month,JAMMU AND KASHMIR,Jammu and Kashmir,North,More than 35,1161
+2017-18,2017-18 (Sep-Mar),Part year,KERALA,Kerala,South,More than 35,-11503
+2018-19,2018-19,Year,KERALA,Kerala,South,More than 35,-2579
+2019-20,2019-20,Year,KERALA,Kerala,South,More than 35,2609
+2020-21,2020-21,Year,KERALA,Kerala,South,More than 35,-5355
+2021-22,2021-22,Year,KERALA,Kerala,South,More than 35,7502
+2022-23,2022-23,Year,KERALA,Kerala,South,More than 35,21333
+2023-24,2023-24,Year,KERALA,Kerala,South,More than 35,17892
+2024-25,2024-25,Year,KERALA,Kerala,South,More than 35,14899
+2025-26,Apr 2025,Month,KERALA,Kerala,South,More than 35,970
+2025-26,May 2025,Month,KERALA,Kerala,South,More than 35,-2723
+2025-26,Jun 2025,Month,KERALA,Kerala,South,More than 35,5457
+2025-26,Jul 2025,Month,KERALA,Kerala,South,More than 35,5569
+2017-18,2017-18 (Sep-Mar),Part year,GOA,Goa,West,More than 35,282
+2018-19,2018-19,Year,GOA,Goa,West,More than 35,2432
+2019-20,2019-20,Year,GOA,Goa,West,More than 35,4038
+2020-21,2020-21,Year,GOA,Goa,West,More than 35,6628
+2021-22,2021-22,Year,GOA,Goa,West,More than 35,6147
+2022-23,2022-23,Year,GOA,Goa,West,More than 35,9477
+2023-24,2023-24,Year,GOA,Goa,West,More than 35,7742
+2024-25,2024-25,Year,GOA,Goa,West,More than 35,8027
+2025-26,Apr 2025,Month,GOA,Goa,West,More than 35,1200
+2025-26,May 2025,Month,GOA,Goa,West,More than 35,804
+2025-26,Jun 2025,Month,GOA,Goa,West,More than 35,1006
+2025-26,Jul 2025,Month,GOA,Goa,West,More than 35,1347
+2017-18,2017-18 (Sep-Mar),Part year,TRIPURA,Tripura,North East,More than 35,279
+2018-19,2018-19,Year,TRIPURA,Tripura,North East,More than 35,32
+2019-20,2019-20,Year,TRIPURA,Tripura,North East,More than 35,538
+2020-21,2020-21,Year,TRIPURA,Tripura,North East,More than 35,504
+2021-22,2021-22,Year,TRIPURA,Tripura,North East,More than 35,759
+2022-23,2022-23,Year,TRIPURA,Tripura,North East,More than 35,355
+2023-24,2023-24,Year,TRIPURA,Tripura,North East,More than 35,1027
+2024-25,2024-25,Year,TRIPURA,Tripura,North East,More than 35,995
+2025-26,Apr 2025,Month,TRIPURA,Tripura,North East,More than 35,139
+2025-26,May 2025,Month,TRIPURA,Tripura,North East,More than 35,98
+2025-26,Jun 2025,Month,TRIPURA,Tripura,North East,More than 35,213
+2025-26,Jul 2025,Month,TRIPURA,Tripura,North East,More than 35,126
+2017-18,2017-18 (Sep-Mar),Part year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,More than 35,-643
+2018-19,2018-19,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,More than 35,747
+2019-20,2019-20,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,More than 35,363
+2020-21,2020-21,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,More than 35,549
+2021-22,2021-22,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,More than 35,349
+2022-23,2022-23,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,More than 35,717
+2023-24,2023-24,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,More than 35,804
+2024-25,2024-25,Year,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,More than 35,520
+2025-26,Apr 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,More than 35,65
+2025-26,May 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,More than 35,-65
+2025-26,Jun 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,More than 35,75
+2025-26,Jul 2025,Month,ANDAMAN AND NICOBAR ISLANDS,Andaman and Nicobar Islands,South,More than 35,1
+2017-18,2017-18 (Sep-Mar),Part year,MANIPUR,Manipur,North East,More than 35,244
+2018-19,2018-19,Year,MANIPUR,Manipur,North East,More than 35,146
+2019-20,2019-20,Year,MANIPUR,Manipur,North East,More than 35,665
+2020-21,2020-21,Year,MANIPUR,Manipur,North East,More than 35,275
+2021-22,2021-22,Year,MANIPUR,Manipur,North East,More than 35,253
+2022-23,2022-23,Year,MANIPUR,Manipur,North East,More than 35,568
+2023-24,2023-24,Year,MANIPUR,Manipur,North East,More than 35,198
+2024-25,2024-25,Year,MANIPUR,Manipur,North East,More than 35,401
+2025-26,Apr 2025,Month,MANIPUR,Manipur,North East,More than 35,130
+2025-26,May 2025,Month,MANIPUR,Manipur,North East,More than 35,-1
+2025-26,Jun 2025,Month,MANIPUR,Manipur,North East,More than 35,27
+2025-26,Jul 2025,Month,MANIPUR,Manipur,North East,More than 35,29
+2017-18,2017-18 (Sep-Mar),Part year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,More than 35,325
+2018-19,2018-19,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,More than 35,213
+2019-20,2019-20,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,More than 35,202
+2020-21,2020-21,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,More than 35,210
+2021-22,2021-22,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,More than 35,196
+2022-23,2022-23,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,More than 35,833
+2023-24,2023-24,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,More than 35,434
+2024-25,2024-25,Year,ARUNACHAL PRADESH,Arunachal Pradesh,North East,More than 35,171
+2025-26,Apr 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,More than 35,16
+2025-26,May 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,More than 35,-13
+2025-26,Jun 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,More than 35,7
+2025-26,Jul 2025,Month,ARUNACHAL PRADESH,Arunachal Pradesh,North East,More than 35,28
+2017-18,2017-18 (Sep-Mar),Part year,MEGHALAYA,Meghalaya,North East,More than 35,193
+2018-19,2018-19,Year,MEGHALAYA,Meghalaya,North East,More than 35,984
+2019-20,2019-20,Year,MEGHALAYA,Meghalaya,North East,More than 35,401
+2020-21,2020-21,Year,MEGHALAYA,Meghalaya,North East,More than 35,40
+2021-22,2021-22,Year,MEGHALAYA,Meghalaya,North East,More than 35,375
+2022-23,2022-23,Year,MEGHALAYA,Meghalaya,North East,More than 35,431
+2023-24,2023-24,Year,MEGHALAYA,Meghalaya,North East,More than 35,195
+2024-25,2024-25,Year,MEGHALAYA,Meghalaya,North East,More than 35,-736
+2025-26,Apr 2025,Month,MEGHALAYA,Meghalaya,North East,More than 35,45
+2025-26,May 2025,Month,MEGHALAYA,Meghalaya,North East,More than 35,36
+2025-26,Jun 2025,Month,MEGHALAYA,Meghalaya,North East,More than 35,80
+2025-26,Jul 2025,Month,MEGHALAYA,Meghalaya,North East,More than 35,84
+2017-18,2017-18 (Sep-Mar),Part year,LADAKH,Ladakh,North,More than 35,0
+2018-19,2018-19,Year,LADAKH,Ladakh,North,More than 35,0
+2019-20,2019-20,Year,LADAKH,Ladakh,North,More than 35,123
+2020-21,2020-21,Year,LADAKH,Ladakh,North,More than 35,85
+2021-22,2021-22,Year,LADAKH,Ladakh,North,More than 35,277
+2022-23,2022-23,Year,LADAKH,Ladakh,North,More than 35,174
+2023-24,2023-24,Year,LADAKH,Ladakh,North,More than 35,107
+2024-25,2024-25,Year,LADAKH,Ladakh,North,More than 35,98
+2025-26,Apr 2025,Month,LADAKH,Ladakh,North,More than 35,42
+2025-26,May 2025,Month,LADAKH,Ladakh,North,More than 35,117
+2025-26,Jun 2025,Month,LADAKH,Ladakh,North,More than 35,57
+2025-26,Jul 2025,Month,LADAKH,Ladakh,North,More than 35,16
+2017-18,2017-18 (Sep-Mar),Part year,MIZORAM,Mizoram,North East,More than 35,5
+2018-19,2018-19,Year,MIZORAM,Mizoram,North East,More than 35,80
+2019-20,2019-20,Year,MIZORAM,Mizoram,North East,More than 35,11
+2020-21,2020-21,Year,MIZORAM,Mizoram,North East,More than 35,63
+2021-22,2021-22,Year,MIZORAM,Mizoram,North East,More than 35,-16
+2022-23,2022-23,Year,MIZORAM,Mizoram,North East,More than 35,-25
+2023-24,2023-24,Year,MIZORAM,Mizoram,North East,More than 35,36
+2024-25,2024-25,Year,MIZORAM,Mizoram,North East,More than 35,179
+2025-26,Apr 2025,Month,MIZORAM,Mizoram,North East,More than 35,2
+2025-26,May 2025,Month,MIZORAM,Mizoram,North East,More than 35,-22
+2025-26,Jun 2025,Month,MIZORAM,Mizoram,North East,More than 35,8
+2025-26,Jul 2025,Month,MIZORAM,Mizoram,North East,More than 35,-5
+2017-18,2017-18 (Sep-Mar),Part year,NAGALAND,Nagaland,North East,More than 35,-168
+2018-19,2018-19,Year,NAGALAND,Nagaland,North East,More than 35,57
+2019-20,2019-20,Year,NAGALAND,Nagaland,North East,More than 35,-3
+2020-21,2020-21,Year,NAGALAND,Nagaland,North East,More than 35,-148
+2021-22,2021-22,Year,NAGALAND,Nagaland,North East,More than 35,-80
+2022-23,2022-23,Year,NAGALAND,Nagaland,North East,More than 35,211
+2023-24,2023-24,Year,NAGALAND,Nagaland,North East,More than 35,61
+2024-25,2024-25,Year,NAGALAND,Nagaland,North East,More than 35,-83
+2025-26,Apr 2025,Month,NAGALAND,Nagaland,North East,More than 35,23
+2025-26,May 2025,Month,NAGALAND,Nagaland,North East,More than 35,9
+2025-26,Jun 2025,Month,NAGALAND,Nagaland,North East,More than 35,68
+2025-26,Jul 2025,Month,NAGALAND,Nagaland,North East,More than 35,-11

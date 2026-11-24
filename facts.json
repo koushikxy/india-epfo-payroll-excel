@@ -1,0 +1,153 @@
+{
+  "india_by_year": {
+    "value": {
+      "2018-19": 6112223,
+      "2019-20": 7858394,
+      "2020-21": 7708375,
+      "2021-22": 12234625,
+      "2022-23": 13851689,
+      "2023-24": 13148204,
+      "2024-25": 12978168
+    },
+    "code": "y.groupby('FY').NetPayroll.sum()"
+  },
+  "india_2024_25_vs_2022_23_pct": {
+    "value": -6.3,
+    "code": "t['2024-25'] / t['2022-23'] - 1"
+  },
+  "india_2024_25_vs_2018_19_times": {
+    "value": 2.12,
+    "code": "t['2024-25'] / t['2018-19']"
+  },
+  "india_2021_22_vs_2020_21_pct": {
+    "value": 58.7,
+    "code": "t['2021-22'] / t['2020-21'] - 1"
+  },
+  "share_18_25_by_year_pct": {
+    "value": {
+      "2018-19": 67.3,
+      "2019-20": 60.3,
+      "2020-21": 55.1,
+      "2021-22": 52.1,
+      "2022-23": 49.5,
+      "2023-24": 49.7,
+      "2024-25": 49.1
+    },
+    "code": "18-21 plus 22-25 / all ages, by year"
+  },
+  "aged_26_plus_2018_19": {
+    "value": 1902444,
+    "code": "26-28 + 29-35 + More than 35, 2018-19"
+  },
+  "aged_26_plus_2024_25": {
+    "value": 6537029,
+    "code": "26-28 + 29-35 + More than 35, 2024-25"
+  },
+  "aged_18_25_2018_19": {
+    "value": 4114703,
+    "code": "18-21 + 22-25, 2018-19"
+  },
+  "aged_18_25_2024_25": {
+    "value": 6370828,
+    "code": "18-21 + 22-25, 2024-25"
+  },
+  "top5_states_2024_25": {
+    "value": [
+      "Maharashtra",
+      "Tamil Nadu",
+      "Karnataka",
+      "Gujarat",
+      "Haryana"
+    ],
+    "code": "share.sort_values(ascending=False).head(5).index"
+  },
+  "top5_share_2024_25_pct": {
+    "value": 58.3,
+    "code": "top5.sum()"
+  },
+  "maharashtra_share_pct": {
+    "value": {
+      "2018-19": 25.8,
+      "2024-25": 22.1
+    },
+    "code": "Maharashtra / India"
+  },
+  "maharashtra_2024_25": {
+    "value": 2862264,
+    "code": "s.loc['Maharashtra','2024-25']"
+  },
+  "states_below_peak_count": {
+    "value": 26,
+    "code": "count of states with 2024-25 below 2022-23"
+  },
+  "states_count": {
+    "value": 32,
+    "code": "states and UTs in the EPFO tables"
+  },
+  "change_from_peak_pct": {
+    "value": {
+      "Uttar Pradesh": 5.1,
+      "Odisha": 3.3,
+      "Telangana": 1.0,
+      "Jharkhand": 37.9,
+      "Tamil Nadu": -10.7,
+      "Andhra Pradesh": -15.5,
+      "Uttarakhand": -21.4,
+      "Punjab": -30.8
+    },
+    "code": "s['2024-25'] / s['2022-23'] - 1"
+  },
+  "times_2018_19": {
+    "value": {
+      "Odisha": 6.38,
+      "Uttar Pradesh": 3.09,
+      "Haryana": 2.97,
+      "Maharashtra": 1.82,
+      "West Bengal": 1.74
+    },
+    "code": "s['2024-25'] / s['2018-19']"
+  },
+  "share_18_25_2024_25_by_state_pct": {
+    "value": {
+      "Karnataka": 60.0,
+      "Bihar": 60.2,
+      "Maharashtra": 49.3,
+      "Tamil Nadu": 50.9,
+      "Odisha": 38.9,
+      "Jharkhand": 24.6
+    },
+    "code": "(18-21 + 22-25) / all ages, 2024-25"
+  },
+  "bihar_over35": {
+    "value": {
+      "2019-20": 25182,
+      "2020-21": 250428,
+      "2021-22": 24075
+    },
+    "code": "Bihar, More than 35"
+  },
+  "jharkhand_over35": {
+    "value": {
+      "2023-24": 32805,
+      "2024-25": 85378
+    },
+    "code": "Jharkhand, More than 35"
+  },
+  "jharkhand_change_excl_over35_pct": {
+    "value": 2.5,
+    "code": "Jharkhand without More than 35, 2024-25 vs 2022-23"
+  },
+  "apr_jul_2025": {
+    "value": {
+      "Apr 2025": 1431642,
+      "Jul 2025": 2104360,
+      "Jun 2025": 1904535,
+      "May 2025": 1462469
+    },
+    "code": "monthly totals Apr-Jul 2025"
+  },
+  "rows_clean": {
+    "value": 2304,
+    "code": "len(payroll_clean.csv)"
+  }
+}
